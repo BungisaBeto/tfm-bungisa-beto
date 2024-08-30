@@ -1,0 +1,2541 @@
+{
+    "elementList": [
+        {
+            "propertyCode": "87836041",
+            "thumbnail": "https://img4.idealista.com/blur/WEB_LISTING/0/id.pro.es.image.master/37/44/ba/732090279.webp",
+            "numPhotos": 19,
+            "price": 315000.0,
+            "priceInfo": {
+                "price": {
+                    "amount": 315000.0
+                }
+            },
+            "propertyType": "chalet",
+            "operation": "sale",
+            "size": 120.0,
+            "rooms": 3,
+            "bathrooms": 0,
+            "address": "Gargantilla, 1",
+            "province": "Madrid",
+            "municipality": "Hoyo de Manzanares",
+            "country": "es",
+            "latitude": 40.627342,
+            "longitude": -3.9078299,
+            "showAddress": true,
+            "url": "https://www.idealista.com/inmueble/87836041/",
+            "description": "PROMOCIÓN Y GESTIÓN INMOBILIARIA HOYO DE MANZANARES vende, sin cobrar honorarios al comprador, PARCELA DE TERRENO de 1.002m² en la \"Gargantilla\". Totalmente vallada y con todos los servicios en el lindero a calle. La CONSTRUCCIÓN EXISTENTE en planta semisótano-baja forma parte de las obras contenidas en un proyecto que obtuvo licencia, hace años, del Ayuntamiento El proyecto que obtuvo licencia, está a disposición del comprador por si desea darle continuidad o modificarlo. Ocupación máxima 15% y Edificabilidad máxima 30%. Hoyo de Manzanares es un municipio de la provincia y Comunidad de Madrid, situado al noroeste de dicha Comunidad, junto a la vertiente sur de la Sierra de Guadarrama. Tiene una población estable de 8.032 habitantes, cifra que aumenta en verano debido a la afluencia de familias con segunda residencia en esta localidad, si bien esta tendencia es cada vez menor al instalarse de forma permanente muchas familias. El municipio se encuentra dentro del Parque Regional de la Cuenca Alta del Manzanares que, con una extensión de 52.796 hectáreas, fue creado por la Comunidad de Madrid en 1985. Además, este espacio es Reserva de la Biosfera desde el 15 de febrero de 1993, y está catalogado como Lugar de Importancia Comunitaria en cumplimiento de la Directiva de Hábitats. El municipio está atravesado por la carretera M-618 que lo comunica con Torrelodones y Colmenar Viejo y una segunda carretera que tiene consideración de Avenida a pesar de que sale del casco urbano lo conecta con la Ciudad Residencial La Berzosa, urbanización perteneciente al municipio y separada del casco urbano al igual que la Urbanización Las Colinas, situada entre este municipio y Torrelodones. \"  Precio.",
+            "hasVideo": true,
+            "status": "renew",
+            "newDevelopment": false,
+            "priceByArea": 2625.0,
+            "detailedType": {
+                "typology": "chalet",
+                "subTypology": "independantHouse"
+            },
+            "suggestedTexts": {
+                "subtitle": "Hoyo de Manzanares",
+                "title": "Casa independiente en Gargantilla, 1"
+            },
+            "hasPlan": false,
+            "has3DTour": true,
+            "has360": false,
+            "hasStaging": false,
+            "topNewDevelopment": false,
+            "topPlus": false
+        },
+        {
+            "propertyCode": "88018084",
+            "thumbnail": "https://img4.idealista.com/blur/WEB_LISTING/0/id.pro.es.image.master/39/c4/d4/988587560.webp",
+            "externalReference": "5435",
+            "numPhotos": 42,
+            "price": 3100000.0,
+            "priceInfo": {
+                "price": {
+                    "amount": 3100000.0
+                }
+            },
+            "propertyType": "chalet",
+            "operation": "sale",
+            "size": 522.0,
+            "rooms": 4,
+            "bathrooms": 5,
+            "address": "avenida de los Madroños",
+            "province": "Madrid",
+            "municipality": "Madrid",
+            "district": "Hortaleza",
+            "country": "es",
+            "neighborhood": "Conde Orgaz-Piovera",
+            "latitude": 40.4541135,
+            "longitude": -3.6329056,
+            "showAddress": false,
+            "url": "https://www.idealista.com/inmueble/88018084/",
+            "description": "Olga Payá GV | CONDE DE ORGAZ comercializa el siguiente inmueble: En el Parque Conde de Orgaz, zona residencial de lujo en Madrid, se encuentra este precioso chalet adosado de 522 metros cuadrados construidos sobre 696 metros cuadrados de parcela. Con una coqueta piscina en el cuidado jardín, la vivienda destaca por su estilo sólido a la vez que por su luminosidad y amplitud de espacios. DISTRIBUCIÓN Planta baja: Hall de entrada, aseo de cortesía. Salón, comedor, cuarto de estar. Cocina con office. Planta primera: Dos cuartos de dormir en suite con vestidor y baño incorporado. Planta segunda: Cuarto de dormir en suite con baño. Planta semi sótano: Cuarto de lavado, cuarto de servicio con baño. Gimnasio. Bodega. Garaje para dos coches. Un porcentaje importante de nuestros inmuebles no aparecen publicados en idealista por expreso deseo de los propietarios. Para más información sobre más propiedades en esta zona entre en nuestra página web.",
+            "hasVideo": false,
+            "status": "good",
+            "newDevelopment": false,
+            "parkingSpace": {
+                "hasParkingSpace": true,
+                "isParkingSpaceIncludedInPrice": true
+            },
+            "priceByArea": 5939.0,
+            "detailedType": {
+                "typology": "chalet",
+                "subTypology": "terracedHouse"
+            },
+            "suggestedTexts": {
+                "subtitle": "Conde Orgaz-Piovera, Madrid",
+                "title": "Chalet adosado en avenida de los Madroños"
+            },
+            "hasPlan": false,
+            "has3DTour": false,
+            "has360": false,
+            "hasStaging": false,
+            "topNewDevelopment": false,
+            "topPlus": false
+        },
+        {
+            "propertyCode": "88204510",
+            "thumbnail": "https://img4.idealista.com/blur/WEB_LISTING/0/id.pro.es.image.master/5a/f3/8a/895093059.webp",
+            "externalReference": "V3581I",
+            "numPhotos": 51,
+            "price": 1.04E7,
+            "priceInfo": {
+                "price": {
+                    "amount": 1.04E7
+                }
+            },
+            "propertyType": "chalet",
+            "operation": "sale",
+            "size": 1420.0,
+            "rooms": 9,
+            "bathrooms": 11,
+            "address": "La Moraleja urbanización",
+            "province": "Madrid",
+            "municipality": "La Moraleja",
+            "district": "La Moraleja urbanización",
+            "country": "es",
+            "latitude": 40.5241385,
+            "longitude": -3.6294591,
+            "showAddress": false,
+            "url": "https://www.idealista.com/inmueble/88204510/",
+            "description": "Venta. Casa independiente. La Moraleja. Espectacular propiedad de 1420metros cuadrados construidos aproximados sobre bellísima parcela de 10.000 metros cuadrados, totalmente privada, orientada a sur y con una localización realmente única. Ofrece 7 dormitorios principales con 7 baños y dos dormitorios destinados al personal de la casa. Esta casa de marcada arquitectura tradicional se compone de una casa principal, un apartamento independiente sin conexión física con la casa y un porche exterior muy ligado a la piscina. Se encuentra en perfecto estado y en su construcción se han empleado sistemas y materiales de la máxima categoría. Vivienda independiente unifamiliar de alto nivel desarrollada y construida por los actuales propietarios a lo largo de tres años. La propiedad principal se articula en dos plantas y sótano. La planta principal se desarrolla en perfecta simetría y gira, al igual que la primera planta, en torno a dos octógonos que marcan los ejes fundamentales de la vivienda. A partir del hall se reparten los tres recorridos principales: a la espectacular zona de recibo compuesta de salón en doble altura (grandilocuente el volumen de esta estancia) con chimenea, el comedor individual y una sala de estar mas privada. Desde el hall también tenemos un acceso directo a cocina, zona de servicio y coqueto comedor de diario. La ultima opción que nos ofrece el hall es un acceso al gimnasio, un dormitorio de invitados, al ascensor y a un despacho. La planta superior (zona blindada) alberga los dormitorios principales destinados a la familia: 4 con 4 baños y un amplio despacho. El principal disfruta de bonitas vistas sobre el jardín y tiene amplios vestidores. A esta planta se puede acceder en ascensor. La planta sótano es amplia y luminosa, pues debido a su configuración, tiene acceso directo a un patio y al jardín. Esta planta ofrece múltiples opciones de ocio como una moderna bodega acristalada, un horno de leña, billar, sala de estar y dos almacenes. La casa cuenta con garaje cubierto para 3 vehículos y otra ubicación exterior para cinco mas. La calefacción es por suelo radiante alimentado por gas natural y tiene bomba de calor (frio/calor). La casa también dispone de aspiración centralizada y sistema domótico. Férreo sistema de seguridad interior y exterior. Casa única. Probablemente La Moraleja sea la urbanización residencial de lujo más conocida de España. Los muchos personajes famosos que la han elegido como residencia habitual son responsables de su importante presencia mediática. Situada al norte de Madrid, en el término municipal de Alcobendas, tiene una extensión de 950 hectáreas. Cuenta con 1050 viviendas independientes sobre parcelas de 1.500, 2.500 y 10.000 m2 y con 400 adosados en 9 urbanizaciones diferentes. Tanto su estratégica ubicación -a un paso del centro de la capital (12km) y a escasos kilómetros del aeropuerto de Barajas (5km)- como sus férreas medidas de seguridad y sus muchas opciones de escolarización privada, ocio, deporte y salud, han convertido La Moraleja en un referente residencial en nuestro país.  Junto a las urbanizaciones de El Soto y El Encinar, conforman un núcleo geográfico de similares características demográficas. Su código postal es el 28109. Es aquí, en la plaza de La Moraleja (junto a la farmacia), donde Promora atiende a los clientes que quieren acceder a las viviendas de la zona norte de Madrid. En Idealista sólo podrá ver algunos de nuestros inmuebles, entre en nuestra web y conozca toda nuestra oferta.",
+            "hasVideo": true,
+            "status": "good",
+            "newDevelopment": false,
+            "parkingSpace": {
+                "hasParkingSpace": true,
+                "isParkingSpaceIncludedInPrice": true
+            },
+            "priceByArea": 7324.0,
+            "detailedType": {
+                "typology": "chalet",
+                "subTypology": "independantHouse"
+            },
+            "suggestedTexts": {
+                "subtitle": "La Moraleja urbanización, La Moraleja",
+                "title": "Casa independiente"
+            },
+            "hasPlan": true,
+            "has3DTour": true,
+            "has360": false,
+            "hasStaging": true,
+            "highlight": {
+                "groupDescription": "Top"
+            },
+            "topNewDevelopment": false,
+            "topPlus": false
+        },
+        {
+            "propertyCode": "35089188",
+            "thumbnail": "https://img4.idealista.com/blur/WEB_LISTING/90/id.pro.es.image.master/44/a5/0c/744341438.webp",
+            "externalReference": "ENRIQUE ÁLVAREZ",
+            "numPhotos": 7,
+            "price": 1900000.0,
+            "priceInfo": {
+                "price": {
+                    "amount": 1900000.0,
+                    "priceDropInfo": {
+                        "formerPrice": 2000000.0,
+                        "priceDropValue": 100000,
+                        "priceDropPercentage": 5
+                    }
+                }
+            },
+            "propertyType": "chalet",
+            "operation": "sale",
+            "size": 550.0,
+            "rooms": 5,
+            "bathrooms": 5,
+            "address": "paseo club deportivo s/n",
+            "province": "Madrid",
+            "municipality": "Pozuelo de Alarcón",
+            "district": "Zona Prado de Somosaguas - La Finca",
+            "country": "es",
+            "neighborhood": "La Finca",
+            "latitude": 40.4201903,
+            "longitude": -3.8063945,
+            "showAddress": true,
+            "url": "https://www.idealista.com/inmueble/35089188/",
+            "description": "EAB Propiedades Inmobiliarias vende este precioso chalet en la urbanización de La Finca, en perfecto estado de conservación, muy cuidado y con grandes reformas, muy pocos como este, reformado por completo hace un año y medio, planta sótano ampliada y con preciosa reforma integral, jardín muy cuidado. Oportunidad de comprar sin tener que hacer nada para entrar a vivir.",
+            "hasVideo": false,
+            "status": "good",
+            "newDevelopment": false,
+            "parkingSpace": {
+                "hasParkingSpace": true,
+                "isParkingSpaceIncludedInPrice": true
+            },
+            "priceByArea": 3455.0,
+            "detailedType": {
+                "typology": "chalet",
+                "subTypology": "terracedHouse"
+            },
+            "suggestedTexts": {
+                "subtitle": "La Finca, Pozuelo de Alarcón",
+                "title": "Chalet adosado en paseo club deportivo s/n"
+            },
+            "hasPlan": false,
+            "has3DTour": false,
+            "has360": false,
+            "hasStaging": false,
+            "topNewDevelopment": false,
+            "topPlus": false
+        },
+        {
+            "propertyCode": "88332306",
+            "thumbnail": "https://img4.idealista.com/blur/WEB_LISTING/0/id.pro.es.image.master/54/50/06/744222568.webp",
+            "externalReference": "13310",
+            "numPhotos": 44,
+            "price": 3100000.0,
+            "priceInfo": {
+                "price": {
+                    "amount": 3100000.0
+                }
+            },
+            "propertyType": "chalet",
+            "operation": "sale",
+            "size": 600.0,
+            "rooms": 7,
+            "bathrooms": 5,
+            "address": "barrio Conde Orgaz-Piovera",
+            "province": "Madrid",
+            "municipality": "Madrid",
+            "district": "Hortaleza",
+            "country": "es",
+            "neighborhood": "Conde Orgaz-Piovera",
+            "latitude": 40.4557135,
+            "longitude": -3.6294056,
+            "showAddress": false,
+            "url": "https://www.idealista.com/inmueble/88332306/",
+            "description": "Suma Inmobiliaria le ofrece el siguiente chalet con referencia 13310: Gran chalet pareado con sensación de independiente en Conde de Orgaz con orientación sur y mucha luz en todas sus estancias. 700 m2 de parcela con jardín y piscina. Salón comedor muy amplio, dividido en varios ambientes con chimenea salida al porche y jardín trasero. Habitación independiente para despacho o cuarto de estar. Porche delantero con orientación sur ideal para disfrutar en invierno. cocina con zona office y salida al jardín. Aseo de cortesía.  Planta Primera: 2 grandes dormitorios que se pueden reconvertir en tres o cuatro. Dormitorio principal con baño en suite y vestidor que conecta con un dormitorio que se utiliza como despacho. Segundo dormitorio de unos 40 m2 con vestidor y baño en suite.  Buhardilla: Un amplio dormitorio con baño que puede ser utilizado de salón de juegos. Semi-sotano: dormitorio de invitado o cuarto de ocio, con entrada independiente. Ideal para un despacho profesional. Gran bodega con cocina y bar. Baño completo, cuarto de lavado y gimnasio. Garaje para tres coches. Jardín delantero con piscina y e intimo jardín trasero con porche cubierto y almacén. Por expreso deseo de algunos propietarios, algunos inmuebles que tenemos en esta zona solo están anunciados en nuestra web. Para verlos pinche por favor en el enlace adicional ubicado en la parte final del anuncio. MUCHAS DE NUESTRAS PROPIEDADES NO APARECEN EN IDEALISTA. CONSULTE EN NUESTRA PÁGINA WEB \"WWW. SUMAINMOBILIARIA. ES\" PARA VER MÁS VIVIENDAS EXCLUSIVAS. Real Estate Services Conde Orgaz- Arturo Soria- La Moraleja.",
+            "hasVideo": false,
+            "status": "good",
+            "newDevelopment": false,
+            "parkingSpace": {
+                "hasParkingSpace": true,
+                "isParkingSpaceIncludedInPrice": true
+            },
+            "priceByArea": 5167.0,
+            "detailedType": {
+                "typology": "chalet",
+                "subTypology": "semidetachedHouse"
+            },
+            "suggestedTexts": {
+                "subtitle": "Conde Orgaz-Piovera, Madrid",
+                "title": "Chalet pareado"
+            },
+            "hasPlan": false,
+            "has3DTour": false,
+            "has360": false,
+            "hasStaging": true,
+            "topNewDevelopment": false,
+            "topPlus": false
+        },
+        {
+            "propertyCode": "88433751",
+            "thumbnail": "https://img4.idealista.com/blur/WEB_LISTING/0/id.pro.es.image.master/24/62/9e/1153065846.webp",
+            "externalReference": "MORE-2681",
+            "numPhotos": 24,
+            "floor": "st",
+            "price": 161000.0,
+            "priceInfo": {
+                "price": {
+                    "amount": 161000.0
+                }
+            },
+            "propertyType": "flat",
+            "operation": "sale",
+            "size": 270.0,
+            "exterior": true,
+            "rooms": 3,
+            "bathrooms": 2,
+            "address": "calle San Ambrosio",
+            "province": "Madrid",
+            "municipality": "Madrid",
+            "district": "Carabanchel",
+            "country": "es",
+            "neighborhood": "San Isidro",
+            "latitude": 40.4028556,
+            "longitude": -3.7258137,
+            "showAddress": false,
+            "url": "https://www.idealista.com/inmueble/88433751/",
+            "description": "¿Deseas convertir la casa de tus sueños en una realidad? ¡Esta es tu oportunidad! Les ofrecemos en exclusiva esta magnífica vivienda en edificio residencial, que puedes adquirir en propiedad para reformar a tu gusto de una superficie de 270 m² bien distribuidos en amplio salón con cocina incorporada, 3 dormitorios y 2 cuartos de baño ubicado en la localidad de Madrid. Se encuentra en una urbanización privada con conserje, en el barrio de San Isidro. Madrid está situada en el corazón de la península ibérica, lejos de la costa, lo que le otorga un clima continental con veranos cálidos e inviernos fríos. La ciudad está atravesada por el río Manzanares y rodeada por colinas y sierras, como la Sierra de Guadarrama al noroeste. Madrid tiene una mezcla de arquitectura histórica y moderna. El centro histórico cuenta con calles empedradas, plazas encantadoras y edificios emblemáticos como el Palacio Real y la Plaza Mayor. Cuenta con una variedad de opciones en cuanto a los accesos. Las autovías A-1, A-2, A-3, A-4, A-5, A-6 y A-42 conectan Madrid con diferentes partes de España. Además, cuenta con un sistema de transporte público integral que incluye metro, autobuses y trenes de cercanías. ¿Quieres más información sobre esta vivienda?  No dudes en ponerte en contacto con nosotros. Más información rellenando el formulario de contacto o por teléfono. Portal es una plataforma inmobiliaria donde podrás acceder a miles de activos inmobiliarios de diferentes tipos como viviendas, locales comerciales, terrenos, nueva obra, tanto a nivel particular como para inversores. Portal cuenta con una amplia cartera de activos inmuebles tanto en España como en Portugal y Grecia. Inmueble acogido a la campaña “Home Summer Discount” Aprovecha nuestros magníficos descuentos hasta el 31 de agosto en una amplia selección de propiedades residenciales, tanto en zonas costeras como en el interior. ¡No dejes pasar esta oportunidad única! ¿Necesitas financiación? Te ofrecemos la posibilidad de financiaciones de hasta el 100% para la compra de este inmueble. Entra en Finanwin. com, haz tu simulación y obtén la mejor oferta para tu Hipoteca de la manera más ágil y sencilla.",
+            "hasVideo": false,
+            "status": "renew",
+            "newDevelopment": false,
+            "hasLift": false,
+            "priceByArea": 596.0,
+            "detailedType": {
+                "typology": "flat"
+            },
+            "suggestedTexts": {
+                "subtitle": "San Isidro, Madrid",
+                "title": "Piso en calle San Ambrosio"
+            },
+            "hasPlan": false,
+            "has3DTour": false,
+            "has360": false,
+            "hasStaging": true,
+            "topNewDevelopment": false,
+            "topPlus": false
+        },
+        {
+            "propertyCode": "88489607",
+            "thumbnail": "https://img4.idealista.com/blur/WEB_LISTING/0/id.pro.es.image.master/0b/c7/61/815567615.webp",
+            "externalReference": "BINEFAR 148000",
+            "numPhotos": 14,
+            "floor": "bj",
+            "price": 143000.0,
+            "priceInfo": {
+                "price": {
+                    "amount": 143000.0
+                }
+            },
+            "propertyType": "flat",
+            "operation": "sale",
+            "size": 45.0,
+            "exterior": true,
+            "rooms": 1,
+            "bathrooms": 1,
+            "address": "calle Binéfar",
+            "province": "Madrid",
+            "municipality": "Madrid",
+            "district": "Carabanchel",
+            "country": "es",
+            "neighborhood": "Vista Alegre",
+            "latitude": 40.3806924,
+            "longitude": -3.7493756,
+            "showAddress": false,
+            "url": "https://www.idealista.com/inmueble/88489607/",
+            "description": "¡No pierdas la oportunidad de hacerte con este moderno y acogedor apartamento en venta!  Esta vivienda reformada con menos de un año de antigüedad, cuenta con un amplio salón con cocina abierta, un dormitorio con armarios empotrados y un baño completo. Ubicado en una tranquila zona cercana a pequeños comercios, colegios, supermercados y zonas de ocio, es ideal tanto para parejas como para solteros.  Además, cuenta con acceso adaptado para personas con movilidad reducida y es apto para su uso por ellas.  Actualmente alquilado con contrato estable de 800€ al mes, es una excelente oportunidad de inversión.  ¡No lo pienses más y ven a visitarlo!",
+            "hasVideo": false,
+            "status": "good",
+            "newDevelopment": false,
+            "hasLift": true,
+            "priceByArea": 3178.0,
+            "detailedType": {
+                "typology": "flat"
+            },
+            "suggestedTexts": {
+                "subtitle": "Vista Alegre, Madrid",
+                "title": "Piso en calle Binéfar"
+            },
+            "hasPlan": false,
+            "has3DTour": false,
+            "has360": false,
+            "hasStaging": false,
+            "topNewDevelopment": false,
+            "topPlus": false
+        },
+        {
+            "propertyCode": "88584206",
+            "thumbnail": "https://img4.idealista.com/blur/WEB_LISTING/0/id.pro.es.image.master/f1/06/0a/1220691477.webp",
+            "externalReference": "W-02E887",
+            "numPhotos": 25,
+            "price": 885000.0,
+            "priceInfo": {
+                "price": {
+                    "amount": 885000.0
+                }
+            },
+            "propertyType": "duplex",
+            "operation": "sale",
+            "size": 218.0,
+            "exterior": true,
+            "rooms": 2,
+            "bathrooms": 0,
+            "address": "barrio Niño Jesús",
+            "province": "Madrid",
+            "municipality": "Madrid",
+            "district": "Retiro",
+            "country": "es",
+            "neighborhood": "Niño Jesús",
+            "latitude": 40.4105514,
+            "longitude": -3.6753344,
+            "showAddress": false,
+            "url": "https://www.idealista.com/inmueble/88584206/",
+            "description": "Piso en venta en Niño Jesús, Retiro Engel & Völkers, inmobiliaria de lujo, pone a la venta esta vivienda con una excepcional ubicación, a escasos metros de Menéndez Pelayo y junto al Parque de El Retiro, en el barrio de Niño Jesús.  Se trata de una vivienda dúplex a reformar, lo que da posibilidad a su nuevo propietario de realizar una fantástica reforma adaptada a sus necesidades y vivir en una de las mejores zonas de Madrid.  También es muy interesante para quienes busquen realizar una buena inversión.  La propiedad se encuentra en una de las mejores fincas del barrio de Niño Jesús, con muy buen portal, ascensor y portero físico. Dispone de plaza de garaje en la misma finca incluída en el precio. El distrito toma su nombre del emblemático “Parque de El Retiro”, uno de los pulmones verdes de Madrid. Sus jardines poseen múltiples paseos interiores, estanques y frondosas arboledas, siendo uno de los espacios más valorados para su disfrute así como para la práctica de deporte. El barrio de Niño Jesús alberga la Colonia de Retiro, con fantásticos chalets con jardines a un paso del emblemático parque y muy cerca de la más importante zona comercial de Madrid, la calle Serrano, en la cual se encuentran las más exclusivas tiendas de la ciudad. Tiene estupendas comunicaciones, con acceso a todos los medios de transporte, a 5 minutos de la estación de Atocha en coche y con acceso M-30 al aeropuerto. Es un barrio seguro y tranquilo, perfecto para inversores que deseen una propiedad en una de las zonas más emblemáticas de la ciudad, ideal familias que busquen una zona más residencial, así como para amantes del deporte, con instalaciones tanto privadas como públicas donde practicar diferentes actividades. La zona dispone de numerosos comercios y supermercados, colegios de alto nivel con grandes instalaciones, guarderías, y dos de los mejores hospitales públicos de la capital, Hospital Infantil Niño Jesús y Hospital Gregorio Marañón.",
+            "hasVideo": false,
+            "status": "renew",
+            "newDevelopment": false,
+            "hasLift": true,
+            "parkingSpace": {
+                "hasParkingSpace": true,
+                "isParkingSpaceIncludedInPrice": true
+            },
+            "priceByArea": 4060.0,
+            "detailedType": {
+                "typology": "flat",
+                "subTypology": "duplex"
+            },
+            "suggestedTexts": {
+                "subtitle": "Niño Jesús, Madrid",
+                "title": "Dúplex"
+            },
+            "hasPlan": true,
+            "has3DTour": false,
+            "has360": false,
+            "hasStaging": false,
+            "highlight": {
+                "groupDescription": "Destacado"
+            },
+            "topNewDevelopment": false,
+            "topPlus": false
+        },
+        {
+            "propertyCode": "88666192",
+            "thumbnail": "https://img4.idealista.com/blur/WEB_LISTING/0/id.pro.es.image.master/9d/3c/83/752264981.webp",
+            "numPhotos": 1,
+            "floor": "3",
+            "price": 245000.0,
+            "priceInfo": {
+                "price": {
+                    "amount": 245000.0
+                }
+            },
+            "propertyType": "flat",
+            "operation": "sale",
+            "size": 65.0,
+            "exterior": true,
+            "rooms": 2,
+            "bathrooms": 1,
+            "address": "Pisco de los Artilleros",
+            "province": "Madrid",
+            "municipality": "Madrid",
+            "district": "Moratalaz",
+            "country": "es",
+            "neighborhood": "Vinateros",
+            "latitude": 40.4070825,
+            "longitude": -3.6426114,
+            "showAddress": false,
+            "url": "https://www.idealista.com/inmueble/88666192/",
+            "description": "Oportunidad de inversión. Con rentabilidad del 5%. Este espectacular piso situado en TERCERA PLANTA SIN ASCENSOR, con posibilidad de su posterior instalación ya que se esta tratando en la junta de propietarios la aprobación para la instalación del mismo. Se distribuye en dos dormitorios con armarios empotrados, cocina con tendedero, gran salón - comedor con la terraza incorporada y un baño. La calefacción es centralizada y dispone de una puerta de entrada a la vivienda acorazada, portero automático y aparcamientos exteriores. Situada en una de las mejores zonas de Moratalaz. Estación de metro mas próxima (Artilleros L-9) a escasos cinco minutos, rodeada de jardines y con todos los servicios, colegios, comercios, centro de salud, autobuses (20-8-143) 1 minuto.",
+            "hasVideo": false,
+            "status": "good",
+            "newDevelopment": false,
+            "hasLift": false,
+            "priceByArea": 3769.0,
+            "detailedType": {
+                "typology": "flat"
+            },
+            "suggestedTexts": {
+                "subtitle": "Vinateros, Madrid",
+                "title": "Piso en Pisco de los Artilleros"
+            },
+            "hasPlan": false,
+            "has3DTour": false,
+            "has360": false,
+            "hasStaging": false,
+            "topNewDevelopment": false,
+            "topPlus": false
+        },
+        {
+            "propertyCode": "88689166",
+            "thumbnail": "https://img4.idealista.com/blur/WEB_LISTING/0/id.pro.es.image.master/69/88/69/1009779957.webp",
+            "externalReference": "5526",
+            "numPhotos": 30,
+            "price": 1600000.0,
+            "priceInfo": {
+                "price": {
+                    "amount": 1600000.0
+                }
+            },
+            "propertyType": "chalet",
+            "operation": "sale",
+            "size": 610.0,
+            "rooms": 5,
+            "bathrooms": 5,
+            "address": "mistral",
+            "province": "Madrid",
+            "municipality": "Pozuelo de Alarcón",
+            "district": "Zona Prado de Somosaguas - La Finca",
+            "country": "es",
+            "neighborhood": "La Finca",
+            "latitude": 40.4095629,
+            "longitude": -3.8045121,
+            "showAddress": false,
+            "url": "https://www.idealista.com/inmueble/88689166/",
+            "description": "Marta Gómez-Faíña de GV | LA FINCA comercializa el siguiente inmueble: En La Finca zona residencial de lujo en Madrid, se encuentra esta noble y estilosa vivienda unifamiliar de 610 metros cuadrados construidos. Con amplios espacios, jardín y piscina. La vivienda destaca por su luz y su magnifico entorno. Una gran elección para todos los que buscan una vivienda de lujo, amplia y tranquila, muy cerca del centro de Madrid. DISTRIBUCIÓN Planta entrada: Hall. Aseo de cortesía. Salón comedor, despacho. Cocina con office. Planta primera: Cuarto de dormir principal en suite con baño y vestidor. Dos cuartos de dormir comparten un baño. Buhardilla: Habitación con baño. Planta baja: Cuarto de lavado. Habitación de servicio con baño. Sala de estar de servicio. Trastero. Sótano: Garaje para seis coches. Trastero. Un porcentaje importante de nuestros inmuebles no aparecen publicados en idealista por expreso deseo de los propietarios. Para más información sobre más propiedades en esta zona entre en nuestra página web.",
+            "hasVideo": true,
+            "status": "good",
+            "newDevelopment": false,
+            "priceByArea": 2623.0,
+            "detailedType": {
+                "typology": "chalet",
+                "subTypology": "terracedHouse"
+            },
+            "suggestedTexts": {
+                "subtitle": "La Finca, Pozuelo de Alarcón",
+                "title": "Chalet adosado en mistral"
+            },
+            "hasPlan": true,
+            "has3DTour": true,
+            "has360": false,
+            "hasStaging": false,
+            "highlight": {
+                "groupDescription": "Top"
+            },
+            "topNewDevelopment": false,
+            "topPlus": false
+        },
+        {
+            "propertyCode": "88723692",
+            "thumbnail": "https://img4.idealista.com/blur/WEB_LISTING/0/id.pro.es.image.master/11/b3/9a/753654873.webp",
+            "externalReference": "0217",
+            "numPhotos": 33,
+            "price": 228000.0,
+            "priceInfo": {
+                "price": {
+                    "amount": 228000.0
+                }
+            },
+            "propertyType": "chalet",
+            "operation": "sale",
+            "size": 150.0,
+            "rooms": 4,
+            "bathrooms": 2,
+            "address": "Sauce",
+            "province": "Madrid",
+            "municipality": "Santa María de la Alameda",
+            "country": "es",
+            "latitude": 40.5958264,
+            "longitude": -4.2602149,
+            "showAddress": false,
+            "url": "https://www.idealista.com/inmueble/88723692/",
+            "description": "GRUPO A-UNO VENDE. Chalet independiente en dos plantas, con 800m2 de parcela, con infinitas posibilidades y buena orientación. Actualmente se encuentra dividido en dos viviendas independientes. En planta baja encontramos, salón comedor, cocina, dos dormitorios y cuarto de baño. En esta misma planta se encuentra la sala de la caldera y el garaje para un vehículo grande. En la planta superior encontramos el acceso por la terraza orientada al Sur completamente acristalada donde disfrutar de las vistas y la paz del campo. La vivienda tiene buen salón comedor, cocina moderna, 2 dormitorios y baño completo con bañera de hidromasaje.  La vivienda ha sido reformada por completo en el año 2007, cambiando las instalaciones de agua y luz, suelos de gres, carpintería interior, cocinas y pintura. Se encuentra situada a cinco minutos de la estación de tren y a 10 minutos andando del centro del municipio. Un pueblo de la sierra de Madrid con encanto, rodeado de plena naturaleza, un sitio donde relajarse y disfrutar. Un lugar donde vivir, invertir y alquilar o para los días de relax de una gran familia. Si estás interesado, llamanos y te daremos toda la información necesaria, así como cita para realizar una visita. No cobramos comisión a los compradores y te ayudaremos con todo el papeleo. Grupo A-UNO siempre a tu lado.",
+            "hasVideo": false,
+            "status": "good",
+            "newDevelopment": false,
+            "parkingSpace": {
+                "hasParkingSpace": true,
+                "isParkingSpaceIncludedInPrice": true
+            },
+            "priceByArea": 1520.0,
+            "detailedType": {
+                "typology": "chalet",
+                "subTypology": "independantHouse"
+            },
+            "suggestedTexts": {
+                "subtitle": "Santa María de la Alameda",
+                "title": "Casa independiente en Sauce"
+            },
+            "hasPlan": false,
+            "has3DTour": false,
+            "has360": false,
+            "hasStaging": false,
+            "topNewDevelopment": false,
+            "topPlus": false
+        },
+        {
+            "propertyCode": "88740989",
+            "thumbnail": "https://img4.idealista.com/blur/WEB_LISTING/0/id.pro.es.image.master/8d/4f/99/754065520.webp",
+            "externalReference": "AX147006",
+            "numPhotos": 58,
+            "price": 1975000.0,
+            "priceInfo": {
+                "price": {
+                    "amount": 1975000.0
+                }
+            },
+            "propertyType": "chalet",
+            "operation": "sale",
+            "size": 710.0,
+            "rooms": 7,
+            "bathrooms": 5,
+            "address": "barrio Tres Olivos - Valverde",
+            "province": "Madrid",
+            "municipality": "Madrid",
+            "district": "Fuencarral",
+            "country": "es",
+            "neighborhood": "Tres Olivos - Valverde",
+            "latitude": 40.5018085,
+            "longitude": -3.6885781,
+            "showAddress": false,
+            "url": "https://www.idealista.com/inmueble/88740989/",
+            "description": "Gilmar Mirasierra & Puerta de Hierro, les presenta esta impresionante vivienda Independiente en Urbanización Nuevo toboso, Tres Olivos. Tiene una superficie construida de 710 m2, en dos alturas, sobre parcela de 1.572 m2 con mas de de 1.000m2 de jardín.  Consta de 7 dormitorios, 5 baños, 2 salones, gran terraza, 1 cocina con office, ascensor apto para personas con movilidad reducida, garaje, y piscina cubierta y climatizada, orientación Sureste. DISTRIBUCIÓN: PLANTA BAJA: Garaje, piscina cubierta, salón diáfano, dormitorio de servicio, 2 despachos y baño PRIMERA PLANTA: hall, salón, comedor, cocina, 6 dormitorios y 4 baños CARACTERÍSTICAS: Carpintería interior: madera Carpintería exterior: climalit Calefacción: a/a frio - calor Aire acondicionado Alarma Piscina Disponemos de más de 30 oficinas en Madrid, Marbella, Estepona, Puerto Banús, Sevilla, Cádiz, Jerez e islas Canarias. Nuestra sede central está ubicada en la calle Goya, 47. Durante más de 36 años hemos demostrado nuestra profesionalidad y atención exquisita  Gilmar cuenta con más de 4.000 viviendas en venta, pisos de segunda mano, pisos nuevos, chalets, villas, fincas rústicas… Visita nuestra web y encuentra la mejor inversión inmobiliaria de la mano de los mejores profesionales del sector inmobiliario. Madrid capital: -Fuencarral (Peñagrande, Mirasierra, Las Tablas, Tres Olivos. -Valverde, Fuentelarreina, Arroyo del Fresno, Montecarmelo, La Paz y barrio del Pilar). Llámanos y te ayudaremos a encontrar la casa de tus sueños. Las mejores opciones de inversión para rentabilizar tu dinero.",
+            "hasVideo": true,
+            "status": "good",
+            "newDevelopment": false,
+            "parkingSpace": {
+                "hasParkingSpace": true,
+                "isParkingSpaceIncludedInPrice": true
+            },
+            "priceByArea": 2782.0,
+            "detailedType": {
+                "typology": "chalet",
+                "subTypology": "independantHouse"
+            },
+            "suggestedTexts": {
+                "subtitle": "Tres Olivos - Valverde, Madrid",
+                "title": "Casa independiente"
+            },
+            "hasPlan": true,
+            "has3DTour": true,
+            "has360": true,
+            "hasStaging": false,
+            "topNewDevelopment": false,
+            "topPlus": false
+        },
+        {
+            "propertyCode": "88748116",
+            "thumbnail": "https://img4.idealista.com/blur/WEB_LISTING/0/id.pro.es.image.master/a4/8e/3a/754221665.webp",
+            "externalReference": "662VP",
+            "numPhotos": 45,
+            "price": 550000.0,
+            "priceInfo": {
+                "price": {
+                    "amount": 550000.0
+                }
+            },
+            "propertyType": "chalet",
+            "operation": "sale",
+            "size": 228.0,
+            "rooms": 5,
+            "bathrooms": 4,
+            "address": "escuelas",
+            "province": "Madrid",
+            "municipality": "El Álamo",
+            "country": "es",
+            "latitude": 40.2284609,
+            "longitude": -3.9934061,
+            "showAddress": false,
+            "url": "https://www.idealista.com/inmueble/88748116/",
+            "description": "Inmobiliaria TU HOGAR EN PANGEA gestiona la venta de chalet independiente construido en 2009, en una parcela con una superficie de 571m² y construidos un total de 228m² en los que su distribución es la siguiente: Zona jardín donde se encuentra la piscina de 60m², con su barbacoa, zona garaje para un coche, sala de máquinas, baño y cocina. En la vivienda principal se encuentra en planta baja amplia cocina, salón, baño y dormitorio principal con baño. En primera planta 3 dormitorios, 1 baño, estudio, y gran terraza de 12m². Agua caliente y calefacción radiante por gasoil. A/C, Persianas automatizadas antirrobo.",
+            "hasVideo": false,
+            "status": "good",
+            "newDevelopment": false,
+            "parkingSpace": {
+                "hasParkingSpace": true,
+                "isParkingSpaceIncludedInPrice": true
+            },
+            "priceByArea": 2412.0,
+            "detailedType": {
+                "typology": "chalet",
+                "subTypology": "independantHouse"
+            },
+            "suggestedTexts": {
+                "subtitle": "El Álamo",
+                "title": "Casa independiente en escuelas"
+            },
+            "hasPlan": false,
+            "has3DTour": false,
+            "has360": false,
+            "hasStaging": false,
+            "topNewDevelopment": false,
+            "topPlus": false
+        },
+        {
+            "propertyCode": "88774359",
+            "externalReference": "ENRIQUE ÁLVAREZ",
+            "numPhotos": 0,
+            "price": 4150000.0,
+            "priceInfo": {
+                "price": {
+                    "amount": 4150000.0,
+                    "priceDropInfo": {
+                        "formerPrice": 4500000.0,
+                        "priceDropValue": 350000,
+                        "priceDropPercentage": 8
+                    }
+                }
+            },
+            "propertyType": "chalet",
+            "operation": "sale",
+            "size": 1150.0,
+            "rooms": 7,
+            "bathrooms": 7,
+            "address": "AV MONTEALINA",
+            "province": "Madrid",
+            "municipality": "Pozuelo de Alarcón",
+            "district": "Urbanizaciones",
+            "country": "es",
+            "neighborhood": "Montealina",
+            "latitude": 40.4370497,
+            "longitude": -3.8520259,
+            "showAddress": false,
+            "url": "https://www.idealista.com/inmueble/88774359/",
+            "description": "EAB Propiedades Inmobiliarias, vende este fantástico chalet en la urbanización de Montealina, el estado del chalet es inmejorable, con grandes estancias los dormitorios en suite, también dispone de ascensor, el jardín esta en perfecto estado de conservación, piscina grande en el interior del chalet y también otra piscina en el jardín, el chalet dispone de grandes ventanales y por eso tiene muchísima luminosidad, todos sus dormitorios son en suite, el dormitorio principal con un espectacular vestidor y amplia terraza al maravilloso jardín. Garaje cubierto para varios coches y aparcamiento con pérgola para otros más. Posiblemente sea de los mejores chalet de la urbanización y esta situado muy cercano a la entrada. Por privacidad y petición de los propietarios no se pueden publicar fotos.",
+            "hasVideo": false,
+            "status": "good",
+            "newDevelopment": false,
+            "parkingSpace": {
+                "hasParkingSpace": true,
+                "isParkingSpaceIncludedInPrice": true
+            },
+            "priceByArea": 3609.0,
+            "detailedType": {
+                "typology": "chalet",
+                "subTypology": "independantHouse"
+            },
+            "suggestedTexts": {
+                "subtitle": "Montealina, Pozuelo de Alarcón",
+                "title": "Casa independiente en Av Montealina"
+            },
+            "hasPlan": false,
+            "has3DTour": false,
+            "has360": false,
+            "hasStaging": false,
+            "topNewDevelopment": false,
+            "topPlus": false
+        },
+        {
+            "propertyCode": "88798324",
+            "externalReference": "6301",
+            "numPhotos": 0,
+            "price": 1.025E7,
+            "priceInfo": {
+                "price": {
+                    "amount": 1.025E7
+                }
+            },
+            "propertyType": "chalet",
+            "operation": "sale",
+            "size": 1500.0,
+            "rooms": 5,
+            "bathrooms": 6,
+            "address": "paseo DE LOS LAGOS, 1",
+            "province": "Madrid",
+            "municipality": "Pozuelo de Alarcón",
+            "district": "Zona Prado de Somosaguas - La Finca",
+            "country": "es",
+            "neighborhood": "La Finca",
+            "latitude": 40.4179205,
+            "longitude": -3.812669,
+            "showAddress": true,
+            "url": "https://www.idealista.com/inmueble/88798324/",
+            "description": "LuxHOME vende personalizado en Los Lagos. El inmueble se haya en perfecto estado, absolutamente para entrar a vivir, disfruta de ubicación y orientación privilegiadas dentro del complejo. Su cómoda distribución hacen de esta impresionante propiedad un hogar para disfrutar de la vida en familia, así como de recepciones, fiestas y eventos de representación.. . Se ha construido con los últimos avances en domótica, un gran spa con piscina interior, biblioteca-despacho, garaje de gran capacidad y un esmerado paisajismo que hacen de ella un auténtico oasis en el que la seguridad y la intimidad son máximas. Disponibilidad inmediata. Evitamos la divulgación de imágenes para preservar la exclusividad del inmueble.",
+            "hasVideo": false,
+            "status": "good",
+            "newDevelopment": false,
+            "parkingSpace": {
+                "hasParkingSpace": true,
+                "isParkingSpaceIncludedInPrice": true
+            },
+            "priceByArea": 6833.0,
+            "detailedType": {
+                "typology": "chalet",
+                "subTypology": "independantHouse"
+            },
+            "suggestedTexts": {
+                "subtitle": "La Finca, Pozuelo de Alarcón",
+                "title": "Casa independiente en paseo De Los Lagos, 1"
+            },
+            "hasPlan": false,
+            "has3DTour": false,
+            "has360": false,
+            "hasStaging": false,
+            "highlight": {
+                "groupDescription": "Destacado"
+            },
+            "topNewDevelopment": false,
+            "topPlus": false
+        },
+        {
+            "propertyCode": "88885261",
+            "thumbnail": "https://img4.idealista.com/blur/WEB_LISTING/0/id.pro.es.image.master/db/17/ed/757866647.webp",
+            "externalReference": "MG164",
+            "numPhotos": 56,
+            "price": 1150000.0,
+            "priceInfo": {
+                "price": {
+                    "amount": 1150000.0
+                }
+            },
+            "propertyType": "chalet",
+            "operation": "sale",
+            "size": 687.0,
+            "rooms": 5,
+            "bathrooms": 5,
+            "address": "calle Gargantilla",
+            "province": "Madrid",
+            "municipality": "Hoyo de Manzanares",
+            "country": "es",
+            "latitude": 40.6267106,
+            "longitude": -3.9137076,
+            "showAddress": false,
+            "url": "https://www.idealista.com/inmueble/88885261/",
+            "description": "Magnífico chalet en Hoyo de Manzanares, ubicado en un privilegiado emplazamiento natural que linda con el Parque Regional de la Cuenca Alta del Manzanares. Vivienda distribuida en tres plantas, con una superficie de 687 m² construidos en parcela de 2.105 m². Construcción tradicional de estilo rústico, revestida con mampostería de granito y cubierta en teja curva a varias aguas. Cerramiento de la parcela con valla de mampostería de granito y cerramiento metálico. Jardín consolidado con pradera de césped, riego automático y pista de Pádel. Espectaculares vistas a la formaciones montañosas “El Picazo” y “La Tortuga”. Dispone de 5 dormitorios todos en suite con baño, y 2 aseos. La distribución de la planta principal, con una superficie construida de 310 m², gira alrededor de un amplio hall abierto que divide en dos alas la vivienda. Distribución planta principal: Hall, aseo de cortesía, salón comedor con chimenea con una superficie de 72 m² con salida a terraza, cocina de 24 m², cuarto de plancha, y ala a zona de dormitorios con un amplio pasillo con cuatro armarios empotrados. Tres dormitorios secundarios en suite con baño y armarios empotrados; y dormitorio principal de 30 m², con zona de descanso, vestidor y baño. En la primera planta, con una superficie de 67 m², dispone de distribuidor, salón biblioteca con salida a una terraza corrida de 46 m², y dormitorio de servicio con baño. En la misma planta hay una zona en bruto, de otros 60 m², que dispone de acometidas de luz y bajantes para poder adapta como salón polivalente o más dormitorios. La planta semisótano, con una superficie de 310 m², tiene acceso por la zona de la cocina. Consta de salón con chimenea, bodega, amplio trastero, aseo, cuarto de caldera y garaje para 6 coches. Carpintería exterior en Aluminio con climalit, carpintería interior en madera. Suelos de barro cocido y tarima en dormitorios. Calefacción de gasoil y aerotermia. Próxima al casco urbano y a todos los servicios de Hoyo de Manzanares.",
+            "hasVideo": false,
+            "status": "good",
+            "newDevelopment": false,
+            "parkingSpace": {
+                "hasParkingSpace": true,
+                "isParkingSpaceIncludedInPrice": true
+            },
+            "priceByArea": 1674.0,
+            "detailedType": {
+                "typology": "chalet",
+                "subTypology": "independantHouse"
+            },
+            "suggestedTexts": {
+                "subtitle": "Hoyo de Manzanares",
+                "title": "Casa independiente en calle Gargantilla"
+            },
+            "hasPlan": true,
+            "has3DTour": false,
+            "has360": true,
+            "hasStaging": false,
+            "topNewDevelopment": false,
+            "topPlus": false
+        },
+        {
+            "propertyCode": "88976946",
+            "thumbnail": "https://img4.idealista.com/blur/WEB_LISTING/0/id.pro.es.image.master/e9/ca/0e/1135220463.webp",
+            "externalReference": "PV7527I",
+            "numPhotos": 38,
+            "price": 1800000.0,
+            "priceInfo": {
+                "price": {
+                    "amount": 1800000.0
+                }
+            },
+            "propertyType": "chalet",
+            "operation": "sale",
+            "size": 800.0,
+            "rooms": 7,
+            "bathrooms": 6,
+            "address": "calle de las Adelfas",
+            "province": "Madrid",
+            "municipality": "Boadilla del Monte",
+            "district": "Urb. este - Montepríncipe",
+            "country": "es",
+            "latitude": 40.4100947,
+            "longitude": -3.8533334,
+            "showAddress": false,
+            "url": "https://www.idealista.com/inmueble/88976946/",
+            "description": "Chalet independiente de 800 m² en fabulosa parcela de 4.000 m² en la prestigiosa urbanización de Montepríncipe, con zonas comunes y vigilancia 24 horas.  Descripción: Hall de entrada con aseo de invitados. Acceso al salón dividido en varios ambientes, comedor con chimenea y paso a la cocina, sala de estar con chimenea, todo con salida al porche y jardín. Cocina muy amplia con zona office, despensa, zona de lavado, dormitorio y baño de servicio, con salida al jardín. Al otro lado de esta misma planta la zona de dormitorios distribuida en 3 dormitorios que comparten un baño, otro dormitorio con baño en suite y dormitorio principal con vestidor y baño en suite con salida al jardín. En primera planta gran salón abuhardillado con chimenea, sala de estar, dormitorio con baño y dos terrazas, despacho y otro salón multiusos con chimenea. La planta semisótano cuenta con una gran bodega con chimenea y salida directa al jardín, piscina, zona de barbacoa, aseo, pista de tenis. Zona de aparcamiento techada exterior para varios vehículos. La vivienda se ubica en una excelente urbanización cerrada con vigilancia, en un enclave natural privilegiado y con accesos a las principales carreteras de Madrid. CONTACTANOS PARA CONOCER CASAS QUE NO TENEMOS PUBLICADAS Estas urbanización pertenecen a los términos municipales de Pozuelo de Alarcón, Majadahonda y Boadilla del Monte. Sus ejes de conexión son la M-40, M-500 y M-503. Por supuesto, poseen seguridad y vigilancia 24 horas, transporte público, además de colegios, comercios y club social y deportivo.  En todas encontramos chalets independientes en grandes parcelas arboladas. Muchas de las viviendas han sido reformadas en los últimos años con la llegada de familias jóvenes, que traen un concepto de vida muy agradable.",
+            "hasVideo": true,
+            "status": "good",
+            "newDevelopment": false,
+            "priceByArea": 2250.0,
+            "detailedType": {
+                "typology": "chalet",
+                "subTypology": "independantHouse"
+            },
+            "suggestedTexts": {
+                "subtitle": "Urb. este - Montepríncipe, Boadilla del Monte",
+                "title": "Casa independiente en calle de las Adelfas"
+            },
+            "hasPlan": true,
+            "has3DTour": false,
+            "has360": false,
+            "hasStaging": true,
+            "highlight": {
+                "groupDescription": "Top"
+            },
+            "topNewDevelopment": false,
+            "topPlus": false
+        },
+        {
+            "propertyCode": "89009917",
+            "thumbnail": "https://img4.idealista.com/blur/WEB_LISTING/0/id.pro.es.image.master/fb/6a/a7/1197466879.webp",
+            "externalReference": "JS148116",
+            "numPhotos": 34,
+            "floor": "8",
+            "price": 759000.0,
+            "priceInfo": {
+                "price": {
+                    "amount": 759000.0
+                }
+            },
+            "propertyType": "flat",
+            "operation": "sale",
+            "size": 160.0,
+            "exterior": true,
+            "rooms": 4,
+            "bathrooms": 2,
+            "address": "paseo de la Virgen del Puerto",
+            "province": "Madrid",
+            "municipality": "Madrid",
+            "district": "Arganzuela",
+            "country": "es",
+            "neighborhood": "Imperial",
+            "latitude": 40.4149631,
+            "longitude": -3.7192981,
+            "showAddress": false,
+            "url": "https://www.idealista.com/inmueble/89009917/",
+            "description": "Gilmar Consulting Inmobiliario Arganzuela ofrece a la venta excepcional piso en la zona con mayor proyección de la ciudad. Pegado a Madrid Río y con unas vistas espectaculares se encuentra este piso que se distribuye actualmente en hall distribuidor, salón comedor, cocina independiente y 4 dormitorios y 2 baños. La vivienda es exterior y dispone de una magnífica terraza con vistas a Madrid Rio y Casa de Campo. Excelente oportunidad de vivir en una de las zonas con mayor concentración de alicientes culturales, sociales, gastronómicos, etc. No deje pasar la oportunidad de verlo en persona. En Gilmar trabajamos para ofrecer a nuestros clientes los mejores inmuebles de Madrid, costa del Sol y Sevilla, con equipos especializados en cada zona, para proporcionarles la mejor opción a su necesidad. Un servicio personalizado, en el que estamos atentos a los detalles.  En más de 30 años de andadura, Gilmar ha logrado alcanzar un espacio de privilegio dentro del Sector Inmobiliario de alto standing. Cubrimos todas las necesidades inmobiliarias: viviendas, oficinas, locales comerciales, solares, fincas rústicas, terrenos para construir.. . y cualquier tipo de operaciones: compraventa y alquiler.  Nuestros clientes cuentan con el asesoramiento necesario desde el inicio, para garantizar su seguridad, eficacia jurídica y la mejor rentabilidad financiero-fiscal.",
+            "hasVideo": false,
+            "status": "good",
+            "newDevelopment": false,
+            "hasLift": true,
+            "priceByArea": 4744.0,
+            "detailedType": {
+                "typology": "flat"
+            },
+            "suggestedTexts": {
+                "subtitle": "Imperial, Madrid",
+                "title": "Piso en paseo de la Virgen del Puerto"
+            },
+            "hasPlan": true,
+            "has3DTour": true,
+            "has360": false,
+            "hasStaging": false,
+            "highlight": {
+                "groupDescription": "Destacado"
+            },
+            "topNewDevelopment": false,
+            "topPlus": false
+        },
+        {
+            "propertyCode": "89226536",
+            "thumbnail": "https://img4.idealista.com/blur/WEB_LISTING/0/id.pro.es.image.master/af/04/5b/991563630.webp",
+            "externalReference": "5347",
+            "numPhotos": 18,
+            "floor": "7",
+            "price": 4300000.0,
+            "priceInfo": {
+                "price": {
+                    "amount": 4300000.0
+                }
+            },
+            "propertyType": "flat",
+            "operation": "sale",
+            "size": 412.0,
+            "exterior": true,
+            "rooms": 5,
+            "bathrooms": 5,
+            "address": "barrio Almagro",
+            "province": "Madrid",
+            "municipality": "Madrid",
+            "district": "Chamberí",
+            "country": "es",
+            "neighborhood": "Almagro",
+            "latitude": 40.4352184,
+            "longitude": -3.6915171,
+            "showAddress": false,
+            "url": "https://www.idealista.com/inmueble/89226536/",
+            "description": "Ana Bareño de GV | ALMAGRO comercializa este inmueble: En Almagro, zona residencial de lujo, una de las zonas más clásicas y de mayor demanda de la capital madrileña, se ubica este piso de 412 metros cuadrados que destaca por la amplitud del mismo, la ubicación, un gran salón y las altas calidades de construcción se encuentra perfecto para entrar a vivir. En un entorno inigualable con excelente comunicación y cercanía a todos los servicios. DISTRIBUCIÓN Hall de entrada. Salon. Comedor. Cuarto de estar. Cuarto de dormir principal en suite con dos vestidores y baño incorporado. Tres cuartos de dormir con baño incorporado. Cocina. Office. Cuarto de lavado. Cuarto de servicio con baño incorporado. Un porcentaje importante de nuestros inmuebles no aparecen publicados en idealista por expreso deseo de los propietarios. Para más información sobre más propiedades en esta zona entre en nuestra página web.",
+            "hasVideo": false,
+            "status": "good",
+            "newDevelopment": false,
+            "hasLift": true,
+            "priceByArea": 10437.0,
+            "detailedType": {
+                "typology": "flat"
+            },
+            "suggestedTexts": {
+                "subtitle": "Almagro, Madrid",
+                "title": "Piso"
+            },
+            "hasPlan": false,
+            "has3DTour": false,
+            "has360": false,
+            "hasStaging": false,
+            "topNewDevelopment": false,
+            "topPlus": false
+        },
+        {
+            "propertyCode": "89226770",
+            "thumbnail": "https://img4.idealista.com/blur/WEB_LISTING/0/id.pro.es.image.master/81/e0/f7/1010760894.webp",
+            "externalReference": "5523",
+            "numPhotos": 22,
+            "price": 1640000.0,
+            "priceInfo": {
+                "price": {
+                    "amount": 1640000.0
+                }
+            },
+            "propertyType": "chalet",
+            "operation": "sale",
+            "size": 700.0,
+            "rooms": 5,
+            "bathrooms": 7,
+            "address": "Mistral",
+            "province": "Madrid",
+            "municipality": "Pozuelo de Alarcón",
+            "district": "Zona Prado de Somosaguas - La Finca",
+            "country": "es",
+            "neighborhood": "La Finca",
+            "latitude": 40.4093629,
+            "longitude": -3.8071121,
+            "showAddress": false,
+            "url": "https://www.idealista.com/inmueble/89226770/",
+            "description": "Marta Gómez Faiña de GV | LA FINCA comercializa el siguiente inmueble: En La Finca zona residencial de lujo en Madrid, se encuentra este precioso adosado de 700 metros cuadrados construidos, listo para entrar a vivir. Con amplios espacios, jardín y piscina. La vivienda destaca por su luz y su magnifico entorno. Una gran elección para todos los que buscan una vivienda de lujo, amplia y tranquila, muy cerca del centro de Madrid. DISTRIBUCIÓN Planta baja: Cuarto de dormir en suite con baño. Vestidor. Despensa. Cuarto de lavado. Habitación de servicio con año. Planta primera: Aseo de cortesía. Salón-comedor. Despacho. Cocina con office. Planta segunda: Cuarto de dormir principal en suite con baño y vestidor incorporados. Dos cuartos de dormir con baño en suite. Planta semi sótano: Aseo de cortesía. Salón. Trastero. Garaje para seis coches.",
+            "hasVideo": false,
+            "status": "good",
+            "newDevelopment": false,
+            "priceByArea": 2343.0,
+            "detailedType": {
+                "typology": "chalet",
+                "subTypology": "terracedHouse"
+            },
+            "suggestedTexts": {
+                "subtitle": "La Finca, Pozuelo de Alarcón",
+                "title": "Chalet adosado en Mistral"
+            },
+            "hasPlan": false,
+            "has3DTour": false,
+            "has360": false,
+            "hasStaging": false,
+            "topNewDevelopment": false,
+            "topPlus": false
+        },
+        {
+            "propertyCode": "86285932",
+            "thumbnail": "https://img4.idealista.com/blur/WEB_LISTING/0/id.pro.es.image.master/7c/7c/4d/1220961523.webp",
+            "externalReference": "VI-000-020-717-444",
+            "numPhotos": 18,
+            "floor": "2",
+            "price": 297000.0,
+            "priceInfo": {
+                "price": {
+                    "amount": 297000.0,
+                    "priceDropInfo": {
+                        "formerPrice": 312000.0,
+                        "priceDropValue": 15000,
+                        "priceDropPercentage": 5
+                    }
+                }
+            },
+            "propertyType": "flat",
+            "operation": "sale",
+            "size": 104.0,
+            "rooms": 4,
+            "bathrooms": 1,
+            "address": "barrio Comillas",
+            "province": "Madrid",
+            "municipality": "Madrid",
+            "district": "Carabanchel",
+            "country": "es",
+            "neighborhood": "Comillas",
+            "latitude": 40.3935051,
+            "longitude": -3.7093872,
+            "showAddress": false,
+            "url": "https://www.idealista.com/inmueble/86285932/",
+            "description": "Amplio piso en Madrid, idóneo para familias. La vivienda dispone de una superficie de 103 m² distribuidos en 4 habitaciones, de las cuales 2 tienen acceso a terraza, salón-comedor, cocina equipada con horno además de 1 baño completo. El inmueble tiene mucha luz natural y suelos de parquet. Situado en la 2a planta del edificio, sin ascensor. Situado en el centro de Madrid, muy cerca de Autopista de Circunvalación M-30 en el barrio de Comillas. En sus alrededores encontramos la escuela IES Calderon de la Barca, supermercados, bancos, bibliotecas, farmacias, oficinas de correos, paradas de autobús y la estación de metro Marqués de Vadillo.",
+            "hasVideo": false,
+            "status": "good",
+            "newDevelopment": false,
+            "hasLift": false,
+            "priceByArea": 2856.0,
+            "detailedType": {
+                "typology": "flat"
+            },
+            "suggestedTexts": {
+                "subtitle": "Comillas, Madrid",
+                "title": "Piso"
+            },
+            "hasPlan": true,
+            "has3DTour": false,
+            "has360": true,
+            "hasStaging": false,
+            "topNewDevelopment": false,
+            "topPlus": false
+        },
+        {
+            "propertyCode": "89234767",
+            "thumbnail": "https://img4.idealista.com/blur/WEB_LISTING/0/id.pro.es.image.master/f7/15/dc/1244965835.webp",
+            "externalReference": "13103",
+            "numPhotos": 55,
+            "price": 2950000.0,
+            "priceInfo": {
+                "price": {
+                    "amount": 2950000.0
+                }
+            },
+            "propertyType": "chalet",
+            "operation": "sale",
+            "size": 700.0,
+            "rooms": 6,
+            "bathrooms": 6,
+            "address": "calle Guecho",
+            "province": "Madrid",
+            "municipality": "Madrid",
+            "district": "Moncloa",
+            "country": "es",
+            "neighborhood": "El Plantío",
+            "latitude": 40.476084,
+            "longitude": -3.8234719,
+            "showAddress": false,
+            "url": "https://www.idealista.com/inmueble/89234767/",
+            "description": "Beatriz Mateo - Sagasta GV | LA FLORIDA comercializa el siguiente inmueble en primera línea de EL PARDO: UNA VIVIENDA COTTAGE ESTILO INGLÉS EN LA FLORIDA: En una situación privilegiada dentro de La Florida se encuentra una esta peculiar vivienda, en un entorno silencioso posee una gran privacidad y la máxima seguridad con vigilancia 24 horas. Linda con El Pardo en 50 metros y fue diseñada por el arquitecto Eugenio Aguinaga. Un extenso y cuidado jardín rodea la casa, en el que encontramos el pabellón de la piscina con una sala de estar a las orillas de ésta donde disfrutar del maravilloso entorno. Distribuida en dos plantas con un agradable porche que ilumina la planta baja. DISTRIBUCIÓN: Planta Baja: Hall de entrada con aseo de cortesía. Salón panelado de madera dividido en dos ambientes con acceso a porche. Dormitorio principal con sala de estar, vestidor y baño incorporados. Comedor. Cocina. Office. Despensa. Sala de plancha. Dormitorio de servicio con baño incorporado. Trastero. Garaje para tres coches. Planta Primera: Sala de estar. Cuatro cuartos de dormir comparten dos cuartos de baño. CONSTRUCCIONES EXTERIORES / CALIDADES Y SERVICIOS: Pabellón de la piscina con salón y cuarto de baño. Piscina. Riego por aspersión. Construcción antisísmica. Puertas de recibo de caboa. Un porcentaje importante de nuestros inmuebles no aparecen publicados en idealista por expreso deseo de los propietarios. Para más información sobre más propiedades en esta zona entre en nuestra página web.",
+            "hasVideo": false,
+            "status": "good",
+            "newDevelopment": false,
+            "priceByArea": 4214.0,
+            "detailedType": {
+                "typology": "chalet",
+                "subTypology": "independantHouse"
+            },
+            "suggestedTexts": {
+                "subtitle": "El Plantío, Madrid",
+                "title": "Casa independiente en calle Guecho"
+            },
+            "hasPlan": false,
+            "has3DTour": false,
+            "has360": false,
+            "hasStaging": false,
+            "topNewDevelopment": false,
+            "topPlus": false
+        },
+        {
+            "propertyCode": "89236035",
+            "thumbnail": "https://img4.idealista.com/blur/WEB_LISTING/0/id.pro.es.image.master/b9/34/5e/1000622651.webp",
+            "externalReference": "2407",
+            "numPhotos": 24,
+            "price": 4500000.0,
+            "priceInfo": {
+                "price": {
+                    "amount": 4500000.0
+                }
+            },
+            "propertyType": "chalet",
+            "operation": "sale",
+            "size": 1200.0,
+            "rooms": 8,
+            "bathrooms": 9,
+            "address": "calle Turégano",
+            "province": "Madrid",
+            "municipality": "Madrid",
+            "district": "Moncloa",
+            "country": "es",
+            "neighborhood": "Ciudad Universitaria",
+            "latitude": 40.4673127,
+            "longitude": -3.7306186,
+            "showAddress": false,
+            "url": "https://www.idealista.com/inmueble/89236035/",
+            "description": "David Salcedo de GV | PUERTA DE HIERRO comercializa la siguiente propiedad: En Puerta de Hierro, en una calle próxima a la avenida principal de la zona se encuentra esta vivienda de los años 60 proyectada por los reconocidos arquitectos Corrales y Molezún. La vivienda se caracteriza por sus amplios espacios y su relación con el exterior donde la naturaleza inunda los espacios interiores. La comunicación con los patios donde se encuentran los jardines y la piscina hacen de la estancia en esta casa una vivencia inolvidable. Planta baja: Hall de entrada con aseo de cortesía. Salón de verano. Salón de invierno. Cuarto de estar. Porche. Comedor independiente. Cocina. Office. Despensa y Bodega. Dos cuartos de servicio comparten dos cuartos de baño. Planchero. Zona de noche: Cuarto de dormir principal con despacho, vestidor y cuarto de baño incorporado. Tres cuartos de dormir más cada uno con su cuarto de baño incorporado. Zona de invitados: Salón, cuarto de dormir, vestidor y baño. Planta primera: Cuarto de dormir con cuarto de baño. Biblioteca-despacho a doble altura. Un porcentaje importante de nuestros inmuebles no aparecen publicados en idealista por expreso deseo de los propietarios. Para más información sobre más propiedades en esta zona entre en nuestra página web.",
+            "hasVideo": false,
+            "status": "good",
+            "newDevelopment": false,
+            "parkingSpace": {
+                "hasParkingSpace": true,
+                "isParkingSpaceIncludedInPrice": true
+            },
+            "priceByArea": 3750.0,
+            "detailedType": {
+                "typology": "chalet",
+                "subTypology": "independantHouse"
+            },
+            "suggestedTexts": {
+                "subtitle": "Ciudad Universitaria, Madrid",
+                "title": "Casa independiente en calle Turégano"
+            },
+            "hasPlan": false,
+            "has3DTour": false,
+            "has360": false,
+            "hasStaging": false,
+            "highlight": {
+                "groupDescription": "Top"
+            },
+            "topNewDevelopment": false,
+            "topPlus": false
+        },
+        {
+            "propertyCode": "89236127",
+            "thumbnail": "https://img4.idealista.com/blur/WEB_LISTING/0/id.pro.es.image.master/76/b6/66/987552866.webp",
+            "externalReference": "1752",
+            "numPhotos": 34,
+            "price": 5800000.0,
+            "priceInfo": {
+                "price": {
+                    "amount": 5800000.0
+                }
+            },
+            "propertyType": "chalet",
+            "operation": "sale",
+            "size": 848.0,
+            "rooms": 9,
+            "bathrooms": 7,
+            "address": "barrio El Viso",
+            "province": "Madrid",
+            "municipality": "Madrid",
+            "district": "Chamartín",
+            "country": "es",
+            "neighborhood": "El Viso",
+            "latitude": 40.4500945,
+            "longitude": -3.6873263,
+            "showAddress": false,
+            "url": "https://www.idealista.com/inmueble/89236127/",
+            "description": "Lucía Suárez- Zuloaga de GV | EL VISO comercializa la siguiente propiedad: En una de las zonas más tranquilas de El Viso se encuentra esta vivienda de 848 metros cuadrados sobre una parcela de más de 400. El inmueble destaca por su situación y por sus grandes espacios; además de numerosos cuartos de dormir y baños, posee garaje, piscina y una amplia terraza. En ella podrá establecer una cómoda y agradable residencia. DISTRIBUCIÓN Planta baja: Hall de entrada. Aseo de cortesía. Despacho de gran tamaño. Sala de estar. Salón. Comedor independiente. Cocina. Office. Planta primera: Cinco cuartos de dormir comparten dos cuartos de baño. Acceso a dos terrazas magníficas. Planta segunda: Dos cuartos de dormir comparten un cuarto de baño. Cuarto de dormir principal con vestidor y cuarto de baño. Planta sótano: Garaje para tres vehículos. Cuarto de servicio con baño incorporado. Cuarto de jugar. Sala de estar. Gimnasio con sauna y cuarto de baño. Taller y bodega. Un porcentaje importante de nuestros inmuebles no aparecen publicados en idealista por expreso deseo de los propietarios. Para más información sobre más propiedades en esta zona entre en nuestra página web.",
+            "hasVideo": false,
+            "status": "good",
+            "newDevelopment": false,
+            "parkingSpace": {
+                "hasParkingSpace": true,
+                "isParkingSpaceIncludedInPrice": true
+            },
+            "priceByArea": 6840.0,
+            "detailedType": {
+                "typology": "chalet",
+                "subTypology": "independantHouse"
+            },
+            "suggestedTexts": {
+                "subtitle": "El Viso, Madrid",
+                "title": "Casa independiente"
+            },
+            "hasPlan": false,
+            "has3DTour": false,
+            "has360": false,
+            "hasStaging": false,
+            "highlight": {
+                "groupDescription": "Top"
+            },
+            "topNewDevelopment": false,
+            "topPlus": false
+        },
+        {
+            "propertyCode": "89237761",
+            "thumbnail": "https://img4.idealista.com/blur/WEB_LISTING/0/id.pro.es.image.master/06/e8/29/1010925165.webp",
+            "externalReference": "3007",
+            "numPhotos": 38,
+            "price": 2480000.0,
+            "priceInfo": {
+                "price": {
+                    "amount": 2480000.0
+                }
+            },
+            "propertyType": "chalet",
+            "operation": "sale",
+            "size": 986.0,
+            "rooms": 8,
+            "bathrooms": 8,
+            "address": "barrio Somosaguas",
+            "province": "Madrid",
+            "municipality": "Pozuelo de Alarcón",
+            "district": "Somosaguas",
+            "country": "es",
+            "neighborhood": "Somosaguas",
+            "latitude": 40.4197311,
+            "longitude": -3.7845053,
+            "showAddress": false,
+            "url": "https://www.idealista.com/inmueble/89237761/",
+            "description": "Marta Gomez Faina de GV | SOMOSAGUAS comercializa el siguiente inmueble: En Somosaguas, una de las mejores urbanizaciones de lujo de la capital, se encuentra esta vivienda de casi 1.000 metros cuadrados construidos sobre una extensa parcela de 2.700 metros cuadrados. De una reciente (año 1993) y soberbia construcción y con una distribución muy cómoda, la vivienda se presenta como una magnífica oportunidad de compra. DISTRIBUCIÓN Planta baja: Hall de entrada con aseo de cortesía. Salón, comedor, despacho y cuarto de estar. Cocina con office y despensa.  Planta primera: Cuatro cuartos de dormir con baño incorporado.  Planta segunda: Cuarto de dormir principal en suite con cuarto de baño, vestidor y terraza incorporados. Planta semi-sótano: Salón, cuarto de dormir con baño. Cocina con cuarto de lavado. Habitación de servicio con baño. Gimnasio, bodega y garaje para 3 vehículos. Además la vivienda posee piscina y pista de tenis. Un porcentaje importante de nuestros inmuebles no aparecen publicados en idealista por expreso deseo de los propietarios. Para más información sobre más propiedades en esta zona entre en nuestra página web.",
+            "hasVideo": false,
+            "status": "good",
+            "newDevelopment": false,
+            "parkingSpace": {
+                "hasParkingSpace": true,
+                "isParkingSpaceIncludedInPrice": true
+            },
+            "priceByArea": 2515.0,
+            "detailedType": {
+                "typology": "chalet",
+                "subTypology": "independantHouse"
+            },
+            "suggestedTexts": {
+                "subtitle": "Somosaguas, Pozuelo de Alarcón",
+                "title": "Casa independiente"
+            },
+            "hasPlan": false,
+            "has3DTour": false,
+            "has360": false,
+            "hasStaging": false,
+            "topNewDevelopment": false,
+            "topPlus": false
+        },
+        {
+            "propertyCode": "89318445",
+            "thumbnail": "https://img4.idealista.com/blur/WEB_LISTING/0/id.pro.es.image.master/ec/3f/6c/1103923010.webp",
+            "externalReference": "147VA476",
+            "numPhotos": 13,
+            "floor": "3",
+            "price": 135000.0,
+            "priceInfo": {
+                "price": {
+                    "amount": 135000.0
+                }
+            },
+            "propertyType": "studio",
+            "operation": "sale",
+            "size": 24.0,
+            "exterior": true,
+            "rooms": 0,
+            "bathrooms": 1,
+            "address": "calle de Oviedo",
+            "province": "Madrid",
+            "municipality": "Madrid",
+            "district": "Tetuán",
+            "country": "es",
+            "neighborhood": "Cuatro Caminos",
+            "latitude": 40.4474178,
+            "longitude": -3.69848,
+            "showAddress": false,
+            "url": "https://www.idealista.com/inmueble/89318445/",
+            "description": "¡Síguenos en nuestras redes sociales y sé el primero en conocer nuestras novedades en alquiler y venta! Instagram: @servifincasmadrid Vivienda actualmente ALQUILADA por unos 2 años más. Renta actual de 510 euros.  Acogedor estudio exterior, reformado. MUY LUMINOSO. Tiene una cocina independiente y totalmente equipada, un baño completo con plato de ducha, suelos de tarima, ventanas de aluminio climalit, aire acondicionado, calefacción eléctrica y techos altos. El estudio está ubicado en una zona excelentemente comunicada, cerca de 3 estaciones de Metro, incluido Nuevos Ministerios, para que puedas combinar hacia cualquier dirección incluido con metro ligero y Renfe. Tendrás cerca el Parque Santander, el Santiago Bernabéu, un parking público, colegios y muchos bares y restaurantes con una exquisita propuesta gastronómica. La vivienda actualmente está alquilada. ¿Por qué SERVIFINCAS? Tenemos más de 18 años de experiencia en el mercado inmobiliario de Madrid. Disponemos de un servicio de asesoría integral y siempre estaremos acompañándote en cada paso del proceso. NO COBRAMOS COMISION AL COMPRADOR. Si nos facilita su número de teléfono, nos pondremos en contacto a la brevedad para una atención más ágil y personalizada.",
+            "hasVideo": false,
+            "status": "good",
+            "newDevelopment": false,
+            "hasLift": false,
+            "priceByArea": 5625.0,
+            "detailedType": {
+                "typology": "flat",
+                "subTypology": "studio"
+            },
+            "suggestedTexts": {
+                "subtitle": "Cuatro Caminos, Madrid",
+                "title": "Estudio en calle de Oviedo"
+            },
+            "hasPlan": false,
+            "has3DTour": false,
+            "has360": false,
+            "hasStaging": false,
+            "topNewDevelopment": false,
+            "topPlus": false
+        },
+        {
+            "propertyCode": "89365927",
+            "thumbnail": "https://img4.idealista.com/blur/WEB_LISTING/0/id.pro.es.image.master/0d/dc/18/1185820154.webp",
+            "externalReference": "51124298-2",
+            "numPhotos": 36,
+            "floor": "3",
+            "price": 175508.0,
+            "priceInfo": {
+                "price": {
+                    "amount": 175508.0
+                }
+            },
+            "propertyType": "flat",
+            "operation": "sale",
+            "size": 53.0,
+            "exterior": true,
+            "rooms": 1,
+            "bathrooms": 1,
+            "address": "barrio Casco Histórico de Vallecas",
+            "province": "Madrid",
+            "municipality": "Madrid",
+            "district": "Villa de Vallecas",
+            "country": "es",
+            "neighborhood": "Casco Histórico de Vallecas",
+            "latitude": 40.3831462,
+            "longitude": -3.6267708,
+            "showAddress": false,
+            "url": "https://www.idealista.com/inmueble/89365927/",
+            "description": "HASTA 100% DE FINANCIACIÓN PARA FUNCIONARIOS Y PERSONAL LABORAL PÚBLICO. 100% home red inmobiliaria vende piso en Madrid, distrito Vallecas, ubicado frente a la estación de tren de Vallecas. Dispone de 53m2 distribuídos en cocina amueblada, salón, una habitación y un baño. Con un armario empotrado. Finca con ascensor. Plaza de garaje y trastero incluídos en el precio.",
+            "hasVideo": false,
+            "status": "good",
+            "newDevelopment": false,
+            "hasLift": true,
+            "parkingSpace": {
+                "hasParkingSpace": true,
+                "isParkingSpaceIncludedInPrice": true
+            },
+            "priceByArea": 3311.0,
+            "detailedType": {
+                "typology": "flat"
+            },
+            "suggestedTexts": {
+                "subtitle": "Casco Histórico de Vallecas, Madrid",
+                "title": "Piso"
+            },
+            "hasPlan": false,
+            "has3DTour": false,
+            "has360": false,
+            "hasStaging": false,
+            "highlight": {
+                "groupDescription": "Destacado"
+            },
+            "topNewDevelopment": false,
+            "topPlus": false
+        },
+        {
+            "propertyCode": "89435985",
+            "thumbnail": "https://img4.idealista.com/blur/WEB_LISTING/0/id.pro.es.image.master/08/7f/9b/1150412639.webp",
+            "externalReference": "W-02IUHE",
+            "numPhotos": 31,
+            "price": 1990000.0,
+            "priceInfo": {
+                "price": {
+                    "amount": 1990000.0
+                }
+            },
+            "propertyType": "chalet",
+            "operation": "sale",
+            "size": 573.0,
+            "rooms": 5,
+            "bathrooms": 10,
+            "address": "Zona Carretera del Plantío",
+            "province": "Madrid",
+            "municipality": "Majadahonda",
+            "district": "Zona Carretera del Plantío",
+            "country": "es",
+            "latitude": 40.4772238,
+            "longitude": -3.8661721,
+            "showAddress": false,
+            "url": "https://www.idealista.com/inmueble/89435985/",
+            "description": "Grandiosa casa de lujo en Majadahonda Engel&Völkers NO COBRA AL COMPRADOR. La propiedad se encuentra al lado del parque natural Cerro del Aire. El exuberante y cuidado jardín cuenta con una bonita piscina custodiada por altos árboles en un extenso prado de césped. El porche/cenador, la pista de tenis completan el exterior de la casa.  En la entrada principal, sorprende un enorme hall inundado de luz gracias a la cristalera situada en el alto techo del recibidor. Todas las estancias cuentan con amplios ventanales. El salón principal se divide en tres amplias estancias, una de ellas presidida por una bonita chimenea. En este extremo de la primera planta se ubica además un despacho y otra elegante sala de estar. Al otro lado del hall, accedemos a la estupenda cocina con isla y campana exenta, office y despensa. Anexa a ella contamos con otra sala de estar de estilo rústico con acceso directo al jardín, que hace las veces de entrada de servicio. Precisamente por la puerta trasera de la cocina se accede al cuarto de servicio, con su correspondiente cuarto de baño. Esta planta se completa con dos coquetos aseos de cortesía. Subimos por la preciosa escalera de madera en zig zag a la segunda y última planta de la casa, que culmina en un extenso descansillo que distribuye sus 5 amplios y luminosos dormitorios, todos ellos con cuarto de baño en suite. El dormitorio principal cuenta además con sauna y vestidor. Una ancha terraza con barandilla en piedra y vistas al jardín recorre el exterior de esta planta. El garaje de la vivienda no está exento de protagonismo por sus enormes dimensiones, lo cual ofrece un sin fin de posibilidades más allá de su funcionalidad obvia. La casa está ubicada en una de las mejores zonas del municipio de Majadahonda. Es un área residencial urbana a 5 minutos andando del centro de la población y a un un paso del Monte del Pilar, con zonas comerciales, servicios, centros de salud, colegios, guarderías, zonas verdes y otras dotaciones que le confieren un alto grado de confort sin perder la practicidad de tener todo a mano. Excelentes comunicaciones con acceso casi directo a la A-6 y la M-503, así como a la estación del tren de cercanías del municipio y la red de autobuses, parada a menos de 5 minutos con conexión directa a Madrid y otros municipios vecinos. Un entorno familiar y agradable en plena naturaleza urbana de Majadahonda.",
+            "hasVideo": true,
+            "status": "good",
+            "newDevelopment": false,
+            "parkingSpace": {
+                "hasParkingSpace": true,
+                "isParkingSpaceIncludedInPrice": true
+            },
+            "priceByArea": 3473.0,
+            "detailedType": {
+                "typology": "chalet",
+                "subTypology": "independantHouse"
+            },
+            "suggestedTexts": {
+                "subtitle": "Zona Carretera del Plantío, Majadahonda",
+                "title": "Casa independiente"
+            },
+            "hasPlan": true,
+            "has3DTour": true,
+            "has360": false,
+            "hasStaging": false,
+            "topNewDevelopment": false,
+            "topPlus": false
+        },
+        {
+            "propertyCode": "85893163",
+            "thumbnail": "https://img4.idealista.com/blur/WEB_LISTING/0/id.pro.es.image.master/a6/6a/a5/678148352.webp",
+            "numPhotos": 23,
+            "floor": "3",
+            "price": 800000.0,
+            "priceInfo": {
+                "price": {
+                    "amount": 800000.0
+                }
+            },
+            "propertyType": "flat",
+            "operation": "sale",
+            "size": 163.0,
+            "exterior": true,
+            "rooms": 5,
+            "bathrooms": 2,
+            "address": "calle Pez",
+            "province": "Madrid",
+            "municipality": "Madrid",
+            "district": "Centro",
+            "country": "es",
+            "neighborhood": "Malasaña-Universidad",
+            "latitude": 40.42438,
+            "longitude": -3.70302,
+            "showAddress": false,
+            "url": "https://www.idealista.com/inmueble/85893163/",
+            "description": "Magnifica propiedad en la zona mas demandada de Madrid, UNIVERSIDAD- MALASAÑA. SIN COMISIÓN DE AGENCIA Piso exterior EXTERIOR de 163 m2 con mucha luz. Se trata de una tercera planta en un edificio moderno con dos viviendas por planta y ASCENSOR. Costa de hall, salón comedor, despacho, 4 dormitorios, cocina, baño y aseo. Dispone de numerosos armarios empotrados en todas las habitaciones y pasillos. Los gastos de comunidad son bajos y en el caso de derramas los gastos son asumidos en un 40% por el teatro adyacente por lo que resulta muy ventajoso. La finca dispone de ascensor. La vivienda se encuentra en excelentes condiciones y cuenta con grandes posibilidades de reforma. Ocasión única de vivir a 5 minutos de la Gran Vía madrileña pero disfrutando de una ambiente clásico y tranquilo. Transporte publico a escasos metros ( metro, autobús... ) Pasear por el barrio es una delicia para los sentidos y muy recomendable ya que apenas hay vehículos en muchas de sus calles a pesar de no ser peatonales.",
+            "hasVideo": true,
+            "status": "good",
+            "newDevelopment": false,
+            "hasLift": true,
+            "priceByArea": 4908.0,
+            "detailedType": {
+                "typology": "flat"
+            },
+            "suggestedTexts": {
+                "subtitle": "Malasaña-Universidad, Madrid",
+                "title": "Piso en calle Pez"
+            },
+            "hasPlan": true,
+            "has3DTour": false,
+            "has360": false,
+            "hasStaging": false,
+            "topNewDevelopment": false,
+            "topPlus": false
+        },
+        {
+            "propertyCode": "91731760",
+            "thumbnail": "https://img4.idealista.com/blur/WEB_LISTING/0/id.pro.es.image.master/a2/19/18/774057227.webp",
+            "externalReference": "MA706",
+            "numPhotos": 22,
+            "floor": "en",
+            "price": 335000.0,
+            "priceInfo": {
+                "price": {
+                    "amount": 335000.0
+                }
+            },
+            "propertyType": "flat",
+            "operation": "sale",
+            "size": 71.0,
+            "exterior": true,
+            "rooms": 2,
+            "bathrooms": 2,
+            "address": "calle de los Mancebos, 10",
+            "province": "Madrid",
+            "municipality": "Madrid",
+            "district": "Centro",
+            "country": "es",
+            "neighborhood": "Palacio",
+            "latitude": 40.4121158,
+            "longitude": -3.7124082,
+            "showAddress": true,
+            "url": "https://www.idealista.com/inmueble/91731760/",
+            "description": "PYR SOLUTIONS pone en venta este increíble y reformado piso de Dos habitaciones, dos baños, cocina nueva y con todos los electrodomésticos necesarios para entrar a vivir. Piso Interior con luz natural, consta de una excelente distribución, salón con TV y un sofá cama, mesa de comedor y una cocina totalmente equipada con frigorífico, microondas, lavadora y Lavavajillas. Las habitaciones cuentan con una cama doble y armarios de gran capacidad. El pasillo tiene iluminación mediante luces led. Está en una zona inmejorable, tiene una conexión muy buena para todos lados de Madrid. La zona está llena de bares, tiendas, comercios, gimnasios y supermercados donde encuentras de todo. Metro la La latina. Si tienes alguna pregunta no dudes en llamarnos o escribirnos. En PYR Solutions estamos encantados de poderte atenderte: Para mayor información:  \". \". \". \". \".",
+            "hasVideo": false,
+            "status": "good",
+            "newDevelopment": false,
+            "hasLift": false,
+            "priceByArea": 4718.0,
+            "detailedType": {
+                "typology": "flat"
+            },
+            "suggestedTexts": {
+                "subtitle": "Palacio, Madrid",
+                "title": "Piso en calle de los Mancebos, 10"
+            },
+            "hasPlan": false,
+            "has3DTour": false,
+            "has360": false,
+            "hasStaging": false,
+            "topNewDevelopment": false,
+            "topPlus": false
+        },
+        {
+            "propertyCode": "89727846",
+            "thumbnail": "https://img4.idealista.com/blur/WEB_LISTING/0/id.pro.es.image.master/9d/b7/23/777073604.webp",
+            "externalReference": "JM 148818",
+            "numPhotos": 56,
+            "price": 1990000.0,
+            "priceInfo": {
+                "price": {
+                    "amount": 1990000.0
+                }
+            },
+            "propertyType": "chalet",
+            "operation": "sale",
+            "size": 600.0,
+            "rooms": 5,
+            "bathrooms": 5,
+            "address": "avenida Paralela s/n",
+            "province": "Madrid",
+            "municipality": "Majadahonda",
+            "district": "Zona Carretera del Plantío",
+            "country": "es",
+            "latitude": 40.4751191,
+            "longitude": -3.8612704,
+            "showAddress": true,
+            "url": "https://www.idealista.com/inmueble/89727846/",
+            "description": "Gilmar Consulting Majadahonda presenta una Excepcional Oportunidad: Chalet Independiente de 600 m² en Parcela de 2.794 m² con Piscina y Pista de Tenis Descubre el epitome del lujo residencial con este impresionante chalet independiente, una verdadera joya que redefine la vida de ensueño. Con 600 metros cuadrados distribuidos en 3 plantas y una parcela de 2.794 metros cuadrados, esta propiedad te ofrece espacio, estilo y comodidad en cada rincón. Desde el primer momento, te cautivará el suelo de parquet que añade elegancia y calidez a cada espacio. Los 5 dormitorios y 5 baños, distribuidos estratégicamente, te brindan la privacidad que deseas y el confort que mereces. Cada amanecer se convierte en una experiencia inolvidable gracias a la orientación sur, que inunda de luz natural y energía positiva cada rincón. La cocina, super amplia y equipada con lo último en tecnología y diseño, se convierte en el corazón de la casa, invitándote a crear y disfrutar de tus platos favoritos. Los detalles arquitectónicos cuidadosamente seleccionados y los acabados de primera calidad son una muestra del nivel de excelencia que esta propiedad ofrece. Además de su interior excepcional, este chalet también te sorprenderá en el exterior. La piscina te espera para refrescarte durante los cálidos días de verano, mientras que la pista de tenis es una invitación constante para mantener un estilo de vida activo y saludable. Esta propiedad se encuentra en perfecto estado, lo que significa que puedes mudarte de inmediato sin preocupaciones. Es una oportunidad única para invertir en una residencia de calidad, diseñada para satisfacer todas tus necesidades y deseos. Para obtener más detalles o concertar una visita, no dudes en ponerte en contacto  En la planta principal de este increíble chalet nos encontramos con un imponente Hall el cual esta presidido por una bonita escalera, desde el hall tenemos acceso al salón, el cual se encuentra dividido en tres espaciosas estancias, en una de ellas disfrutamos de una bonita chimenea. Además del gran salón, en planta disponemos de un amplio despacho y sala de estar, dispone de cocina con isla y oficie, junto a la misma otra sala de estar con salida al jardín, desde la cocina se accede a la zona de servicio. En la planta primera encontramos la zona de descanso compuesta por cinco habitaciones a los cuales se accede desde un amplio distribuidor. Bajo esta vivienda disponemos de un garaje que sorprenderá por sus dimensiones La amplitud en los espacios son sinónimo de esta casa, sus innumerables rincones, detalles y luminosidad hacen de este hogar un lugar privilegiado para los mas exigentes.  Se encuentra ubicada en una estratégica zona residencial, tranquila, pero a la vez fantásticamente comunicada y con toda clase de servicios a mano, con autobús en la puerta y a menos de 10 minutos andando de la estación de Renfe. Majadahonda es uno de los municipios con más encanto de la zona de la A6 en Madrid y con mayor calidad de vida. Su Gran Via peatonal, abundantes zonas verdes y parques, buenos restaurantes y comercios convierten a este municipio en el lugar ideal elegido por muchos madrileños para vivir y desconectar de la gran ciudad. En Gilmar trabajamos para ofrecer a nuestros clientes los mejores inmuebles desde hace 37 años. Cubrimos todas las necesidades inmobiliarias: viviendas, oficinas, locales comerciales, solares, fincas rústicas, terrenos para construir... Disponemos de más de 30 equipos especializados en distintas zonas al servicio de más de 90.000 clientes nacionales e internacionales, que cuentan con asesoramiento necesario para garantizar su seguridad, eficacia jurídica y la mejor rentabilidad financiero-fiscal.",
+            "hasVideo": true,
+            "status": "good",
+            "newDevelopment": false,
+            "parkingSpace": {
+                "hasParkingSpace": true,
+                "isParkingSpaceIncludedInPrice": true
+            },
+            "priceByArea": 3317.0,
+            "detailedType": {
+                "typology": "chalet",
+                "subTypology": "independantHouse"
+            },
+            "suggestedTexts": {
+                "subtitle": "Zona Carretera del Plantío, Majadahonda",
+                "title": "Casa independiente en avenida Paralela s/n"
+            },
+            "hasPlan": true,
+            "has3DTour": true,
+            "has360": false,
+            "hasStaging": true,
+            "highlight": {
+                "groupDescription": "Top"
+            },
+            "topNewDevelopment": false,
+            "topPlus": false
+        },
+        {
+            "propertyCode": "89783909",
+            "thumbnail": "https://img4.idealista.com/blur/WEB_LISTING/0/id.pro.es.image.master/30/2a/b4/776452973.webp",
+            "numPhotos": 14,
+            "floor": "bj",
+            "price": 360000.0,
+            "priceInfo": {
+                "price": {
+                    "amount": 360000.0
+                }
+            },
+            "propertyType": "flat",
+            "operation": "sale",
+            "size": 84.0,
+            "exterior": true,
+            "rooms": 2,
+            "bathrooms": 1,
+            "address": "calle Rafael Vega, 7",
+            "province": "Madrid",
+            "municipality": "Madrid",
+            "district": "Hortaleza",
+            "country": "es",
+            "neighborhood": "Canillas",
+            "latitude": 40.4658748,
+            "longitude": -3.6342984,
+            "showAddress": true,
+            "url": "https://www.idealista.com/inmueble/89783909/",
+            "description": "Vivienda de 2 dormitorios con una superficie de 84,52m² construidos (56,16 m² útiles). El edificio consta de 4 plantas con un hall de entrada de mármol. Las viviendas están construidas con materiales de primera calidad y, todas ellas, con cocinas amuebladas.  Excelente comunicación en metro canillas y en autobús: 87, 120, 122, etc.",
+            "hasVideo": false,
+            "status": "good",
+            "newDevelopment": false,
+            "hasLift": true,
+            "parkingSpace": {
+                "hasParkingSpace": true,
+                "isParkingSpaceIncludedInPrice": true
+            },
+            "priceByArea": 4286.0,
+            "detailedType": {
+                "typology": "flat"
+            },
+            "suggestedTexts": {
+                "subtitle": "Canillas, Madrid",
+                "title": "Piso en calle Rafael Vega, 7"
+            },
+            "hasPlan": true,
+            "has3DTour": false,
+            "has360": false,
+            "hasStaging": false,
+            "highlight": {
+                "groupDescription": "Destacado"
+            },
+            "topNewDevelopment": false,
+            "topPlus": false
+        },
+        {
+            "propertyCode": "89255855",
+            "thumbnail": "https://img4.idealista.com/blur/WEB_LISTING/0/id.pro.es.image.master/6e/34/6c/767281170.webp",
+            "externalReference": "LAVAPIES",
+            "numPhotos": 23,
+            "floor": "1",
+            "price": 189000.0,
+            "priceInfo": {
+                "price": {
+                    "amount": 189000.0
+                }
+            },
+            "propertyType": "flat",
+            "operation": "sale",
+            "size": 42.0,
+            "exterior": false,
+            "rooms": 3,
+            "bathrooms": 1,
+            "address": "calle del Ave María",
+            "province": "Madrid",
+            "municipality": "Madrid",
+            "district": "Centro",
+            "country": "es",
+            "neighborhood": "Lavapiés-Embajadores",
+            "latitude": 40.4079035,
+            "longitude": -3.7031114,
+            "showAddress": false,
+            "url": "https://www.idealista.com/inmueble/89255855/",
+            "description": "Piso céntrico situado a 100 metros de Plaza Lavapiés. Barrio en continua transformación y auge. La finca está en buen estado y en una calle tranquila. Ascensor. El piso se distribuye en tres habitaciones, salon, cocina independiente y baño, ademas tiene todas las comunicaciones y servicios tanto de día como de noche. Esta representativa zona de la capital cuenta tanto con teatros y espacios culturales como con lugares de ocio y reunión, por lo que la propuesta es perfecta y ha creado tendencia en la capital. Interesante oportunidad para inversores o particulares de hacerse con un inmueble en este emblemático barrio de Madrid, a tan sólo cinco minutos caminando de Puerta del SoL.",
+            "hasVideo": false,
+            "status": "good",
+            "newDevelopment": false,
+            "hasLift": true,
+            "priceByArea": 4500.0,
+            "detailedType": {
+                "typology": "flat"
+            },
+            "suggestedTexts": {
+                "subtitle": "Lavapiés-Embajadores, Madrid",
+                "title": "Piso en calle del Ave María"
+            },
+            "hasPlan": true,
+            "has3DTour": false,
+            "has360": false,
+            "hasStaging": false,
+            "topNewDevelopment": false,
+            "topPlus": false
+        },
+        {
+            "propertyCode": "89914059",
+            "thumbnail": "https://img4.idealista.com/blur/WEB_LISTING/0/id.pro.es.image.master/f0/67/b7/779207244.webp",
+            "externalReference": "F550",
+            "numPhotos": 4,
+            "floor": "4",
+            "price": 4500000.0,
+            "priceInfo": {
+                "price": {
+                    "amount": 4500000.0
+                }
+            },
+            "propertyType": "flat",
+            "operation": "sale",
+            "size": 401.0,
+            "exterior": true,
+            "rooms": 5,
+            "bathrooms": 6,
+            "address": "barrio Almagro",
+            "province": "Madrid",
+            "municipality": "Madrid",
+            "district": "Chamberí",
+            "country": "es",
+            "neighborhood": "Almagro",
+            "latitude": 40.427444,
+            "longitude": -3.6929817,
+            "showAddress": false,
+            "url": "https://www.idealista.com/inmueble/89914059/",
+            "description": "Espectacular inmueble ubicado en un edificio clásico en el corazón de Almagro. Esta vivienda de 401 m² con reforma y diseño llevada a cabo por interiorista cuenta con un hall de entrada con acceso a un amplio salón con chimenea dividido en diferentes ambientes con comedor independiente y cuatro balcones con vidrios de seguridad e insonorizados a la calle. La cocina de diseño cuenta con una maravillosa isla central, diseño espacial de Silestone Calacata, con mesa incorporada y con electrodomésticos de alta gama. Dispone de una biblioteca o sala polivalente y un aseo de cortesía. La zona de descanso se compone de cuatro dormitorios y cuatro baños. Especial mención al dormitorio principal de 34,30 m² con chimenea, vestidor de 17,44 m² y un gran baño de 10,11 m² así como al segundo dormitorio en suite con un amplio vestidor y baño. Zona de servicio con lavandería independiente amueblada y equipada con lavadora y secadora, al lado del dormitorio y baño de servicio. Cabe destacar la calidad de los acabados que se han utilizado en la reforma así como que toda la vivienda consta de sistema de domótica, hay 2 home cinemas con equipos completos, en la biblioteca y el dormitorio principal. La domótica controla la iluminación, el aire acondicionado, sistema anti-inundaciones, diferentes escenas de luz… Las diferentes estancias cuentan con sistema de sonido. Único piso por planta gozando de una autentica tranquilidad y luminosidad. Portero físico. Fortuny Madrid Real Estate es una empresa joven y emprendedora, formada por un grupo de consultores inmobiliarios especializados en la zona Prime de Madrid, creada con el objetivo de satisfacer las necesidades de los clientes más exigentes.",
+            "hasVideo": false,
+            "status": "good",
+            "newDevelopment": false,
+            "hasLift": true,
+            "parkingSpace": {
+                "hasParkingSpace": true,
+                "isParkingSpaceIncludedInPrice": false,
+                "parkingSpacePrice": 40000.0
+            },
+            "priceByArea": 11222.0,
+            "detailedType": {
+                "typology": "flat"
+            },
+            "suggestedTexts": {
+                "subtitle": "Almagro, Madrid",
+                "title": "Piso"
+            },
+            "hasPlan": false,
+            "has3DTour": false,
+            "has360": false,
+            "hasStaging": false,
+            "topNewDevelopment": false,
+            "topPlus": false
+        },
+        {
+            "propertyCode": "464681",
+            "thumbnail": "https://img4.idealista.com/blur/WEB_LISTING/0/id.pro.es.image.master/f3/2e/41/240376690.webp",
+            "externalReference": "1512",
+            "numPhotos": 21,
+            "price": 2800000.0,
+            "priceInfo": {
+                "price": {
+                    "amount": 2800000.0
+                }
+            },
+            "propertyType": "chalet",
+            "operation": "sale",
+            "size": 700.0,
+            "rooms": 6,
+            "bathrooms": 6,
+            "address": "calle Paradores, 3",
+            "province": "Madrid",
+            "municipality": "Madrid",
+            "district": "Moncloa",
+            "country": "es",
+            "neighborhood": "El Plantío",
+            "latitude": 40.4763621,
+            "longitude": -3.8288946,
+            "showAddress": true,
+            "url": "https://www.idealista.com/inmueble/464681/",
+            "description": "MAGNÍFICA CASA CON PISCINA Y JARDÍN. Si busca vivir dentro de un entorno natural pero sin renunciar a la cercanía a Madrid, CALIBE ASESORES INMOBILIARIOS pone a su disposición este precioso chalet de diseño, con 2500 m. de parcela, en un estado impecable (prácticamente a estrenar) e inmejorables calidades. La vivienda se ubica en la zona norte de Madrid, en el distrito de Moncloa -Aravaca, concretamente en La Florida - Casaquemada, dentro de una urbanización cerrada, seguridad 24 horas, jardines, pista de pádel, zona de aparcamiento para visitas que se caracteriza por su tranquilidad y privacidad y que, para su comodidad, tiene una parada de autobús a la entrada de la urbanización. La vivienda se distribuye en 3 plantas y dispone de 4 dormitorios en suite, salón, comedor, despacho, aseo de invitados, varias terrazas, porche, garaje para cuatro vehículos con sala de calderas y trastero. Además tiene una zona de servicio con dormitorio, baño, cuarto de plancha, cocina y office. Como servicios añadidos, podemos destacar que dispone de ascensor, aire acondicionado y calefacción por suelo radiante. En el exterior encontramos un jardín de maravilloso diseño con piscina privada Si necesita más información acerca de esta magnífica vivienda, o quiere visitarlo para ver todas las posibilidades que ofrece, puede contactar con nosotros por teléfono o a través de nuestra web, CALIBE ASESORES INMOBILIARIOS le ofrece un asesoramiento completo y personalizado durante toda la gestión.",
+            "hasVideo": true,
+            "status": "good",
+            "newDevelopment": false,
+            "parkingSpace": {
+                "hasParkingSpace": true,
+                "isParkingSpaceIncludedInPrice": true
+            },
+            "priceByArea": 4000.0,
+            "detailedType": {
+                "typology": "chalet",
+                "subTypology": "independantHouse"
+            },
+            "suggestedTexts": {
+                "subtitle": "El Plantío, Madrid",
+                "title": "Casa independiente en calle Paradores, 3"
+            },
+            "hasPlan": true,
+            "has3DTour": false,
+            "has360": true,
+            "hasStaging": false,
+            "topNewDevelopment": false,
+            "topPlus": false
+        },
+        {
+            "propertyCode": "89953071",
+            "thumbnail": "https://img4.idealista.com/blur/WEB_LISTING/0/id.pro.es.image.master/83/87/de/1036441764.webp",
+            "externalReference": "W-02I70Y",
+            "numPhotos": 25,
+            "floor": "5",
+            "price": 550000.0,
+            "priceInfo": {
+                "price": {
+                    "amount": 550000.0
+                }
+            },
+            "propertyType": "flat",
+            "operation": "sale",
+            "size": 90.0,
+            "exterior": true,
+            "rooms": 3,
+            "bathrooms": 2,
+            "address": "barrio Argüelles",
+            "province": "Madrid",
+            "municipality": "Madrid",
+            "district": "Moncloa",
+            "country": "es",
+            "neighborhood": "Argüelles",
+            "latitude": 40.4311574,
+            "longitude": -3.7215878,
+            "showAddress": false,
+            "url": "https://www.idealista.com/inmueble/89953071/",
+            "description": "Propiedad con Encanto en Argüelles Engel&Völkers se complace en presentar esta peculiar vivienda ubicada en la última planta de un edificio singular de finales del siglo XIX, a mitad de camino entre el maravilloso Parque del Oeste y la zona comercial de Princesa.  La vivienda cuenta con tres dormitorios, dos cuartos de baño, uno de ellos en suite, y con una cocina integrada completamente equipada, con zona de despensa y cuarto de lavado independiente.  Vivienda completamente exterior, muy luminosa con ventanas,( la mayoría tipo velux) en todas las estancias y con una reforma muy práctica y adecuada aprovechando al máximo el espacio, incluso en las zonas abuhardilladas, con el característico encanto de sus vigas vistas. Instalación de Aire Acondicionado en todas las estancias y caldera de Gas con agua caliente individual. El Barrio de Argüelles, nació en el periodo del Ensanche, y es un magnifico exponente del Madrid burgués. Limitado por el Parque de Debod y la calle Princesa, avanza en una estrecha franja desde la Plaza de España y hacia el Parque del Oeste, delimitado por las calles de Pintor Rosales, Irún, Paseo Moret, Ferraz, Princesa, la Plaza de España y la Cuesta de San Vicente. En sus calles se conservan palacios como el de la Infanta Isabel de Borbón y antiguos asilos y conventos, como el del Buen Suceso. Es un lugar ideal para vivir, dada su ubicación bastante céntrica, su entorno verde frente al parque del Oeste y el parque de la Montaña (donde se ubica el templo egipcio de Debod), y la presencia de numerosas tiendas, zonas de ocio, bares y restaurantes con sus atractivas terrazas. En sus calles se concentra el mayor número de cines en versión original de la ciudad, además de haber visto pasar a unos cuantos personajes importantes del celuloide español por su particular Paseo de la Fama.  Una de las zonas más singulares de la capital por su variedad y estupenda infraestructura con seis colegios, varias escuelas de educación infantil, un ambulatorio clínico, un centro de especialidades y su gran variedad de supermercados y restaurantes. Al mismo tiempo, los vecinos de este entrañable barrio disfrutan del maravilloso Parque del Oeste considerado uno de los pulmones de Madrid. Además, el distrito cuenta con excelentes comunicaciones gracias a su proximidad por un lado a la M-30, a la A-6, la Carretera de Castilla y al Intercambiador de Moncloa: con salida directa a la sierra de Madrid, y por otro lado acceso a la zona Centro de la capital. Una auténtica maravilla.",
+            "hasVideo": false,
+            "status": "good",
+            "newDevelopment": false,
+            "hasLift": true,
+            "priceByArea": 6111.0,
+            "detailedType": {
+                "typology": "flat"
+            },
+            "suggestedTexts": {
+                "subtitle": "Argüelles, Madrid",
+                "title": "Piso"
+            },
+            "hasPlan": true,
+            "has3DTour": false,
+            "has360": false,
+            "hasStaging": false,
+            "highlight": {
+                "groupDescription": "Destacado"
+            },
+            "topNewDevelopment": false,
+            "topPlus": false
+        },
+        {
+            "propertyCode": "103091881",
+            "thumbnail": "https://img4.idealista.com/blur/WEB_LISTING/0/id.pro.es.image.master/82/45/3d/1231709723.webp",
+            "externalReference": "VI-5-3-C",
+            "numPhotos": 19,
+            "floor": "3",
+            "price": 307000.0,
+            "priceInfo": {
+                "price": {
+                    "amount": 307000.0
+                }
+            },
+            "propertyType": "flat",
+            "operation": "sale",
+            "size": 129.0,
+            "exterior": true,
+            "rooms": 3,
+            "bathrooms": 2,
+            "address": "calle Cañada Real, 14",
+            "province": "Madrid",
+            "municipality": "Collado Villalba",
+            "district": "Los Negrales",
+            "country": "es",
+            "latitude": 40.6331231,
+            "longitude": -4.0158268,
+            "showAddress": true,
+            "url": "https://www.idealista.com/obra-nueva/103091881/",
+            "description": "¡ÚLTIMAS VIVIENDAS Y PRÓXIMA ENTREGA DE LA PROMOCIÓN, VERANO 2024! Habitat Villalba es un proyecto de obra nueva de 76 viviendas de dos y tres dormitorios, espacios bien distribuidos y grandes ventanales, donde la luz es la principal protagonista. Destacan sus amplias zonas comunes con JARDINES, PISCINA DE ADULTOS E INFANTIL, así como ÁREA de RECREO PARA NIÑOS en una urbanización con cierre perimetral. Todas las viviendas disponen de terrazas, garajes y trasteros en Villalba. Sin duda, una de las mejores urbanizaciones de la Sierra de Madrid con diseño funcional, moderno y urbano.  Está situado en un entorno natural privilegiado en el Valle del Guadarrama, lindando con el Parque Natural de la Cuenca Alta de Manzanares. Habitat Villalba se encuentra en un entorno natural privilegiado: el Valle del Guadarrama, lindando con el Parque Natural de la Cuenca Alta de Manzanares. La promoción está situada en el centro de la localidad, en Los Negrales, próxima a la zona comercial, en un área totalmente consolidado y con todos los servicios. Además, es una zona con muy buenas infraestructuras y comunicación excelente: cercanías, autobuses urbanos e interurbanos y acceso muy fácil a la N -VI. Habitat Villalba te permite vivir en el centro de Villalba cerca de parques naturales y centros comerciales, el Hospital de Villalba, ambulatorios, clínicas, colegios y todo tipo de servicios.",
+            "hasVideo": true,
+            "status": "newdevelopment",
+            "newDevelopment": true,
+            "hasLift": true,
+            "parkingSpace": {
+                "hasParkingSpace": true,
+                "isParkingSpaceIncludedInPrice": true
+            },
+            "newDevelopmentFinished": false,
+            "priceByArea": 2380.0,
+            "detailedType": {
+                "typology": "flat"
+            },
+            "suggestedTexts": {
+                "subtitle": "Los Negrales, Collado Villalba",
+                "title": "Piso en calle Cañada Real, 14"
+            },
+            "hasPlan": true,
+            "has3DTour": false,
+            "has360": false,
+            "hasStaging": false,
+            "topNewDevelopment": false,
+            "topPlus": false
+        },
+        {
+            "propertyCode": "39452261",
+            "thumbnail": "https://img4.idealista.com/blur/WEB_LISTING/0/id.pro.es.image.master/15/40/f7/1115957960.webp",
+            "externalReference": "VC9163",
+            "numPhotos": 87,
+            "price": 2480000.0,
+            "priceInfo": {
+                "price": {
+                    "amount": 2480000.0
+                }
+            },
+            "propertyType": "chalet",
+            "operation": "sale",
+            "size": 1080.0,
+            "rooms": 7,
+            "bathrooms": 5,
+            "address": "Ciudalcampo",
+            "province": "Madrid",
+            "municipality": "Ciudalcampo",
+            "country": "es",
+            "latitude": 40.6158473,
+            "longitude": -3.6044145,
+            "showAddress": false,
+            "url": "https://www.idealista.com/inmueble/39452261/",
+            "description": "Ambassador ofrece esta gran casa independiente en urbanización privada con seguridad 24 horas en fantástica parcela con estupendas vistas en todas direcciones. Construida en 1.997 con buenas calidades, está en buen estado de conservación. Tiene piscina, pista de paddle. Parcela muy trabajada con terrazas, viales y muretes de contención de piedra. Las fachadas son de piedra de Salamanca. Distribución: Planta principal: hall de entrada con aseo de invitados, gabanero en closet y dos despachos, uno de ellos de gran tamaño con vistas a la sierra. El hall da paso a un gran patio cubierto por un lucernario alrededor del cual se distribuyen todas las dependencias principales de la vivienda. El lucernario tiene cubierta a cuatro aguas y está provisto de un toldo motorizado. Gran salón con chimenea y techos en doble altura con la biblioteca en una galería elevada. El salón tiene salida a una estupenda terraza con vistas que está acristalada en parte. Comedor independiente para una gran mesa redonda. Cocina con zona de office y salida a un porche junto a la piscina con vistas a una gran finca protegida colindante. Distribuidor para dormitorios: Dormitorio principal con vestidor, baño y amplio salón de estar privado. Dos dormitorios con techos en doble altura en los que se ha creado un espacio superior al que se accede por escaleras independientes dentro de cada dormitorio. Cada uno tiene su baño incorporado. Existe además un cuarto dormitorio también con su vestidor y su baño. Planta superior: una balaustrada cuelga sobre el patio interior, dando acceso bajo la cubierta a la biblioteca sobre el salón principal, a un chill out de inspiración oriental y a una terraza con subida al mirador que circunda el lucernario. Planta baja: la zona principal está a nivel del jardín con grandes cristaleras a un enorme porche frente al que se ha construido una barbacoa y horno de lea. Consta de un salón de 135 m2 con chimenea y cocina. Gran sala de jacuzzi de 1.400 l, gimnasio sauna, baño turco y aseo. También en esta planta está la bodega, despensa, estancia de 60 m2 aprox. para diversos usos, cuarto de calderas y descalcificadora, sala de lavado y plancha, dormitorio de servicio con baño y garaje para cuatro coches con cuarto de herramientas. Calefacción por gasoil, persianas y toldos motorizados. La urbanización de Ciudalcampo es una de las mejores zonas residenciales de Madrid. Ubicada entre los municipios de San Sebastián de los Reyes y Colmenar Viejo. Es una zona con importantes vistas a la Sierra Norte de Madrid. Acceso en el km 28 de la A-1. Próximo al aeropuerto. A 10 km del Hospital Infanta Sofía. (De reciente construcción) Dotado de buenos colegios dentro de la urbanización; Colegio Internacional SEK (privado) La ausencia de bares y comercios dentro de la misma urbanización garantizan la tranquilidad de ésta, aunque dentro está el conocido club social RACE; con todos los servicios de, piscinas, hípica, golf, tenis, grandes jardines... Asimismo esta zona es una de las más seguras y tranquilas de Madrid debido al servicio de vigilancia presente durante las 24 horas del día y a la garita de seguridad en la entrada de la urbanización. La urbanización tiene línea de autobuses que va a Plaza de Castilla y hace paradas en el metro de San Sebastián de los Reyes. También dispone de una línea de minibuses internos que recorren toda la urbanización.",
+            "hasVideo": true,
+            "status": "good",
+            "newDevelopment": false,
+            "parkingSpace": {
+                "hasParkingSpace": true,
+                "isParkingSpaceIncludedInPrice": true
+            },
+            "priceByArea": 2296.0,
+            "detailedType": {
+                "typology": "chalet"
+            },
+            "suggestedTexts": {
+                "subtitle": "Ciudalcampo",
+                "title": "Chalet"
+            },
+            "hasPlan": true,
+            "has3DTour": true,
+            "has360": true,
+            "hasStaging": false,
+            "highlight": {
+                "groupDescription": "Top"
+            },
+            "topNewDevelopment": false,
+            "topPlus": false
+        },
+        {
+            "propertyCode": "89948746",
+            "thumbnail": "https://img4.idealista.com/blur/WEB_LISTING/0/id.pro.es.image.master/81/12/0c/1089375876.webp",
+            "externalReference": "VIL_261",
+            "numPhotos": 61,
+            "price": 1150000.0,
+            "priceInfo": {
+                "price": {
+                    "amount": 1150000.0
+                }
+            },
+            "propertyType": "chalet",
+            "operation": "sale",
+            "size": 828.0,
+            "rooms": 5,
+            "bathrooms": 7,
+            "address": "Hoyo de Manzanares",
+            "province": "Madrid",
+            "municipality": "Hoyo de Manzanares",
+            "country": "es",
+            "latitude": 40.6287106,
+            "longitude": -3.9114076,
+            "showAddress": false,
+            "url": "https://www.idealista.com/inmueble/89948746/",
+            "description": "PRECIOSO, AMPLIO y LUMINOSOS Chalet en venta ubicado en el MARAVILLOSOS PARAJE NATURAL de Hoyo de Manzanares. Este increíble chalet de 690m2 está construido al pie de la Montaña de EL PICAZO en una parcela de 2.100m2, en 3 plantas. Toda la ZONA PRINCIPAL de la vivienda esta distribuida en UNA SOLA PLANTA: Tras una INCREÍBLE PUERTA PRINCIPAL; Hall de Entrada de 21m2 desde el que se distribuyen; Gran Salón y Comedor de 60m2 con preciosa CHIMENEA de piedra; Cocina con Office (22m2) y zona de lavandería; 1 Aseo y el pasillo que da acceso a los 4 Amplios Dormitorios cada uno de ellos con sus propios cuartos de baño. La PLANTA SUPERIOR dispone de un inmenso DESPACHO/SALÓN DE ESTAR con una GRAN TERRAZA con PRECIOSAS VISTAS a MADRID; 1 Dormitorio con baño y una gran zona abuhardillada (por acabar) La PLANTA BAJA la ocupan una GRAN BODEGA con CHIMENEA; zona de juegos; Sala de Fiestas con BARRA; 1 aseo, cuarto de calderas; inmenso garaje con cabida para 6 coches; zona de herramientas. La parcela tiene varias zonas ajardinadas y PISTA DE PADEL. En cuanto a las calidades de la casa: calefacción y agua caliente funcionan por Aerotermia con radiadores y con apoyo de una caldera de gasoil que cuando la temperatura exterior es inferior a 3º salta; Ventanas de Climalit en color blanco y con mosquiteras; persianas de aluminio; puertas de paso y armarios lacados en blanco... Año de construcción 1.995. La parada de Autobús se encuentra a 900m, en 8´andando se llega al centro del pueblo y en coche son 2´. Hoyo de Manzanares dispone de todos los servicios necesarios para disfrutar de una vida plena en un enclave mágico.",
+            "hasVideo": false,
+            "status": "good",
+            "newDevelopment": false,
+            "priceByArea": 1389.0,
+            "detailedType": {
+                "typology": "chalet"
+            },
+            "suggestedTexts": {
+                "subtitle": "Hoyo de Manzanares",
+                "title": "Chalet"
+            },
+            "hasPlan": false,
+            "has3DTour": false,
+            "has360": false,
+            "hasStaging": false,
+            "topNewDevelopment": false,
+            "topPlus": false
+        },
+        {
+            "propertyCode": "90080536",
+            "thumbnail": "https://img4.idealista.com/blur/WEB_LISTING/0/id.pro.es.image.master/08/32/51/1220872581.webp",
+            "externalReference": "240491",
+            "numPhotos": 25,
+            "floor": "1",
+            "price": 370000.0,
+            "priceInfo": {
+                "price": {
+                    "amount": 370000.0
+                }
+            },
+            "propertyType": "flat",
+            "operation": "sale",
+            "size": 51.0,
+            "exterior": false,
+            "rooms": 2,
+            "bathrooms": 1,
+            "address": "calle de Narváez, 58",
+            "province": "Madrid",
+            "municipality": "Madrid",
+            "district": "Retiro",
+            "country": "es",
+            "neighborhood": "Ibiza",
+            "latitude": 40.4188778,
+            "longitude": -3.676394,
+            "showAddress": true,
+            "url": "https://www.idealista.com/inmueble/90080536/",
+            "description": "donpiso Retiro VENDE piso, en Calle de Narváez, en pleno barrio de Ibiza a pocos pasos del Parque del Retiro. Superficie construida de 51 m², en 1º planta interior. Reformado con excelentes calidades, dispone de salón con cocina americana, 2 dormitorios y 1 baño completo. Aire acondicionado y calefacción individual. Completamente amueblado y equipado con electrodomésticos de alta gama. Ventanas de climalit para buen aislamiento térmico y acústico. IDEAL INVERSIÓN: ESTE INMUEBLE ESTÁ ACTUALMENTE ALQUILADO CON EXCELENTE RENTABILIDAD Y ESTUPENDOS INQUILINOS. En uno de los barrios más cotizados de la capital, rodeado de bares y restaurantes con terrazas al aire libre. Excelentes comunicaciones mediante autobús y metro (linea 9, Ibiza).  Los gastos de comunidad son de 42 euros al mes y el IBI es de 335,89 euros al año.  Cuenta con todo tipo de servicios como comercios, farmacias y supermercados.  Financiación disponible y no cobramos honorarios al comprador.",
+            "hasVideo": true,
+            "status": "good",
+            "newDevelopment": false,
+            "hasLift": true,
+            "priceByArea": 7255.0,
+            "detailedType": {
+                "typology": "flat"
+            },
+            "suggestedTexts": {
+                "subtitle": "Ibiza, Madrid",
+                "title": "Piso en calle de Narváez, 58"
+            },
+            "hasPlan": false,
+            "has3DTour": false,
+            "has360": false,
+            "hasStaging": false,
+            "topNewDevelopment": false,
+            "topPlus": false
+        },
+        {
+            "propertyCode": "962546",
+            "thumbnail": "https://img4.idealista.com/blur/WEB_LISTING/0/id.pro.es.image.master/3c/60/99/53741254.webp",
+            "numPhotos": 34,
+            "price": 7600000.0,
+            "priceInfo": {
+                "price": {
+                    "amount": 7600000.0
+                }
+            },
+            "propertyType": "chalet",
+            "operation": "sale",
+            "size": 800.0,
+            "rooms": 7,
+            "bathrooms": 8,
+            "address": "barrio La Finca",
+            "province": "Madrid",
+            "municipality": "Pozuelo de Alarcón",
+            "district": "Zona Prado de Somosaguas - La Finca",
+            "country": "es",
+            "neighborhood": "La Finca",
+            "latitude": 40.4158489,
+            "longitude": -3.8174036,
+            "showAddress": false,
+            "url": "https://www.idealista.com/inmueble/962546/",
+            "description": "Luxhome vende chalet en los lagos 2 plantas completamente reformado.",
+            "hasVideo": false,
+            "status": "good",
+            "newDevelopment": false,
+            "parkingSpace": {
+                "hasParkingSpace": true,
+                "isParkingSpaceIncludedInPrice": true
+            },
+            "priceByArea": 9500.0,
+            "detailedType": {
+                "typology": "chalet",
+                "subTypology": "independantHouse"
+            },
+            "suggestedTexts": {
+                "subtitle": "La Finca, Pozuelo de Alarcón",
+                "title": "Casa independiente"
+            },
+            "hasPlan": false,
+            "has3DTour": false,
+            "has360": true,
+            "hasStaging": false,
+            "highlight": {
+                "groupDescription": "Destacado"
+            },
+            "topNewDevelopment": false,
+            "topPlus": false
+        },
+        {
+            "propertyCode": "90168323",
+            "thumbnail": "https://img4.idealista.com/blur/WEB_LISTING/0/id.pro.es.image.master/13/19/12/785077285.webp",
+            "externalReference": "NV149216",
+            "numPhotos": 39,
+            "price": 1990000.0,
+            "priceInfo": {
+                "price": {
+                    "amount": 1990000.0
+                }
+            },
+            "propertyType": "chalet",
+            "operation": "sale",
+            "size": 784.0,
+            "rooms": 5,
+            "bathrooms": 6,
+            "address": "paseo Cerro del Toro",
+            "province": "Madrid",
+            "municipality": "Ciudalcampo",
+            "country": "es",
+            "latitude": 40.6158475,
+            "longitude": -3.6245885,
+            "showAddress": false,
+            "url": "https://www.idealista.com/inmueble/90168323/",
+            "description": "Gilmar Consulting Inmobiliario Santo Domingo pone a la venta en la Urbanización Ciudalcampo esta magnífica vivienda unifamiliar de 784 m², con seis dormitorios y seis cuartos de baño, en parcela de 3.650 m² con muy buenas vistas y ubicada en una de las avenidas más tranquilas de la urbanización, disfrutando del contacto con la naturaleza y total intimidad.  Se trata de una vivienda diseñada por el prestigioso estudio de arquitectura MBM, compuesto por Josep Martorell, Oriol Bohigas y David Mackay, con una construcción muy moderna y eficiente, en tres plantas, con espacios muy amplios, seis dormitorios y seis cuartos de baño, y con una distribución muy cómoda en la que tenemos:  -En la planta principal, un amplio hall que da acceso al salón-comedor, con magníficas vistas y grandes ventanales, una amplia terraza de más de 40 m², cuarto de estar, cocina de diseño con office, aseo de cortesía, dormitorio principal con vestidor y baño y tres dormitorios más con dos baños, uno de ellos en suite.  -En la planta baja, encontramos una gran piscina cubierta climatizada, con grandes ventanales, gimnasio, jacuzzi, aseo y baño turco y el dormitorio de servicio con baño y cuarto de estar. -En el sótano, tenemos los cuartos de instalaciones con la sala de calderas, el cuarto de ascensor, cuadros eléctricos, el grupo de presión, aspiración centralizada, sistema de deshumectación de la piscina y la depuradora, además de la zona de lavadora. Se trata de un inmueble de dimensiones importantes pero, a la vez, muy acogedor, familiar y cómodo por su practicidad, con mucha luz, espacios muy amplios, un magnífico jardín consolidado con grandes árboles, mucha intimidad y tranquilidad y muy buenas calidades, materiales y acabados de lujo utilizados en su construcción por lo que, sin duda, se trata de una de las mejores opciones disponibles en Ciudalcampo.  La vivienda cuenta con cinco plazas a aparcamiento cubiertas, ascensor en todas sus plantas, domótica, ventanas de seguridad Tecnal, calefacción por suelo radiante, aspiración centralizada, muebles de cocina Bulthaup y electrodomésticos Gaggenau, iluminación interior y exterior por sensores de presencia, sistema de música centralizada y todo tipo de detalles de un inmueble de esta categoría. La urbanización de Ciudalcampo está considerada como una de las mejores zonas residenciales de Madrid, situada junto al Parque Regional de la Cuenca Alta del Manzanares, en los municipios de San Sebastián de los Reyes y Colmenar Viejo, en un entorno privilegiado, con impresionantes vistas a la Sierra Norte de Madrid con rápido acceso en el Km 28 de la N-1 y muy próxima al aeropuerto de Madrid Barajas, IFEMA y a parques empresariales con múltiples empresas multinacionales. Dispone de excepcionales dotaciones y servicios dentro de la propia urbanización: Colegio internacional SEK, Club deportivo RACE (Golf, Paddle, Tenis, Piscina, Gimnasio, Hípica, Fútbol), Servicio regular de autobuses a Madrid e interno dentro de la propia urbanización, Oficina de correos y Centro Comercial Santo Domingo. Además de 6,5Km de circuito físico para la práctica de deporte al aire libre y 41km de viales con tráfico limitado a la propia urbanización, ideales para los amantes de paseos en plena naturaleza. Cuenta, además, con un sistema de cámaras y vallado perimetral con servicio de seguridad 24 horas, patrullas de vigilancia y control de barrera a la entrada.",
+            "hasVideo": true,
+            "status": "good",
+            "newDevelopment": false,
+            "parkingSpace": {
+                "hasParkingSpace": true,
+                "isParkingSpaceIncludedInPrice": true
+            },
+            "priceByArea": 2538.0,
+            "detailedType": {
+                "typology": "chalet",
+                "subTypology": "independantHouse"
+            },
+            "suggestedTexts": {
+                "subtitle": "Ciudalcampo",
+                "title": "Casa independiente en paseo Cerro del Toro"
+            },
+            "hasPlan": false,
+            "has3DTour": true,
+            "has360": false,
+            "hasStaging": true,
+            "topNewDevelopment": false,
+            "topPlus": false
+        },
+        {
+            "propertyCode": "105174377",
+            "thumbnail": "https://img4.idealista.com/blur/WEB_LISTING/0/id.pro.es.image.master/45/a1/d1/1218228625.webp",
+            "externalReference": "TIPO W",
+            "numPhotos": 47,
+            "price": 859000.0,
+            "priceInfo": {
+                "price": {
+                    "amount": 859000.0
+                }
+            },
+            "propertyType": "flat",
+            "operation": "sale",
+            "size": 129.0,
+            "exterior": true,
+            "rooms": 3,
+            "bathrooms": 2,
+            "address": "calle de la Costa Brava, 13",
+            "province": "Madrid",
+            "municipality": "Madrid",
+            "district": "Fuencarral",
+            "country": "es",
+            "neighborhood": "Mirasierra",
+            "latitude": 40.4944528,
+            "longitude": -3.7018807,
+            "showAddress": true,
+            "url": "https://www.idealista.com/obra-nueva/105174377/",
+            "description": "Reserva ahora y escritura a la vuelta de verano. VISITA EL PISO PILOTO TE ESPERAMOS E LA CALLE COSTA BRAVA, 13 portal A, 2º 4- Madrid  Más de 5.000 m² de zonas comunes. Situado en la calle Costa Brava, Residencial Mirasierra es un lugar único en un entorno seguro donde se ha tenido muy en cuenta la confortabilidad de las familias. En su diseño se ha concebido cada detalle, buscando emparejar el lujo con la vanguardia, creando un lugar con amplias zonas verdes que combina sitios de recreo de mayores y niños, con su original área de juegos, el gimnasio equipado con las máquinas más modernas, sala comunitaria y las piscinas. El edificio está rodeado de jardines, diseñados para el deleite de adultos y niños, con bancos donde pasar la tarde mientras los pequeños juegan en el singular parque infantil de la serpiente. Todo ello en un entorno cerrado y seguro donde el confort está asegurado. Las calidades de lujo del Residencial Mirasierra son un distintivo que lo diferencia de otros proyectos inmobiliarios en Madrid. Las viviendas cuentan con acabados y materiales de alta calidad que aseguran una experiencia de alto nivel. Los espacios interiores se han diseñado con gran atención al detalle y al confort, empleando materiales nobles como el cristal, la madera y el acero, que crean un ambiente elegante y sofisticado. Todo ello acompañado de la última tecnología aplicada a la construcción: sistemas domóticos avanzados y soluciones en eficiencia energética como la geotermia. Los espectaculares áticos con piscina privada del Residencial Mirasierra son un sueño hecho realidad para cualquier persona que busca la combinación perfecta de confort y privacidad. En el entorno destaca la amplia oferta educativa, (colegios como Fomento El Prado, Centro Concertado de Enseñanza la Salle Sagrado Corazón, NACE Schools, Colegio Madre del Divino Pastor, Santa María La Blanca, …), y también la oferta educativa universitaria. La cercanía al centro de la ciudad mediante transporte privado o público, a escasos metros de la parada de Metro Paco de Lucía y junto a la estación de Cercanías que conecta con Atocha, Ave y Aeropuerto, o la oferta de servicios públicos y comerciales; y todo en un barrio seguro, y con baja densidad de vivienda.",
+            "hasVideo": true,
+            "status": "newdevelopment",
+            "newDevelopment": true,
+            "hasLift": true,
+            "parkingSpace": {
+                "hasParkingSpace": true,
+                "isParkingSpaceIncludedInPrice": true
+            },
+            "newDevelopmentFinished": true,
+            "priceByArea": 6659.0,
+            "detailedType": {
+                "typology": "flat"
+            },
+            "suggestedTexts": {
+                "subtitle": "Mirasierra, Madrid",
+                "title": "Piso en calle de la Costa Brava, 13"
+            },
+            "hasPlan": true,
+            "has3DTour": false,
+            "has360": false,
+            "hasStaging": false,
+            "topNewDevelopment": false,
+            "topPlus": false
+        },
+        {
+            "propertyCode": "105094189",
+            "thumbnail": "https://img4.idealista.com/blur/WEB_LISTING/0/id.pro.es.image.master/9f/0f/53/1218230002.webp",
+            "externalReference": "TIPO AD",
+            "numPhotos": 47,
+            "floor": "2",
+            "price": 923000.0,
+            "priceInfo": {
+                "price": {
+                    "amount": 923000.0
+                }
+            },
+            "propertyType": "flat",
+            "operation": "sale",
+            "size": 155.0,
+            "exterior": true,
+            "rooms": 3,
+            "bathrooms": 2,
+            "address": "calle de la Costa Brava, 13",
+            "province": "Madrid",
+            "municipality": "Madrid",
+            "district": "Fuencarral",
+            "country": "es",
+            "neighborhood": "Mirasierra",
+            "latitude": 40.4944528,
+            "longitude": -3.7018807,
+            "showAddress": true,
+            "url": "https://www.idealista.com/obra-nueva/105094189/",
+            "description": "Reserva ahora y escritura a la vuelta de verano. VISITA EL PISO PILOTO TE ESPERAMOS E LA CALLE COSTA BRAVA, 13 portal A, 2º 4- Madrid  Más de 5.000 m² de zonas comunes. Situado en la calle Costa Brava, Residencial Mirasierra es un lugar único en un entorno seguro donde se ha tenido muy en cuenta la confortabilidad de las familias. En su diseño se ha concebido cada detalle, buscando emparejar el lujo con la vanguardia, creando un lugar con amplias zonas verdes que combina sitios de recreo de mayores y niños, con su original área de juegos, el gimnasio equipado con las máquinas más modernas, sala comunitaria y las piscinas. El edificio está rodeado de jardines, diseñados para el deleite de adultos y niños, con bancos donde pasar la tarde mientras los pequeños juegan en el singular parque infantil de la serpiente. Todo ello en un entorno cerrado y seguro donde el confort está asegurado. Las calidades de lujo del Residencial Mirasierra son un distintivo que lo diferencia de otros proyectos inmobiliarios en Madrid. Las viviendas cuentan con acabados y materiales de alta calidad que aseguran una experiencia de alto nivel. Los espacios interiores se han diseñado con gran atención al detalle y al confort, empleando materiales nobles como el cristal, la madera y el acero, que crean un ambiente elegante y sofisticado. Todo ello acompañado de la última tecnología aplicada a la construcción: sistemas domóticos avanzados y soluciones en eficiencia energética como la geotermia. Los espectaculares áticos con piscina privada del Residencial Mirasierra son un sueño hecho realidad para cualquier persona que busca la combinación perfecta de confort y privacidad. En el entorno destaca la amplia oferta educativa, (colegios como Fomento El Prado, Centro Concertado de Enseñanza la Salle Sagrado Corazón, NACE Schools, Colegio Madre del Divino Pastor, Santa María La Blanca, …), y también la oferta educativa universitaria. La cercanía al centro de la ciudad mediante transporte privado o público, a escasos metros de la parada de Metro Paco de Lucía y junto a la estación de Cercanías que conecta con Atocha, Ave y Aeropuerto, o la oferta de servicios públicos y comerciales; y todo en un barrio seguro, y con baja densidad de vivienda.",
+            "hasVideo": true,
+            "status": "newdevelopment",
+            "newDevelopment": true,
+            "hasLift": true,
+            "parkingSpace": {
+                "hasParkingSpace": true,
+                "isParkingSpaceIncludedInPrice": true
+            },
+            "newDevelopmentFinished": true,
+            "priceByArea": 5955.0,
+            "detailedType": {
+                "typology": "flat"
+            },
+            "suggestedTexts": {
+                "subtitle": "Mirasierra, Madrid",
+                "title": "Piso en calle de la Costa Brava, 13"
+            },
+            "hasPlan": true,
+            "has3DTour": false,
+            "has360": false,
+            "hasStaging": false,
+            "topNewDevelopment": false,
+            "topPlus": false
+        },
+        {
+            "propertyCode": "104162266",
+            "thumbnail": "https://img4.idealista.com/blur/WEB_LISTING/0/id.pro.es.image.master/9f/0f/53/1218230002.webp",
+            "externalReference": "TIPO J",
+            "numPhotos": 47,
+            "floor": "1",
+            "price": 960000.0,
+            "priceInfo": {
+                "price": {
+                    "amount": 960000.0
+                }
+            },
+            "propertyType": "flat",
+            "operation": "sale",
+            "size": 167.0,
+            "exterior": true,
+            "rooms": 4,
+            "bathrooms": 2,
+            "address": "calle de la Costa Brava, 13",
+            "province": "Madrid",
+            "municipality": "Madrid",
+            "district": "Fuencarral",
+            "country": "es",
+            "neighborhood": "Mirasierra",
+            "latitude": 40.4944528,
+            "longitude": -3.7018807,
+            "showAddress": true,
+            "url": "https://www.idealista.com/obra-nueva/104162266/",
+            "description": "Reserva ahora y escritura a la vuelta de verano. VISITA EL PISO PILOTO TE ESPERAMOS E LA CALLE COSTA BRAVA, 13 portal A, 2º 4- Madrid  Más de 5.000 m² de zonas comunes. Situado en la calle Costa Brava, Residencial Mirasierra es un lugar único en un entorno seguro donde se ha tenido muy en cuenta la confortabilidad de las familias. En su diseño se ha concebido cada detalle, buscando emparejar el lujo con la vanguardia, creando un lugar con amplias zonas verdes que combina sitios de recreo de mayores y niños, con su original área de juegos, el gimnasio equipado con las máquinas más modernas, sala comunitaria y las piscinas. El edificio está rodeado de jardines, diseñados para el deleite de adultos y niños, con bancos donde pasar la tarde mientras los pequeños juegan en el singular parque infantil de la serpiente. Todo ello en un entorno cerrado y seguro donde el confort está asegurado. Las calidades de lujo del Residencial Mirasierra son un distintivo que lo diferencia de otros proyectos inmobiliarios en Madrid. Las viviendas cuentan con acabados y materiales de alta calidad que aseguran una experiencia de alto nivel. Los espacios interiores se han diseñado con gran atención al detalle y al confort, empleando materiales nobles como el cristal, la madera y el acero, que crean un ambiente elegante y sofisticado. Todo ello acompañado de la última tecnología aplicada a la construcción: sistemas domóticos avanzados y soluciones en eficiencia energética como la geotermia. Los espectaculares áticos con piscina privada del Residencial Mirasierra son un sueño hecho realidad para cualquier persona que busca la combinación perfecta de confort y privacidad. En el entorno destaca la amplia oferta educativa, (colegios como Fomento El Prado, Centro Concertado de Enseñanza la Salle Sagrado Corazón, NACE Schools, Colegio Madre del Divino Pastor, Santa María La Blanca, …), y también la oferta educativa universitaria. La cercanía al centro de la ciudad mediante transporte privado o público, a escasos metros de la parada de Metro Paco de Lucía y junto a la estación de Cercanías que conecta con Atocha, Ave y Aeropuerto, o la oferta de servicios públicos y comerciales; y todo en un barrio seguro, y con baja densidad de vivienda.",
+            "hasVideo": true,
+            "status": "newdevelopment",
+            "newDevelopment": true,
+            "hasLift": true,
+            "parkingSpace": {
+                "hasParkingSpace": true,
+                "isParkingSpaceIncludedInPrice": true
+            },
+            "newDevelopmentFinished": true,
+            "priceByArea": 5749.0,
+            "detailedType": {
+                "typology": "flat"
+            },
+            "suggestedTexts": {
+                "subtitle": "Mirasierra, Madrid",
+                "title": "Piso en calle de la Costa Brava, 13"
+            },
+            "hasPlan": true,
+            "has3DTour": false,
+            "has360": false,
+            "hasStaging": false,
+            "topNewDevelopment": false,
+            "topPlus": false
+        },
+        {
+            "propertyCode": "102654205",
+            "thumbnail": "https://img4.idealista.com/blur/WEB_LISTING/0/id.pro.es.image.master/3f/e3/a7/1218229619.webp",
+            "externalReference": "TIPO I",
+            "numPhotos": 48,
+            "floor": "bj",
+            "price": 1389000.0,
+            "priceInfo": {
+                "price": {
+                    "amount": 1389000.0
+                }
+            },
+            "propertyType": "duplex",
+            "operation": "sale",
+            "size": 198.0,
+            "exterior": true,
+            "rooms": 4,
+            "bathrooms": 4,
+            "address": "calle de la Costa Brava, 13",
+            "province": "Madrid",
+            "municipality": "Madrid",
+            "district": "Fuencarral",
+            "country": "es",
+            "neighborhood": "Mirasierra",
+            "latitude": 40.4944528,
+            "longitude": -3.7018807,
+            "showAddress": true,
+            "url": "https://www.idealista.com/obra-nueva/102654205/",
+            "description": "Reserva ahora y escritura a la vuelta de verano. VISITA EL PISO PILOTO TE ESPERAMOS E LA CALLE COSTA BRAVA, 13 portal A, 2º 4- Madrid  Más de 5.000 m² de zonas comunes. Situado en la calle Costa Brava, Residencial Mirasierra es un lugar único en un entorno seguro donde se ha tenido muy en cuenta la confortabilidad de las familias. En su diseño se ha concebido cada detalle, buscando emparejar el lujo con la vanguardia, creando un lugar con amplias zonas verdes que combina sitios de recreo de mayores y niños, con su original área de juegos, el gimnasio equipado con las máquinas más modernas, sala comunitaria y las piscinas. El edificio está rodeado de jardines, diseñados para el deleite de adultos y niños, con bancos donde pasar la tarde mientras los pequeños juegan en el singular parque infantil de la serpiente. Todo ello en un entorno cerrado y seguro donde el confort está asegurado. Las calidades de lujo del Residencial Mirasierra son un distintivo que lo diferencia de otros proyectos inmobiliarios en Madrid. Las viviendas cuentan con acabados y materiales de alta calidad que aseguran una experiencia de alto nivel. Los espacios interiores se han diseñado con gran atención al detalle y al confort, empleando materiales nobles como el cristal, la madera y el acero, que crean un ambiente elegante y sofisticado. Todo ello acompañado de la última tecnología aplicada a la construcción: sistemas domóticos avanzados y soluciones en eficiencia energética como la geotermia. Los espectaculares áticos con piscina privada del Residencial Mirasierra son un sueño hecho realidad para cualquier persona que busca la combinación perfecta de confort y privacidad. En el entorno destaca la amplia oferta educativa, (colegios como Fomento El Prado, Centro Concertado de Enseñanza la Salle Sagrado Corazón, NACE Schools, Colegio Madre del Divino Pastor, Santa María La Blanca, …), y también la oferta educativa universitaria. La cercanía al centro de la ciudad mediante transporte privado o público, a escasos metros de la parada de Metro Paco de Lucía y junto a la estación de Cercanías que conecta con Atocha, Ave y Aeropuerto, o la oferta de servicios públicos y comerciales; y todo en un barrio seguro, y con baja densidad de vivienda.",
+            "hasVideo": true,
+            "status": "newdevelopment",
+            "newDevelopment": true,
+            "hasLift": true,
+            "parkingSpace": {
+                "hasParkingSpace": true,
+                "isParkingSpaceIncludedInPrice": true
+            },
+            "newDevelopmentFinished": true,
+            "priceByArea": 7015.0,
+            "detailedType": {
+                "typology": "flat",
+                "subTypology": "duplex"
+            },
+            "suggestedTexts": {
+                "subtitle": "Mirasierra, Madrid",
+                "title": "Dúplex en calle de la Costa Brava, 13"
+            },
+            "hasPlan": true,
+            "has3DTour": false,
+            "has360": false,
+            "hasStaging": false,
+            "topNewDevelopment": false,
+            "topPlus": false
+        },
+        {
+            "propertyCode": "105094191",
+            "thumbnail": "https://img4.idealista.com/blur/WEB_LISTING/0/id.pro.es.image.master/9f/0f/53/1218230002.webp",
+            "externalReference": "TIPO F",
+            "numPhotos": 49,
+            "floor": "bj",
+            "price": 1489000.0,
+            "priceInfo": {
+                "price": {
+                    "amount": 1489000.0
+                }
+            },
+            "propertyType": "flat",
+            "operation": "sale",
+            "size": 152.0,
+            "exterior": true,
+            "rooms": 4,
+            "bathrooms": 2,
+            "address": "calle de la Costa Brava, 13",
+            "province": "Madrid",
+            "municipality": "Madrid",
+            "district": "Fuencarral",
+            "country": "es",
+            "neighborhood": "Mirasierra",
+            "latitude": 40.4944528,
+            "longitude": -3.7018807,
+            "showAddress": true,
+            "url": "https://www.idealista.com/obra-nueva/105094191/",
+            "description": "Reserva ahora y escritura a la vuelta de verano. VISITA EL PISO PILOTO TE ESPERAMOS E LA CALLE COSTA BRAVA, 13 portal A, 2º 4- Madrid  Más de 5.000 m² de zonas comunes. Situado en la calle Costa Brava, Residencial Mirasierra es un lugar único en un entorno seguro donde se ha tenido muy en cuenta la confortabilidad de las familias. En su diseño se ha concebido cada detalle, buscando emparejar el lujo con la vanguardia, creando un lugar con amplias zonas verdes que combina sitios de recreo de mayores y niños, con su original área de juegos, el gimnasio equipado con las máquinas más modernas, sala comunitaria y las piscinas. El edificio está rodeado de jardines, diseñados para el deleite de adultos y niños, con bancos donde pasar la tarde mientras los pequeños juegan en el singular parque infantil de la serpiente. Todo ello en un entorno cerrado y seguro donde el confort está asegurado. Las calidades de lujo del Residencial Mirasierra son un distintivo que lo diferencia de otros proyectos inmobiliarios en Madrid. Las viviendas cuentan con acabados y materiales de alta calidad que aseguran una experiencia de alto nivel. Los espacios interiores se han diseñado con gran atención al detalle y al confort, empleando materiales nobles como el cristal, la madera y el acero, que crean un ambiente elegante y sofisticado. Todo ello acompañado de la última tecnología aplicada a la construcción: sistemas domóticos avanzados y soluciones en eficiencia energética como la geotermia. Los espectaculares áticos con piscina privada del Residencial Mirasierra son un sueño hecho realidad para cualquier persona que busca la combinación perfecta de confort y privacidad. En el entorno destaca la amplia oferta educativa, (colegios como Fomento El Prado, Centro Concertado de Enseñanza la Salle Sagrado Corazón, NACE Schools, Colegio Madre del Divino Pastor, Santa María La Blanca, …), y también la oferta educativa universitaria. La cercanía al centro de la ciudad mediante transporte privado o público, a escasos metros de la parada de Metro Paco de Lucía y junto a la estación de Cercanías que conecta con Atocha, Ave y Aeropuerto, o la oferta de servicios públicos y comerciales; y todo en un barrio seguro, y con baja densidad de vivienda.",
+            "hasVideo": true,
+            "status": "newdevelopment",
+            "newDevelopment": true,
+            "hasLift": true,
+            "parkingSpace": {
+                "hasParkingSpace": true,
+                "isParkingSpaceIncludedInPrice": true
+            },
+            "newDevelopmentFinished": true,
+            "priceByArea": 9796.0,
+            "detailedType": {
+                "typology": "flat"
+            },
+            "suggestedTexts": {
+                "subtitle": "Mirasierra, Madrid",
+                "title": "Piso en calle de la Costa Brava, 13"
+            },
+            "hasPlan": true,
+            "has3DTour": false,
+            "has360": false,
+            "hasStaging": false,
+            "topNewDevelopment": false,
+            "topPlus": false
+        },
+        {
+            "propertyCode": "105094190",
+            "thumbnail": "https://img4.idealista.com/blur/WEB_LISTING/0/id.pro.es.image.master/9f/0f/53/1218230002.webp",
+            "externalReference": "TIPO Y",
+            "numPhotos": 47,
+            "floor": "2",
+            "price": 1019000.0,
+            "priceInfo": {
+                "price": {
+                    "amount": 1019000.0
+                }
+            },
+            "propertyType": "flat",
+            "operation": "sale",
+            "size": 152.0,
+            "exterior": true,
+            "rooms": 4,
+            "bathrooms": 2,
+            "address": "calle de la Costa Brava, 13",
+            "province": "Madrid",
+            "municipality": "Madrid",
+            "district": "Fuencarral",
+            "country": "es",
+            "neighborhood": "Mirasierra",
+            "latitude": 40.4944528,
+            "longitude": -3.7018807,
+            "showAddress": true,
+            "url": "https://www.idealista.com/obra-nueva/105094190/",
+            "description": "Reserva ahora y escritura a la vuelta de verano. VISITA EL PISO PILOTO TE ESPERAMOS E LA CALLE COSTA BRAVA, 13 portal A, 2º 4- Madrid  Más de 5.000 m² de zonas comunes. Situado en la calle Costa Brava, Residencial Mirasierra es un lugar único en un entorno seguro donde se ha tenido muy en cuenta la confortabilidad de las familias. En su diseño se ha concebido cada detalle, buscando emparejar el lujo con la vanguardia, creando un lugar con amplias zonas verdes que combina sitios de recreo de mayores y niños, con su original área de juegos, el gimnasio equipado con las máquinas más modernas, sala comunitaria y las piscinas. El edificio está rodeado de jardines, diseñados para el deleite de adultos y niños, con bancos donde pasar la tarde mientras los pequeños juegan en el singular parque infantil de la serpiente. Todo ello en un entorno cerrado y seguro donde el confort está asegurado. Las calidades de lujo del Residencial Mirasierra son un distintivo que lo diferencia de otros proyectos inmobiliarios en Madrid. Las viviendas cuentan con acabados y materiales de alta calidad que aseguran una experiencia de alto nivel. Los espacios interiores se han diseñado con gran atención al detalle y al confort, empleando materiales nobles como el cristal, la madera y el acero, que crean un ambiente elegante y sofisticado. Todo ello acompañado de la última tecnología aplicada a la construcción: sistemas domóticos avanzados y soluciones en eficiencia energética como la geotermia. Los espectaculares áticos con piscina privada del Residencial Mirasierra son un sueño hecho realidad para cualquier persona que busca la combinación perfecta de confort y privacidad. En el entorno destaca la amplia oferta educativa, (colegios como Fomento El Prado, Centro Concertado de Enseñanza la Salle Sagrado Corazón, NACE Schools, Colegio Madre del Divino Pastor, Santa María La Blanca, …), y también la oferta educativa universitaria. La cercanía al centro de la ciudad mediante transporte privado o público, a escasos metros de la parada de Metro Paco de Lucía y junto a la estación de Cercanías que conecta con Atocha, Ave y Aeropuerto, o la oferta de servicios públicos y comerciales; y todo en un barrio seguro, y con baja densidad de vivienda.",
+            "hasVideo": true,
+            "status": "newdevelopment",
+            "newDevelopment": true,
+            "hasLift": true,
+            "parkingSpace": {
+                "hasParkingSpace": true,
+                "isParkingSpaceIncludedInPrice": true
+            },
+            "newDevelopmentFinished": true,
+            "priceByArea": 6704.0,
+            "detailedType": {
+                "typology": "flat"
+            },
+            "suggestedTexts": {
+                "subtitle": "Mirasierra, Madrid",
+                "title": "Piso en calle de la Costa Brava, 13"
+            },
+            "hasPlan": true,
+            "has3DTour": false,
+            "has360": false,
+            "hasStaging": false,
+            "topNewDevelopment": false,
+            "topPlus": false
+        },
+        {
+            "propertyCode": "102636946",
+            "thumbnail": "https://img4.idealista.com/blur/WEB_LISTING/0/id.pro.es.image.master/f5/75/3c/1218229330.webp",
+            "externalReference": "TIPO AM",
+            "numPhotos": 48,
+            "price": 1890000.0,
+            "priceInfo": {
+                "price": {
+                    "amount": 1890000.0
+                }
+            },
+            "propertyType": "penthouse",
+            "operation": "sale",
+            "size": 289.0,
+            "exterior": true,
+            "rooms": 4,
+            "bathrooms": 2,
+            "address": "calle de la Costa Brava, 13",
+            "province": "Madrid",
+            "municipality": "Madrid",
+            "district": "Fuencarral",
+            "country": "es",
+            "neighborhood": "Mirasierra",
+            "latitude": 40.4944528,
+            "longitude": -3.7018807,
+            "showAddress": true,
+            "url": "https://www.idealista.com/obra-nueva/102636946/",
+            "description": "Reserva ahora y escritura a la vuelta de verano. VISITA EL PISO PILOTO TE ESPERAMOS E LA CALLE COSTA BRAVA, 13 portal A, 2º 4- Madrid  Más de 5.000 m² de zonas comunes. Situado en la calle Costa Brava, Residencial Mirasierra es un lugar único en un entorno seguro donde se ha tenido muy en cuenta la confortabilidad de las familias. En su diseño se ha concebido cada detalle, buscando emparejar el lujo con la vanguardia, creando un lugar con amplias zonas verdes que combina sitios de recreo de mayores y niños, con su original área de juegos, el gimnasio equipado con las máquinas más modernas, sala comunitaria y las piscinas. El edificio está rodeado de jardines, diseñados para el deleite de adultos y niños, con bancos donde pasar la tarde mientras los pequeños juegan en el singular parque infantil de la serpiente. Todo ello en un entorno cerrado y seguro donde el confort está asegurado. Las calidades de lujo del Residencial Mirasierra son un distintivo que lo diferencia de otros proyectos inmobiliarios en Madrid. Las viviendas cuentan con acabados y materiales de alta calidad que aseguran una experiencia de alto nivel. Los espacios interiores se han diseñado con gran atención al detalle y al confort, empleando materiales nobles como el cristal, la madera y el acero, que crean un ambiente elegante y sofisticado. Todo ello acompañado de la última tecnología aplicada a la construcción: sistemas domóticos avanzados y soluciones en eficiencia energética como la geotermia. Los espectaculares áticos con piscina privada del Residencial Mirasierra son un sueño hecho realidad para cualquier persona que busca la combinación perfecta de confort y privacidad. En el entorno destaca la amplia oferta educativa, (colegios como Fomento El Prado, Centro Concertado de Enseñanza la Salle Sagrado Corazón, NACE Schools, Colegio Madre del Divino Pastor, Santa María La Blanca, …), y también la oferta educativa universitaria. La cercanía al centro de la ciudad mediante transporte privado o público, a escasos metros de la parada de Metro Paco de Lucía y junto a la estación de Cercanías que conecta con Atocha, Ave y Aeropuerto, o la oferta de servicios públicos y comerciales; y todo en un barrio seguro, y con baja densidad de vivienda.",
+            "hasVideo": true,
+            "status": "newdevelopment",
+            "newDevelopment": true,
+            "hasLift": true,
+            "parkingSpace": {
+                "hasParkingSpace": true,
+                "isParkingSpaceIncludedInPrice": true
+            },
+            "newDevelopmentFinished": true,
+            "priceByArea": 6540.0,
+            "detailedType": {
+                "typology": "flat",
+                "subTypology": "penthouse"
+            },
+            "suggestedTexts": {
+                "subtitle": "Mirasierra, Madrid",
+                "title": "Ático en calle de la Costa Brava, 13"
+            },
+            "hasPlan": true,
+            "has3DTour": false,
+            "has360": false,
+            "hasStaging": false,
+            "topNewDevelopment": false,
+            "topPlus": false
+        },
+        {
+            "propertyCode": "102636936",
+            "thumbnail": "https://img4.idealista.com/blur/WEB_LISTING/0/id.pro.es.image.master/22/6b/f3/1218228863.webp",
+            "externalReference": "TIPO AG",
+            "numPhotos": 48,
+            "price": 1399000.0,
+            "priceInfo": {
+                "price": {
+                    "amount": 1399000.0
+                }
+            },
+            "propertyType": "penthouse",
+            "operation": "sale",
+            "size": 135.0,
+            "exterior": true,
+            "rooms": 3,
+            "bathrooms": 2,
+            "address": "calle de la Costa Brava, 13",
+            "province": "Madrid",
+            "municipality": "Madrid",
+            "district": "Fuencarral",
+            "country": "es",
+            "neighborhood": "Mirasierra",
+            "latitude": 40.4944528,
+            "longitude": -3.7018807,
+            "showAddress": true,
+            "url": "https://www.idealista.com/obra-nueva/102636936/",
+            "description": "Reserva ahora y escritura a la vuelta de verano. VISITA EL PISO PILOTO TE ESPERAMOS E LA CALLE COSTA BRAVA, 13 portal A, 2º 4- Madrid  Más de 5.000 m² de zonas comunes. Situado en la calle Costa Brava, Residencial Mirasierra es un lugar único en un entorno seguro donde se ha tenido muy en cuenta la confortabilidad de las familias. En su diseño se ha concebido cada detalle, buscando emparejar el lujo con la vanguardia, creando un lugar con amplias zonas verdes que combina sitios de recreo de mayores y niños, con su original área de juegos, el gimnasio equipado con las máquinas más modernas, sala comunitaria y las piscinas. El edificio está rodeado de jardines, diseñados para el deleite de adultos y niños, con bancos donde pasar la tarde mientras los pequeños juegan en el singular parque infantil de la serpiente. Todo ello en un entorno cerrado y seguro donde el confort está asegurado. Las calidades de lujo del Residencial Mirasierra son un distintivo que lo diferencia de otros proyectos inmobiliarios en Madrid. Las viviendas cuentan con acabados y materiales de alta calidad que aseguran una experiencia de alto nivel. Los espacios interiores se han diseñado con gran atención al detalle y al confort, empleando materiales nobles como el cristal, la madera y el acero, que crean un ambiente elegante y sofisticado. Todo ello acompañado de la última tecnología aplicada a la construcción: sistemas domóticos avanzados y soluciones en eficiencia energética como la geotermia. Los espectaculares áticos con piscina privada del Residencial Mirasierra son un sueño hecho realidad para cualquier persona que busca la combinación perfecta de confort y privacidad. En el entorno destaca la amplia oferta educativa, (colegios como Fomento El Prado, Centro Concertado de Enseñanza la Salle Sagrado Corazón, NACE Schools, Colegio Madre del Divino Pastor, Santa María La Blanca, …), y también la oferta educativa universitaria. La cercanía al centro de la ciudad mediante transporte privado o público, a escasos metros de la parada de Metro Paco de Lucía y junto a la estación de Cercanías que conecta con Atocha, Ave y Aeropuerto, o la oferta de servicios públicos y comerciales; y todo en un barrio seguro, y con baja densidad de vivienda.",
+            "hasVideo": true,
+            "status": "newdevelopment",
+            "newDevelopment": true,
+            "hasLift": true,
+            "parkingSpace": {
+                "hasParkingSpace": true,
+                "isParkingSpaceIncludedInPrice": true
+            },
+            "newDevelopmentFinished": true,
+            "priceByArea": 10363.0,
+            "detailedType": {
+                "typology": "flat",
+                "subTypology": "penthouse"
+            },
+            "suggestedTexts": {
+                "subtitle": "Mirasierra, Madrid",
+                "title": "Ático en calle de la Costa Brava, 13"
+            },
+            "hasPlan": true,
+            "has3DTour": false,
+            "has360": false,
+            "hasStaging": false,
+            "topNewDevelopment": false,
+            "topPlus": false
+        }
+    ],
+    "total": 26924,
+    "totalPages": 539,
+    "actualPage": 3,
+    "itemsPerPage": 50,
+    "numPaginations": 0,
+    "summary": [
+        "Comprar",
+        "Viviendas",
+        "Madrid provincia",
+        "Todos los precios",
+        "Todos los tamaños"
+    ],
+    "filter": {
+        "locationName": "Madrid"
+    },
+    "alertName": "Viviendas en Madrid",
+    "totalAppliedFilters": 0,
+    "lowerRangePosition": 100,
+    "upperRangePosition": 150,
+    "paginable": true
+}

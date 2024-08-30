@@ -1,0 +1,2541 @@
+{
+    "elementList": [
+        {
+            "propertyCode": "83911425",
+            "thumbnail": "https://img4.idealista.com/blur/WEB_LISTING/0/id.pro.es.image.master/b3/e5/0f/788025256.webp",
+            "externalReference": "MOV00899",
+            "numPhotos": 42,
+            "price": 1.04E7,
+            "priceInfo": {
+                "price": {
+                    "amount": 1.04E7
+                }
+            },
+            "propertyType": "chalet",
+            "operation": "sale",
+            "size": 1410.0,
+            "rooms": 7,
+            "bathrooms": 9,
+            "address": "paseo del Conde de los Gaitanes",
+            "province": "Madrid",
+            "municipality": "La Moraleja",
+            "district": "La Moraleja urbanización",
+            "country": "es",
+            "latitude": 40.52408,
+            "longitude": -3.6291985,
+            "showAddress": false,
+            "url": "https://www.idealista.com/inmueble/83911425/",
+            "description": "Les presentamos una de las más espectaculares mansiones de La Moraleja. Se trata de un chalet de más de 1.400 m2 diseñado por el prestigioso arquitecto Marcos Sainz y con la elegante decoración de Paco Terán, ambos han utilizado los mejores materiales del mercado, dándole protagonismo a los materiales naturales como la piedra y la madera para conseguir así un resultado que impacta e invita a disfrutar de cada rincón. El chalet es sencillamente impresionante, en él se combina la elegancia, el estilo señorial y el buen gusto. Destacamos sus amplias zonas de recibo, sus estupendas zonas de relax como la sauna, la piscina interior y el gimnasio. También encontramos unas estupendas zonas de juegos y de estar. Todo para compartir con familia y amigos tanto en invierno como en verano. La parcela cuenta con un precioso arbolado, un jardín diseñado por paisajistas y una gran piscina estilo Munich que dan el marco perfecto para que esta propiedad sea única. DESALAS. Ref: MOV00899.  MUCHAS DE NUESTRAS PROPIEDADES NO APARECEN EN IDEALISTA. CONSULTE EN NUESTRA PÁGINA WEB DE “De Salas”, PARA VER MÁS VIVIENDAS EN EXCLUSIVA. DISTRIBUCIÓN PLANTA BAJA - Hall (23 m2), salón (55 m2) con chimenea cassette y cuarto de estar (26 m2) con chimenea. - Comedor (27 m2), despacho (11 m2) y aseo de invitados. - 1 dormitorio (23 m2) con baño en suite. - Cuarto zapatero. - Piscina interior y baño turco (50 m2). - Cocina Alno (29 m2) con gran office (20 m2) y despensa. - 2 dormitorios de servicio y 2 baños de servicio. - Lavadero y tendedero cubierto.  PRIMERA PLANTA - 4 dormitorios (todos los dormitorios con baño en suite y dormitorio principal con terracita, 2 vestidores y baño en suite con jacuzzi) - 4 baños - Despacho - Cuarto de estar - Cuarto de limpieza y ropa limpia SÓTANO - Salón con barra y horno de leña (50 m2). - Bodega climatizada (50 m2). - Sala de juegos y amplio salón. - Baño. - Leñera. - Cuarto de máquinas, ascensor y montacargas. - Almacén. - Gran porche. - Piscina interior, zona de gimnasio y sauna. - Garaje: (3 plazas aut. ) - Piscina (tipo Munich), pista de pádel, pozo - Casita: Salón, 1 Dormitorio y 1 baño - Calefacción de gas natural por suelo y A/A frío calor, domótica. La Moraleja es una urbanización residencial en la zona norte del área metropolitana de Madrid, compuesta por La Moraleja, El Soto y El Encinar de los Reyes. Se encuentra a tan solo 15 minutos del Aeropuerto de Barajas y nueva terminal T4 y acceso inmediato a los cinturones de circunvalación M40 y M50, las autovías radiales A1, R2 y próxima R1. En la zona se ubican el mayor número de colegios privados, 18 en total, de toda España, nacionales e internacionales (entre otros el International College, King’s College, San Patricio, Runymede, Los Sauces, Brains, Santa Helena, Saint George, Highlands, Aldovea, Liceo Europeo, etc…). Acoge además uno de los dos campus que la Universidad Europea de Madrid tiene en la Comunidad de Madrid. Cuenta con dos campos de golf de 18 hoyos, club de tenis, club de paddel, así como varios centros comerciales y médicos y una de las ofertas gastronómicas más atractiva de Madrid. Es un área que goza de gran seguridad ya que cuenta con instalación de cámaras, un sistema de alarmas que está conectado con la Entidad de Conservación, y un equipo de seguridad propio que garantizan unos altos niveles de seguridad.",
+            "hasVideo": true,
+            "status": "good",
+            "newDevelopment": false,
+            "parkingSpace": {
+                "hasParkingSpace": true,
+                "isParkingSpaceIncludedInPrice": true
+            },
+            "priceByArea": 7376.0,
+            "detailedType": {
+                "typology": "chalet",
+                "subTypology": "independantHouse"
+            },
+            "suggestedTexts": {
+                "subtitle": "La Moraleja urbanización, La Moraleja",
+                "title": "Casa independiente en paseo del Conde de los Gaitanes"
+            },
+            "hasPlan": true,
+            "has3DTour": true,
+            "has360": false,
+            "hasStaging": true,
+            "highlight": {
+                "groupDescription": "Top"
+            },
+            "topNewDevelopment": false,
+            "topPlus": false
+        },
+        {
+            "propertyCode": "84119468",
+            "thumbnail": "https://img4.idealista.com/blur/WEB_LISTING/0/id.pro.es.image.master/a7/4a/de/632207092.webp",
+            "externalReference": "BR-1",
+            "numPhotos": 29,
+            "floor": "bj",
+            "price": 360000.0,
+            "priceInfo": {
+                "price": {
+                    "amount": 360000.0,
+                    "priceDropInfo": {
+                        "formerPrice": 380000.0,
+                        "priceDropValue": 20000,
+                        "priceDropPercentage": 5
+                    }
+                }
+            },
+            "propertyType": "flat",
+            "operation": "sale",
+            "size": 82.0,
+            "exterior": true,
+            "rooms": 2,
+            "bathrooms": 2,
+            "address": "calle de Barrilero, Madrid, 17",
+            "province": "Madrid",
+            "municipality": "Madrid",
+            "district": "Retiro",
+            "country": "es",
+            "neighborhood": "Adelfas",
+            "latitude": 40.3969274,
+            "longitude": -3.6717129,
+            "showAddress": true,
+            "url": "https://www.idealista.com/inmueble/84119468/",
+            "description": "¡SIN COMISION DE AGENCIA PARA EL COMPRADOR!  Residencial Adelfas, vivienda libre prácticamente de nueva construcción, entregado en 2019, muy luminosa y tranquila, calificación energetica excelente, bajísimo coste de luz, y calefacción por suelo radiante con caldera de gas centralizada (23€ al mes en invierno), gastos de comunidad muy reducidos (110€ al mes, conserje incluido) Aire acondicionado por conductos. Con todas las ventajas de la obra nueva pero con ITP 6% en vez de IVA 10%, se encuentra parcialmente amueblada. La plaza de garaje es opcional. Se vende por 15.000€. Excelente aislamiento térmico y acústico, 82 m2 construidos, distribuidos en dos dormitorios, salón comedor, cocina independiente amueblada, con horno, vitrocerámica, lavavajillas y frigorífico combi, todos prácticamente nuevos, y encimera de Silestone, además de terraza-tendedero con lavasecadora. Dos baños completos, uno con bañera, muy conveniente para niños, y otro con ducha, mamparas instaladas. Todos los dormitorios tienen armarios empotrados vestidos. Puertas macizas lacadas en blanco. Suelo porcelánico Planta baja con altura de entreplanta (no se ve el interior desde la calle) muy luminosa y acceso sin barreras arquitectónicas. Silenciosa. Ascensor directo al garaje. La vivienda cuenta con calificación energética B de consumo con calefacción por suelo radiante mediante caldera centralizada y contador individual y, aire acondicionado por conductos frío/calor de muy bajo consumo de luz, con bomba de calor, ventanas oscilobatientes de excelente calidad, contraventanas de seguridad, y calificación energética A para emisiones. La urbanización cuenta con sauna y gimnasio perfectamente equipado y zona para aparcar bicicletas, así como zonas ajardinadas. Entrada única a la urbanización para mayor seguridad. Conserje. Cámaras de seguridad perimetrales. La vivienda se encuentra muy bien comunicada, con dos lineas de metro (1 y 6), metro a tres minutos andando, estación de cercanías de Renfe (Mendez Álvaro) a menos de diez minutos andando, estación Sur de autobuses, líneas de autobús 8, 10, 24, 37, 54, 56,57, 136, 141, 310, N10, N25. Cerca del parque Tierno Galván, centros de salud, deportivos y parques infantiles, supermercados a cinco minutos andando, gimnasios, farmacias, restaurantes y zonas de ocio y recreo, además de un acceso rápido a la M-30.  Centro municipal con numerosas actividades, situado en las inmediaciones de la vivienda.  Con todos los servicios del distrito Retiro en las inmediaciones.",
+            "hasVideo": false,
+            "status": "good",
+            "newDevelopment": false,
+            "hasLift": true,
+            "parkingSpace": {
+                "hasParkingSpace": true,
+                "isParkingSpaceIncludedInPrice": false,
+                "parkingSpacePrice": 15000.0
+            },
+            "priceByArea": 4390.0,
+            "detailedType": {
+                "typology": "flat"
+            },
+            "suggestedTexts": {
+                "subtitle": "Adelfas, Madrid",
+                "title": "Piso en calle de Barrilero, Madrid, 17"
+            },
+            "hasPlan": true,
+            "has3DTour": false,
+            "has360": false,
+            "hasStaging": false,
+            "topNewDevelopment": false,
+            "topPlus": false
+        },
+        {
+            "propertyCode": "84123065",
+            "thumbnail": "https://img4.idealista.com/blur/WEB_LISTING/0/id.pro.es.image.master/af/9f/46/632647290.webp",
+            "externalReference": "7901",
+            "numPhotos": 48,
+            "floor": "7",
+            "price": 1750000.0,
+            "priceInfo": {
+                "price": {
+                    "amount": 1750000.0
+                }
+            },
+            "propertyType": "penthouse",
+            "operation": "sale",
+            "size": 220.0,
+            "exterior": true,
+            "rooms": 3,
+            "bathrooms": 3,
+            "address": "barrio Guindalera",
+            "province": "Madrid",
+            "municipality": "Madrid",
+            "district": "Barrio de Salamanca",
+            "country": "es",
+            "neighborhood": "Guindalera",
+            "latitude": 40.4334255,
+            "longitude": -3.6605297,
+            "showAddress": false,
+            "url": "https://www.idealista.com/inmueble/84123065/",
+            "description": "Excelente ático exterior situado en la mejor zona del distrito Salamanca-Guindalera, vivienda reformada con amplia terraza y garaje de acceso directo. El edificio dispone de piscina y gimnasio. Piso muy luminoso con amplias estancias para entrar a vivir en zona dotada de todo tipo de servicios. Exclusive World Home by inmomar intermediación, es una empresa joven y con experiencia, caracterizada principalmente por su transparencia, respeto, por un servicio personalizado, atento y exclusivo, con la finalidad de que nuestros clientes, compradores y vendedores, tengan un punto de encuentro donde puedan ver realizadas sus aspiraciones con las máximas garantías. Inmomar intermediación, es una inmobiliaria especializada principalmente en los distritos de salamanca, retiro, chamberí y chamartín, con un objetivo claro, seguir mejorando en la calidad de nuestros servicios.",
+            "hasVideo": false,
+            "status": "good",
+            "newDevelopment": false,
+            "hasLift": true,
+            "parkingSpace": {
+                "hasParkingSpace": true,
+                "isParkingSpaceIncludedInPrice": true
+            },
+            "priceByArea": 7955.0,
+            "detailedType": {
+                "typology": "flat",
+                "subTypology": "penthouse"
+            },
+            "suggestedTexts": {
+                "subtitle": "Guindalera, Madrid",
+                "title": "Ático"
+            },
+            "hasPlan": false,
+            "has3DTour": false,
+            "has360": false,
+            "hasStaging": false,
+            "topNewDevelopment": false,
+            "topPlus": false
+        },
+        {
+            "propertyCode": "84359264",
+            "thumbnail": "https://img4.idealista.com/blur/WEB_LISTING/0/id.pro.es.image.master/0b/0c/a2/637386533.webp",
+            "externalReference": "137",
+            "numPhotos": 12,
+            "price": 395000.0,
+            "priceInfo": {
+                "price": {
+                    "amount": 395000.0
+                }
+            },
+            "propertyType": "chalet",
+            "operation": "sale",
+            "size": 616.0,
+            "rooms": 10,
+            "bathrooms": 6,
+            "address": "Chinchón",
+            "province": "Madrid",
+            "municipality": "Chinchón",
+            "country": "es",
+            "latitude": 40.1401777,
+            "longitude": -3.42347,
+            "showAddress": false,
+            "url": "https://www.idealista.com/inmueble/84359264/",
+            "description": "Casa señorial- Palacete junto Plaza Mayor de Chinchón. Edificio protegido situado en el conjunto histórico de Chinchón con permiso de Hostel y Residencial entre otros. Cuenta con varias habitaciones, patios, cueva con tinaja antigua para vinos. Lagar, y terreno. Hace esquina con una travesía que permite el aparcamiento de varios coches. Su situación privilegiada en el calle principal de Chinchón declarado uno de los pueblos más bonitos y con enorme afluencia turística e importante ruta gastrónomica que desborda la capacidad de los restaurantes de la zona. La restauración o rehabilitación del Palacete permitiría conservar detalles importantes tales como enrejados, vigas y puertas de madera maciza.  Situación privilegiada cerca de los lugares turisticos más visitados y proximidad al Parador permiten una oportunidad única de inversión. Diplomatic Real Estate con más de 25 años en el sector inmobiliario y una amplia cartera de viviendas de lujo, locales, oficinas y edificios ofrece asesoramiento completo a su clientes tanto en alquiler como en compra venta de inmuebles.",
+            "hasVideo": false,
+            "status": "renew",
+            "newDevelopment": false,
+            "priceByArea": 641.0,
+            "detailedType": {
+                "typology": "chalet",
+                "subTypology": "independantHouse"
+            },
+            "suggestedTexts": {
+                "subtitle": "Chinchón",
+                "title": "Casa independiente"
+            },
+            "hasPlan": false,
+            "has3DTour": false,
+            "has360": false,
+            "hasStaging": false,
+            "topNewDevelopment": false,
+            "topPlus": false
+        },
+        {
+            "propertyCode": "84405296",
+            "thumbnail": "https://img4.idealista.com/blur/WEB_LISTING/0/id.pro.es.image.master/fb/ac/49/1219757679.webp",
+            "externalReference": "24685",
+            "numPhotos": 31,
+            "floor": "1",
+            "price": 590000.0,
+            "priceInfo": {
+                "price": {
+                    "amount": 590000.0
+                }
+            },
+            "propertyType": "flat",
+            "operation": "sale",
+            "size": 148.0,
+            "exterior": true,
+            "rooms": 3,
+            "bathrooms": 1,
+            "address": "calle de Juanelo",
+            "province": "Madrid",
+            "municipality": "Madrid",
+            "district": "Centro",
+            "country": "es",
+            "neighborhood": "Lavapiés-Embajadores",
+            "latitude": 40.4096613,
+            "longitude": -3.7049042,
+            "showAddress": false,
+            "url": "https://www.idealista.com/inmueble/84405296/",
+            "description": "Vivienda2 pone a la venta, esta vivienda de 140m² útiles, exterior, en uno de los barrios más castizos de la capital, el Distrito de Centro, junto a la emblemática Plaza de Cascorro y muy próxima a la Plaza de la Cebada. Sin duda, una ubicación excelente tanto para vivir como para invertir.  La distribución actual se puede modificar en función de sus necesidades, todas las estancias tienen ventana, bien al exterior o a un patio de luces amplio y agradable por donde entra luz.  Distribución: salón amplio con comedor, exterior con 2 balcones, donde se encuentra también una estancia ahora habilitada para almacenaje, pero perfectamente podría utilizarse como dormitorio.  El pasillo distribuye un segundo dormitorio, la cocina amueblada y el baño con plato de ducha.  Al final del pasillo se encuentra una tercera estancia también amplia y con ventanales, que da paso al dormitorio principal con un cómodo vestidor.  * La finca es representativa del año 1900, en perfecto estado, ya que en su día se reparó todo el estado general de fachada, exteriores, cubiertas, azoteas y medianeras, así como su estructura y cimentación. Esta vivienda se emplaza en una de las zonas más castizas por excelencia, entre la calle Embajadores y Mesón de Paredes. Es uno de los barrios de la capital con más personalidad, ya que combina la esencia de tradición madrileña con una tendencia más moderna. Además, este barrio ha sido testigo en estos últimos años de un gran movimiento social y cultural. Rodeado de todo tipo de servicios públicos y pequeños comercios, así como supermercados, tiendas de moda, cines, múltiples restaurantes y bares de gran variedad gastronómica, el teatro de La Latina, el mercado de la Cebada, el Rastro, etc. Perfectamente comunicado con la  ( línea 5 de metro ) en la estación \" La Latina \", y ( la línea 1 ) en \" Tirso de Molina \", además de las líneas de autobús: M1 - 34 - 36 - 41 - 60 - 119 - 148- C1 - N12 - N15.",
+            "hasVideo": true,
+            "status": "renew",
+            "newDevelopment": false,
+            "hasLift": false,
+            "priceByArea": 3986.0,
+            "detailedType": {
+                "typology": "flat"
+            },
+            "suggestedTexts": {
+                "subtitle": "Lavapiés-Embajadores, Madrid",
+                "title": "Piso en calle de Juanelo"
+            },
+            "hasPlan": true,
+            "has3DTour": false,
+            "has360": true,
+            "hasStaging": true,
+            "highlight": {
+                "groupDescription": "Destacado"
+            },
+            "topNewDevelopment": false,
+            "topPlus": false
+        },
+        {
+            "propertyCode": "84578418",
+            "thumbnail": "https://img4.idealista.com/blur/WEB_LISTING/0/id.pro.es.image.master/6f/08/42/1174385467.webp",
+            "numPhotos": 13,
+            "floor": "1",
+            "price": 100000.0,
+            "priceInfo": {
+                "price": {
+                    "amount": 100000.0
+                }
+            },
+            "propertyType": "duplex",
+            "operation": "sale",
+            "size": 80.0,
+            "exterior": true,
+            "rooms": 0,
+            "bathrooms": 1,
+            "address": "calle Miño, 1",
+            "province": "Madrid",
+            "municipality": "Camarma de Esteruelas",
+            "country": "es",
+            "latitude": 40.5301396,
+            "longitude": -3.3874345,
+            "showAddress": true,
+            "url": "https://www.idealista.com/inmueble/84578418/",
+            "description": "¿Buscas un lugar original donde vivir o trabajar? ¡Este dúplex es la oportunidad que estabas buscando!  Situado en Camarma de Esteruelas, una zona en pleno desarrollo urbanístico y con excelentes conexiones con Madrid y Alcalá de Henares, este loft de 80 metros cuadrados en dos plantas es uno de los mejores de la Comunidad de Madrid. Además, cuenta con una plaza de parking privada y vigilancia 24 horas para tu tranquilidad.  El loft es muy luminoso y cuenta con una terraza de 15m2 para disfrutar del aire libre. El aire acondicionado y la calefacción por gas te garantizan el máximo confort en cualquier época del año. ¿Eres inversor? Este loft es ideal para ti, con una rentabilidad de 8-9% en alquiler y totalmente libre de cargas.  El comprador necesariamente ha de ser profesional-empresa. Sin desembolso de IVA por aplicación de la regla de inversión del sujeto pasivo. La escrituración es inmediata y el precio de venta es de 100.000€ plaza de garaje incluida en el precio. ¡una auténtica oportunidad! .  ¿Te interesa? ¡Mejor verlo en persona! Conexión con autopista Madrid-Zaragoza, A2 y carretera M-119, a 10 kilómetros del nudo de la carretera de circunvalación M-50 y junto a la autopista radial R-2, ¡no te lo pierdas! SIN COMISION DE AGENCIA!",
+            "hasVideo": false,
+            "status": "good",
+            "newDevelopment": false,
+            "hasLift": false,
+            "parkingSpace": {
+                "hasParkingSpace": true,
+                "isParkingSpaceIncludedInPrice": true
+            },
+            "priceByArea": 1250.0,
+            "detailedType": {
+                "typology": "flat",
+                "subTypology": "duplex"
+            },
+            "suggestedTexts": {
+                "subtitle": "Camarma de Esteruelas",
+                "title": "Dúplex en calle Miño, 1"
+            },
+            "hasPlan": false,
+            "has3DTour": false,
+            "has360": false,
+            "hasStaging": false,
+            "highlight": {
+                "groupDescription": "Destacado"
+            },
+            "topNewDevelopment": false,
+            "topPlus": false
+        },
+        {
+            "propertyCode": "84637659",
+            "thumbnail": "https://img4.idealista.com/blur/WEB_LISTING/0/id.pro.es.image.master/9c/ba/00/1184666631.webp",
+            "externalReference": "405",
+            "numPhotos": 45,
+            "price": 480000.0,
+            "priceInfo": {
+                "price": {
+                    "amount": 480000.0
+                }
+            },
+            "propertyType": "chalet",
+            "operation": "sale",
+            "size": 340.0,
+            "rooms": 5,
+            "bathrooms": 4,
+            "address": "Cercedilla",
+            "province": "Madrid",
+            "municipality": "Cercedilla",
+            "country": "es",
+            "latitude": 40.7443292,
+            "longitude": -4.0581822,
+            "showAddress": false,
+            "url": "https://www.idealista.com/inmueble/84637659/",
+            "description": "CAVALIER VENDE. Magnifico chalet independiente ¡ A ESTRENAR ¡. PENDIENTE DE FINALIZAR ¡.    Con más de 340m2 y con cinco dormitorios. Construido con las mejores calidades sobre parcela ajardinada de 569m2. Distribuido en dos plantas más sótano, y a tan solo 300m2 del centro urbano de Cercedilla.    En la actualidad existe la posibilidad de poder elegir los acabados interiores y terminaciones tanto de la carpintería interior, suelos, cerrajería y pintura, pudiendo escoger entre distintos acabados ¡ SIN COSTE ADICIONAL ¡ los que mejor se adapten a su estilo de vida.    En la planta principal disponemos de un gran porche de entrada de 50m2, un amplio recibidor, un salón de 33m2 dotado de chimenea francesa y amplios ventanales que le permiten disfrutar de una gran luminosidad, y de una cocina muy soleada con una agradable orientación sur. En la planta principal encontramos también un dormitorio y un baño completo.    En la planta primera disponemos de un cómodo distribuidor que da acceso a cuatro amplios dormitorios dobles con armarios empotrados y un baño completo. Uno de los dormitorios es tipo suite, disfrutando de un espléndido vestidor y de baño independiente. Todos los dormitorios disponen de armarios empotrados y espléndidas vistas a Siete Picos y al casco urbano de Cercedilla.    El sótano encontramos un garaje con capacidad para cuatro coches, una gran sala polivalente que puede utilizarse como bodega o habitación de juegos, un almacén y de un cuarto calderas.    La vivienda dispone de calefacción de gasóleo y carpintería exterior de PVC oscilobatiente de la mejor perfilería y calidad.     ¡ NO LA DEJE ESCAPAR ¡. La oportunidad de adquirir la vivienda que esperaba en Cercedilla con los acabados y calidades que buscaba ¡ Y SIN COSTE ADICIONAL ¡.",
+            "hasVideo": false,
+            "status": "good",
+            "newDevelopment": false,
+            "parkingSpace": {
+                "hasParkingSpace": true,
+                "isParkingSpaceIncludedInPrice": true
+            },
+            "priceByArea": 1412.0,
+            "detailedType": {
+                "typology": "chalet",
+                "subTypology": "independantHouse"
+            },
+            "suggestedTexts": {
+                "subtitle": "Cercedilla",
+                "title": "Casa independiente"
+            },
+            "hasPlan": false,
+            "has3DTour": false,
+            "has360": false,
+            "hasStaging": false,
+            "topNewDevelopment": false,
+            "topPlus": false
+        },
+        {
+            "propertyCode": "103884795",
+            "thumbnail": "https://img4.idealista.com/blur/WEB_LISTING/0/id.pro.es.image.master/9e/dd/33/1204121406.webp",
+            "externalReference": "MAD02-00380",
+            "numPhotos": 82,
+            "price": 370000.0,
+            "priceInfo": {
+                "price": {
+                    "amount": 370000.0,
+                    "priceDropInfo": {
+                        "formerPrice": 380000.0,
+                        "priceDropValue": 10000,
+                        "priceDropPercentage": 3
+                    }
+                }
+            },
+            "propertyType": "chalet",
+            "operation": "sale",
+            "size": 220.0,
+            "rooms": 3,
+            "bathrooms": 2,
+            "address": "Espartales",
+            "province": "Madrid",
+            "municipality": "Alcalá de Henares",
+            "district": "Espartales",
+            "country": "es",
+            "latitude": 40.5077827,
+            "longitude": -3.3717378,
+            "showAddress": false,
+            "url": "https://www.idealista.com/inmueble/103884795/",
+            "description": "Ocasión Casa pone a la venta en exclusiva estupendo chalet en Alcalá de Henares en la zona de Espartales. La vivienda se distribuye en 4 plantas y se encuentra en perfecto estado, la planta semi-sótano con acceso directo a la vivienda y con cabida para 2 coches y trastero, planta baja consta de distribuidor, cocina amueblada con electrodomésticos básicos y salón, comedor y aseo. En primera planta dispone de 3 dormitorios con armarios empotrados y 2 baños completos y suelos de tarima, en segunda planta buhardilla con terraza. Tiene calefacción de gas natural, carpintería exterior de aluminio / climalit.  Con una ubicación inmejorable, situada en una de las mejores y tranquilas zonas de Alcalá de Henares con fácil acceso a la A2 y todos los servicios básicos para hacerte la vida cómoda, restauración, supermercados, centros de salud, iglesia, parques infantiles y zonas verdes y muy cerca del hospital Príncipe de Asturias.  Los metros de la vivienda están contrastados según catastro/registro. Este anuncio no es vinculante y puede contener errores. Se muestra a título informativo y no es contractual. Ven a verlo sin ningún compromiso, te ayudamos con la financiación gracias a nuestro departamento financiero. En el precio de venta no está, incluidos los impuestos legales ni gastos de escrituración.",
+            "hasVideo": false,
+            "status": "good",
+            "newDevelopment": false,
+            "priceByArea": 1682.0,
+            "detailedType": {
+                "typology": "chalet",
+                "subTypology": "independantHouse"
+            },
+            "suggestedTexts": {
+                "subtitle": "Espartales, Alcalá de Henares",
+                "title": "Casa independiente"
+            },
+            "hasPlan": false,
+            "has3DTour": false,
+            "has360": false,
+            "hasStaging": false,
+            "topNewDevelopment": false,
+            "topPlus": false
+        },
+        {
+            "propertyCode": "84869722",
+            "thumbnail": "https://img4.idealista.com/blur/WEB_LISTING/0/id.pro.es.image.master/ba/29/cd/648742721.webp",
+            "externalReference": "3950",
+            "numPhotos": 15,
+            "floor": "3",
+            "price": 495000.0,
+            "priceInfo": {
+                "price": {
+                    "amount": 495000.0
+                }
+            },
+            "propertyType": "flat",
+            "operation": "sale",
+            "size": 68.0,
+            "exterior": true,
+            "rooms": 1,
+            "bathrooms": 1,
+            "address": "calle Pozas, Madrid",
+            "province": "Madrid",
+            "municipality": "Madrid",
+            "district": "Centro",
+            "country": "es",
+            "neighborhood": "Malasaña-Universidad",
+            "latitude": 40.424122,
+            "longitude": -3.7075615,
+            "showAddress": false,
+            "url": "https://www.idealista.com/inmueble/84869722/",
+            "description": "Retail, vende magnífico piso en pleno Distrito Centro. A escasos metros de la Calle Gran Vía. Zona residencial consolidada rodeada de lugares de ocio, restauración, comercio. Características:  - Superficie: 68 metros cuadrados en total en tercera planta.   - Vivienda exterior muy luminosa. - Totalmente reformada. - Gran salón comedor. - Cocina americana de diseño totalmente equipada. - Amplio dormitorio con vestidor. - Baño completo con dos duchas y bañera. - Aire acondicionado. - Portero automático. - Muy bien comunicado con autobús, metro y cercanías Retail, especialista de referencia en propiedades de lujo. Disponemos de más viviendas exclusivas en las zonas más prestigiosas de Madrid.",
+            "hasVideo": false,
+            "status": "good",
+            "newDevelopment": false,
+            "hasLift": false,
+            "priceByArea": 7279.0,
+            "detailedType": {
+                "typology": "flat"
+            },
+            "suggestedTexts": {
+                "subtitle": "Malasaña-Universidad, Madrid",
+                "title": "Piso en calle Pozas, Madrid"
+            },
+            "hasPlan": true,
+            "has3DTour": false,
+            "has360": false,
+            "hasStaging": false,
+            "topNewDevelopment": false,
+            "topPlus": false
+        },
+        {
+            "propertyCode": "85000531",
+            "thumbnail": "https://img4.idealista.com/blur/WEB_LISTING/0/id.pro.es.image.master/9e/98/2c/630821789.webp",
+            "numPhotos": 29,
+            "price": 1100000.0,
+            "priceInfo": {
+                "price": {
+                    "amount": 1100000.0
+                }
+            },
+            "propertyType": "chalet",
+            "operation": "sale",
+            "size": 366.0,
+            "rooms": 5,
+            "bathrooms": 5,
+            "address": "avenida de los Satélites s/n",
+            "province": "Madrid",
+            "municipality": "Majadahonda",
+            "district": "Los Satélites - Roza Martín",
+            "country": "es",
+            "latitude": 40.4557782,
+            "longitude": -3.9071328,
+            "showAddress": true,
+            "url": "https://www.idealista.com/obra-nueva/85000531/",
+            "description": "afar•4 Los satélites, situado en una nueva urbanización en Majadahonda, con la ventaja de vivir en la una de las mejores localidades de Madrid, disfrutando de un elevado nivel de vida por sus zonas verdes y amplia oferta de servicios: Campos de golf, Colegios internacionales, privados, concertados y públicos bilingües, Universidades y Centros Comerciales de referencia. Rodeada de naturaleza, comunicada con las principales vías M-50, M-40 y A-6. Una vez finalizada la comercialización y entrega de más de 100 viviendas, AFAR-4 SL afronta con ilusión una nueva fase de 27 viviendas unifamiliares para entregar a mediados del año 2024. Espíritu aislado y fusión de público privado. El proyecto desarrolla viviendas unifamiliares con parcela privativa y una parcela de uso y disfrute común, concebida como prolongación natural de la zona exterior de cada vivienda aumentando considerablemente la superficie y la sensación de amplitud del conjunto. Las viviendas van unidas 2 a 2 pudiendo rodear la parcela casi en su totalidad manteniendo el espíritu del unifamiliar aislado gracias a la creación de atractivos espacios interiores generados por el desplazamiento de los diferentes volúmenes arquitectónicos que conforman cada unidad, acentuando la privacidad hacia la vía pública y abriendo las estancias al interior de la parcela provocando una continuidad de todos los espacios interiores con los exteriores. Experiencia y calidad, somos diferentes. Nuestra experiencia en la promoción y construcción de viviendas se remonta casi 40 años, y hemos evolucionado incorporando todas las innovaciones, al tiempo que lo han hecho las necesidades de nuestros clientes o las tecnologías de la construcción. Destacando en el mercado, orientados al cliente, diferenciándonos en la ubicación de las viviendas, la creación de espacios, la mejora continua de nuestros productos desde su concepción hasta la entrega y la atención al cliente. Incorporamos productos y sistemas de alta calidad, y donde ofrecemos nuestro valor añadido es en nuestro saber hacer, adquirido tras una dilatada experiencia y una tradición de minuciosidad.",
+            "hasVideo": false,
+            "status": "newdevelopment",
+            "newDevelopment": true,
+            "parkingSpace": {
+                "hasParkingSpace": true,
+                "isParkingSpaceIncludedInPrice": true
+            },
+            "newDevelopmentFinished": false,
+            "priceByArea": 3005.0,
+            "detailedType": {
+                "typology": "chalet",
+                "subTypology": "semidetachedHouse"
+            },
+            "suggestedTexts": {
+                "subtitle": "Los Satélites - Roza Martín, Majadahonda",
+                "title": "Chalet pareado en avenida de los Satélites s/n"
+            },
+            "hasPlan": true,
+            "has3DTour": false,
+            "has360": false,
+            "hasStaging": false,
+            "highlight": {
+                "groupDescription": "Destacado"
+            },
+            "topNewDevelopment": false,
+            "topPlus": false
+        },
+        {
+            "propertyCode": "83951433",
+            "thumbnail": "https://img4.idealista.com/blur/WEB_LISTING/0/id.pro.es.image.master/20/c8/62/1115953522.webp",
+            "externalReference": "VC11396",
+            "numPhotos": 34,
+            "price": 1.04E7,
+            "priceInfo": {
+                "price": {
+                    "amount": 1.04E7
+                }
+            },
+            "propertyType": "chalet",
+            "operation": "sale",
+            "size": 1410.0,
+            "rooms": 7,
+            "bathrooms": 9,
+            "address": "La Moraleja urbanización",
+            "province": "Madrid",
+            "municipality": "La Moraleja",
+            "district": "La Moraleja urbanización",
+            "country": "es",
+            "latitude": 40.5239361,
+            "longitude": -3.6282481,
+            "showAddress": false,
+            "url": "https://www.idealista.com/inmueble/83951433/",
+            "description": "Fantástica casa, recién construida sobre una parcela de hectárea, la casa se distribuye en dos zonas: zona principal y zona de niños, unidas ambas por las zonas comunes. La distribución es la siguiente: Amplio hall, salón con techos a dobles altura y fantásticas vistas sobre la parcela que tiene orientación mediodía, comedor y despacho, habitación de invitados en suit. La zona de gimnasio cuenta con baño turco, piscina contra corriente, sauna.. . En la zona izquierda tenemos un aseo de invitados, cocina con office que comunica con un comedor familiar de diario con salida al jardín, dos dormitorios de servicio con dos baños incorporados. En la planta superior están las habitaciones: Habitación principal en suit con baño completo y vestidor, despacho (podría ser otra habitación), al otro lado están las tres suit junior con baño completo incorporados. Entre la zona principal y la zona de niños hay un salón de estar y diferentes armarios. En la zona semisótano hay: zona de estar, bodega, billar, pin-pong con diferentes espacios que se pueden acondicionar. Es una casa de diseño con los mejores materiales existentes en el mercado, totalmente domotizada, con ascensor, vigilancia. La piscina exterior es de agua de oxígeno. La calefacción es por suelo radiante, actualmente tiene tres plazas de garaje cubierta con posibilidad de ampliar. Tiene una casa exterior (sin reformar), de aprox 200 m2 con muchas posibilidades. Cuenta con garita de seguridad en la entrada de la casa.",
+            "hasVideo": false,
+            "status": "good",
+            "newDevelopment": false,
+            "parkingSpace": {
+                "hasParkingSpace": true,
+                "isParkingSpaceIncludedInPrice": true
+            },
+            "priceByArea": 7376.0,
+            "detailedType": {
+                "typology": "chalet",
+                "subTypology": "independantHouse"
+            },
+            "suggestedTexts": {
+                "subtitle": "La Moraleja urbanización, La Moraleja",
+                "title": "Casa independiente"
+            },
+            "hasPlan": false,
+            "has3DTour": false,
+            "has360": false,
+            "hasStaging": false,
+            "highlight": {
+                "groupDescription": "Top"
+            },
+            "topNewDevelopment": false,
+            "topPlus": false
+        },
+        {
+            "propertyCode": "85188988",
+            "thumbnail": "https://img4.idealista.com/blur/WEB_LISTING/0/id.pro.es.image.master/35/ea/2e/1178156836.webp",
+            "externalReference": "#100",
+            "numPhotos": 39,
+            "price": 1500000.0,
+            "priceInfo": {
+                "price": {
+                    "amount": 1500000.0
+                }
+            },
+            "propertyType": "chalet",
+            "operation": "sale",
+            "size": 420.0,
+            "rooms": 9,
+            "bathrooms": 3,
+            "address": "Villamanta",
+            "province": "Madrid",
+            "municipality": "Villamanta",
+            "country": "es",
+            "latitude": 40.2966037,
+            "longitude": -4.1082663,
+            "showAddress": false,
+            "url": "https://www.idealista.com/inmueble/85188988/",
+            "description": "MAGNÍFICA FINCA en Villamanta(Madrid). Se compone de 2 viviendas independientes. La primera tiene 300m2 y se distribuye en: hall de entrada, salón independiente de 60m2 con chimenea, cocina totalmente equipada con electrodomésticos, 6 dormitorios dobles y 2 baños completos. Dispone de calefacción. Porche, terraza, barbacoa y piscina. La segunda vivienda de 120m2(auxiliar de guarda) se distribuye en salón independiente con chimenea, cocina amueblada, 3 dormitorios dobles y baño completo con plato de ducha. Cuenta con 140.000m2 aprox. , con pozos artesanos, luz propia, pista de fútbol, baloncesto, cancha de tiro al plato, coto privado de caza, mirador, terrazas, barbacoa y 2 piscinas. A tan solo 30 mins de Madrid. No cobramos comisión al comprador. Solicite visita sin compromiso.",
+            "hasVideo": false,
+            "status": "good",
+            "newDevelopment": false,
+            "parkingSpace": {
+                "hasParkingSpace": true,
+                "isParkingSpaceIncludedInPrice": true
+            },
+            "priceByArea": 3571.0,
+            "detailedType": {
+                "typology": "chalet",
+                "subTypology": "independantHouse"
+            },
+            "suggestedTexts": {
+                "subtitle": "Villamanta",
+                "title": "Casa independiente"
+            },
+            "hasPlan": false,
+            "has3DTour": false,
+            "has360": false,
+            "hasStaging": false,
+            "topNewDevelopment": false,
+            "topPlus": false
+        },
+        {
+            "propertyCode": "85369403",
+            "thumbnail": "https://img4.idealista.com/blur/WEB_LISTING/0/id.pro.es.image.master/76/bc/a7/660707959.webp",
+            "externalReference": "1845",
+            "numPhotos": 1,
+            "floor": "2",
+            "price": 1425000.0,
+            "priceInfo": {
+                "price": {
+                    "amount": 1425000.0
+                }
+            },
+            "propertyType": "flat",
+            "operation": "sale",
+            "size": 194.0,
+            "exterior": true,
+            "rooms": 5,
+            "bathrooms": 3,
+            "address": "barrio Recoletos",
+            "province": "Madrid",
+            "municipality": "Madrid",
+            "district": "Barrio de Salamanca",
+            "country": "es",
+            "neighborhood": "Recoletos",
+            "latitude": 40.4303942,
+            "longitude": -3.6798513,
+            "showAddress": false,
+            "url": "https://www.idealista.com/inmueble/85369403/",
+            "description": "Vivienda Señorial en la mejor zona de Salamanca-Recoletos. Junto a la Plaza del Marques de Salamanca. 2ª Planta. Exterior. Terraza. Muy Luminosa. Zona de Servicio. Grandes posibilidades de reforma. Trastero de 10m2. Buena Finca y Buen Portal con amplias zonas comunes. Plaza de Garaje en Parking de Residentes. Ref: 1845. \"AP de Propiedades, somos un grupo inmobiliario que opera en todos los campos del sector desde hace más de 20 años. Nuestra actividad se ha centrado fundamentalmente en Madrid capital, en donde hemos desarrollado diferentes promociones de obra nueva y de rehabilitación de edificios singulares, sin olvidar la prestación del servicio de intermediación inmobiliaria tanto en la compra como en la venta de inmuebles, con el único fin de ofrecer a nuestros clientes todo lo necesario para su completa satisfacción que también ha sido y será la nuestra. Nuestras oficinas se encuentran en la calle Castelló, 23 - 3ºIzq. Madrid. Teléfono: 91 571 79 17. Sitio web: ”.",
+            "hasVideo": false,
+            "status": "good",
+            "newDevelopment": false,
+            "hasLift": true,
+            "parkingSpace": {
+                "hasParkingSpace": true,
+                "isParkingSpaceIncludedInPrice": true
+            },
+            "priceByArea": 7345.0,
+            "detailedType": {
+                "typology": "flat"
+            },
+            "suggestedTexts": {
+                "subtitle": "Recoletos, Madrid",
+                "title": "Piso"
+            },
+            "hasPlan": true,
+            "has3DTour": false,
+            "has360": false,
+            "hasStaging": false,
+            "topNewDevelopment": false,
+            "topPlus": false
+        },
+        {
+            "propertyCode": "99080168",
+            "thumbnail": "https://img4.idealista.com/blur/WEB_LISTING/0/id.pro.es.image.master/13/40/3c/898514756.webp",
+            "externalReference": "Torre 7 Tipo G",
+            "numPhotos": 43,
+            "floor": "6",
+            "price": 232000.0,
+            "priceInfo": {
+                "price": {
+                    "amount": 232000.0
+                }
+            },
+            "propertyType": "flat",
+            "operation": "sale",
+            "size": 88.0,
+            "exterior": true,
+            "rooms": 2,
+            "bathrooms": 2,
+            "address": "calle José María Lozano Sainz, 25",
+            "province": "Madrid",
+            "municipality": "Madrid",
+            "district": "Villaverde",
+            "country": "es",
+            "neighborhood": "Los Ángeles",
+            "latitude": 40.3465739,
+            "longitude": -3.6950631,
+            "showAddress": true,
+            "url": "https://www.idealista.com/obra-nueva/99080168/",
+            "description": "Tu primera vivienda y mucho más Las viviendas más asequibles de Madrid están en Cielo de Villaverde Plan de pagos flexible, con un pago inicial desde 9.900€ Las mejores zonas comunes de Madrid. Más de 6.000 m2 de zonas comunes y servicios, para vivir en un residencial privado, que facilita una oferta de ocio en un entorno cerrado y vigilado. Más de 250 viviendas entregadas  Ahora también con viviendas de 1, 2 y 3 dormitorios.  Cielo de Villaverde se caracteriza por contar con salas temáticas y más de 6.000m2 de zonas comunes exteriores, para disfrutar de una experiencia de relax, ocio y deporte dentro de un ambiente de seguridad y tranquilidad. Piscina, pista polideportiva, pádel, gimnasio, zonas de juegos infantiles, salas comunitarias, (sala infantil, sala co-working, gimnasio, sala gourmet, sala gamer, eco parking, rocódromo) y amplias zonas verdes sin salir de la urbanización. Las viviendas cuentan con dormitorios espaciosos y luminosos, bien orientadas con modernas calidades que dan forma a hogares de ensueño, bien comunicadas con transportes urbanos y lugares de ocio. En Cielo de Villaverde se han diseñado diversas tipologías de viviendas pensando en la comodidad. Todas las viviendas cuentan con excelentes distribuciones, trasteros y garajes, a un precio excelente. El proyecto se encuentra situado cerca del Centro Médico de Especialidades, y también de dos centros educativos, uno de ellos la Escuela Infantil El Sur y el otro la Escuela de Fútbol Villaverde. Alrededor se encuentran dos centros comerciales de ocio y zonas verdes como el Parque Dehesa Boyal; además de un supermercado Mercadona y el Palacio de congresos y exposiciones La Nave, centro de referencia tecnológica y cultural. Fases: FASE I: Torre 1 entregada FASE II: Torre 2 entregada FASE III: Torres 3, 4 Y 5 entregadas FASE IV: Torres 6 y 7. Torre 8 (en construcción, entrega en marzo de 2024). Promueve: Boetticher y Navarro, S. L. U. del Grupo Pryconsa.",
+            "hasVideo": true,
+            "status": "newdevelopment",
+            "newDevelopment": true,
+            "hasLift": true,
+            "parkingSpace": {
+                "hasParkingSpace": true,
+                "isParkingSpaceIncludedInPrice": true
+            },
+            "newDevelopmentFinished": false,
+            "priceByArea": 2636.0,
+            "detailedType": {
+                "typology": "flat"
+            },
+            "suggestedTexts": {
+                "subtitle": "Los Ángeles, Madrid",
+                "title": "Piso en calle José María Lozano Sainz, 25"
+            },
+            "hasPlan": true,
+            "has3DTour": false,
+            "has360": false,
+            "hasStaging": false,
+            "highlight": {
+                "groupDescription": "Destacado"
+            },
+            "topNewDevelopment": false,
+            "topPlus": false
+        },
+        {
+            "propertyCode": "98369243",
+            "thumbnail": "https://img4.idealista.com/blur/WEB_LISTING/0/id.pro.es.image.master/a9/67/6e/922961546.webp",
+            "externalReference": "Torre 6 Tipo A",
+            "numPhotos": 43,
+            "floor": "10",
+            "price": 277000.0,
+            "priceInfo": {
+                "price": {
+                    "amount": 277000.0
+                }
+            },
+            "propertyType": "flat",
+            "operation": "sale",
+            "size": 101.0,
+            "exterior": true,
+            "rooms": 3,
+            "bathrooms": 2,
+            "address": "calle José María Lozano Sainz, 25",
+            "province": "Madrid",
+            "municipality": "Madrid",
+            "district": "Villaverde",
+            "country": "es",
+            "neighborhood": "Los Ángeles",
+            "latitude": 40.3465739,
+            "longitude": -3.6950631,
+            "showAddress": true,
+            "url": "https://www.idealista.com/obra-nueva/98369243/",
+            "description": "Tu primera vivienda y mucho más Las viviendas más asequibles de Madrid están en Cielo de Villaverde Plan de pagos flexible, con un pago inicial desde 9.900€ Las mejores zonas comunes de Madrid. Más de 6.000 m2 de zonas comunes y servicios, para vivir en un residencial privado, que facilita una oferta de ocio en un entorno cerrado y vigilado. Más de 250 viviendas entregadas  Ahora también con viviendas de 1, 2 y 3 dormitorios.  Cielo de Villaverde se caracteriza por contar con salas temáticas y más de 6.000m2 de zonas comunes exteriores, para disfrutar de una experiencia de relax, ocio y deporte dentro de un ambiente de seguridad y tranquilidad. Piscina, pista polideportiva, pádel, gimnasio, zonas de juegos infantiles, salas comunitarias, (sala infantil, sala co-working, gimnasio, sala gourmet, sala gamer, eco parking, rocódromo) y amplias zonas verdes sin salir de la urbanización. Las viviendas cuentan con dormitorios espaciosos y luminosos, bien orientadas con modernas calidades que dan forma a hogares de ensueño, bien comunicadas con transportes urbanos y lugares de ocio. En Cielo de Villaverde se han diseñado diversas tipologías de viviendas pensando en la comodidad. Todas las viviendas cuentan con excelentes distribuciones, trasteros y garajes, a un precio excelente. El proyecto se encuentra situado cerca del Centro Médico de Especialidades, y también de dos centros educativos, uno de ellos la Escuela Infantil El Sur y el otro la Escuela de Fútbol Villaverde. Alrededor se encuentran dos centros comerciales de ocio y zonas verdes como el Parque Dehesa Boyal; además de un supermercado Mercadona y el Palacio de congresos y exposiciones La Nave, centro de referencia tecnológica y cultural. Fases: FASE I: Torre 1 entregada FASE II: Torre 2 entregada FASE III: Torres 3, 4 Y 5 entregadas FASE IV: Torres 6 y 7. Torre 8 (en construcción, entrega en marzo de 2024). Promueve: Boetticher y Navarro, S. L. U. del Grupo Pryconsa.",
+            "hasVideo": true,
+            "status": "newdevelopment",
+            "newDevelopment": true,
+            "hasLift": true,
+            "parkingSpace": {
+                "hasParkingSpace": true,
+                "isParkingSpaceIncludedInPrice": true
+            },
+            "newDevelopmentFinished": false,
+            "priceByArea": 2743.0,
+            "detailedType": {
+                "typology": "flat"
+            },
+            "suggestedTexts": {
+                "subtitle": "Los Ángeles, Madrid",
+                "title": "Piso en calle José María Lozano Sainz, 25"
+            },
+            "hasPlan": true,
+            "has3DTour": false,
+            "has360": false,
+            "hasStaging": false,
+            "highlight": {
+                "groupDescription": "Destacado"
+            },
+            "topNewDevelopment": false,
+            "topPlus": false
+        },
+        {
+            "propertyCode": "99100776",
+            "thumbnail": "https://img4.idealista.com/blur/WEB_LISTING/0/id.pro.es.image.master/b3/e3/0e/898514780.webp",
+            "externalReference": "Torre 7 Tipo H",
+            "numPhotos": 43,
+            "price": 173000.0,
+            "priceInfo": {
+                "price": {
+                    "amount": 173000.0
+                }
+            },
+            "propertyType": "flat",
+            "operation": "sale",
+            "size": 51.0,
+            "exterior": true,
+            "rooms": 1,
+            "bathrooms": 1,
+            "address": "calle José María Lozano Sainz, 25",
+            "province": "Madrid",
+            "municipality": "Madrid",
+            "district": "Villaverde",
+            "country": "es",
+            "neighborhood": "Los Ángeles",
+            "latitude": 40.3465739,
+            "longitude": -3.6950631,
+            "showAddress": true,
+            "url": "https://www.idealista.com/obra-nueva/99100776/",
+            "description": "Tu primera vivienda y mucho más Las viviendas más asequibles de Madrid están en Cielo de Villaverde Plan de pagos flexible, con un pago inicial desde 9.900€ Las mejores zonas comunes de Madrid. Más de 6.000 m2 de zonas comunes y servicios, para vivir en un residencial privado, que facilita una oferta de ocio en un entorno cerrado y vigilado. Más de 250 viviendas entregadas  Ahora también con viviendas de 1, 2 y 3 dormitorios.  Cielo de Villaverde se caracteriza por contar con salas temáticas y más de 6.000m2 de zonas comunes exteriores, para disfrutar de una experiencia de relax, ocio y deporte dentro de un ambiente de seguridad y tranquilidad. Piscina, pista polideportiva, pádel, gimnasio, zonas de juegos infantiles, salas comunitarias, (sala infantil, sala co-working, gimnasio, sala gourmet, sala gamer, eco parking, rocódromo) y amplias zonas verdes sin salir de la urbanización. Las viviendas cuentan con dormitorios espaciosos y luminosos, bien orientadas con modernas calidades que dan forma a hogares de ensueño, bien comunicadas con transportes urbanos y lugares de ocio. En Cielo de Villaverde se han diseñado diversas tipologías de viviendas pensando en la comodidad. Todas las viviendas cuentan con excelentes distribuciones, trasteros y garajes, a un precio excelente. El proyecto se encuentra situado cerca del Centro Médico de Especialidades, y también de dos centros educativos, uno de ellos la Escuela Infantil El Sur y el otro la Escuela de Fútbol Villaverde. Alrededor se encuentran dos centros comerciales de ocio y zonas verdes como el Parque Dehesa Boyal; además de un supermercado Mercadona y el Palacio de congresos y exposiciones La Nave, centro de referencia tecnológica y cultural. Fases: FASE I: Torre 1 entregada FASE II: Torre 2 entregada FASE III: Torres 3, 4 Y 5 entregadas FASE IV: Torres 6 y 7. Torre 8 (en construcción, entrega en marzo de 2024). Promueve: Boetticher y Navarro, S. L. U. del Grupo Pryconsa.",
+            "hasVideo": true,
+            "status": "newdevelopment",
+            "newDevelopment": true,
+            "hasLift": true,
+            "parkingSpace": {
+                "hasParkingSpace": true,
+                "isParkingSpaceIncludedInPrice": true
+            },
+            "newDevelopmentFinished": false,
+            "priceByArea": 3392.0,
+            "detailedType": {
+                "typology": "flat"
+            },
+            "suggestedTexts": {
+                "subtitle": "Los Ángeles, Madrid",
+                "title": "Piso en calle José María Lozano Sainz, 25"
+            },
+            "hasPlan": true,
+            "has3DTour": false,
+            "has360": false,
+            "hasStaging": false,
+            "highlight": {
+                "groupDescription": "Destacado"
+            },
+            "topNewDevelopment": false,
+            "topPlus": false
+        },
+        {
+            "propertyCode": "99080140",
+            "thumbnail": "https://img4.idealista.com/blur/WEB_LISTING/0/id.pro.es.image.master/f7/37/46/885204658.webp",
+            "externalReference": "TIPO F - TORRE 7",
+            "numPhotos": 43,
+            "floor": "8",
+            "price": 286000.0,
+            "priceInfo": {
+                "price": {
+                    "amount": 286000.0
+                }
+            },
+            "propertyType": "flat",
+            "operation": "sale",
+            "size": 109.0,
+            "exterior": true,
+            "rooms": 3,
+            "bathrooms": 2,
+            "address": "calle José María Lozano Sainz, 25",
+            "province": "Madrid",
+            "municipality": "Madrid",
+            "district": "Villaverde",
+            "country": "es",
+            "neighborhood": "Los Ángeles",
+            "latitude": 40.3465739,
+            "longitude": -3.6950631,
+            "showAddress": true,
+            "url": "https://www.idealista.com/obra-nueva/99080140/",
+            "description": "Tu primera vivienda y mucho más Las viviendas más asequibles de Madrid están en Cielo de Villaverde Plan de pagos flexible, con un pago inicial desde 9.900€ Las mejores zonas comunes de Madrid. Más de 6.000 m2 de zonas comunes y servicios, para vivir en un residencial privado, que facilita una oferta de ocio en un entorno cerrado y vigilado. Más de 250 viviendas entregadas  Ahora también con viviendas de 1, 2 y 3 dormitorios.  Cielo de Villaverde se caracteriza por contar con salas temáticas y más de 6.000m2 de zonas comunes exteriores, para disfrutar de una experiencia de relax, ocio y deporte dentro de un ambiente de seguridad y tranquilidad. Piscina, pista polideportiva, pádel, gimnasio, zonas de juegos infantiles, salas comunitarias, (sala infantil, sala co-working, gimnasio, sala gourmet, sala gamer, eco parking, rocódromo) y amplias zonas verdes sin salir de la urbanización. Las viviendas cuentan con dormitorios espaciosos y luminosos, bien orientadas con modernas calidades que dan forma a hogares de ensueño, bien comunicadas con transportes urbanos y lugares de ocio. En Cielo de Villaverde se han diseñado diversas tipologías de viviendas pensando en la comodidad. Todas las viviendas cuentan con excelentes distribuciones, trasteros y garajes, a un precio excelente. El proyecto se encuentra situado cerca del Centro Médico de Especialidades, y también de dos centros educativos, uno de ellos la Escuela Infantil El Sur y el otro la Escuela de Fútbol Villaverde. Alrededor se encuentran dos centros comerciales de ocio y zonas verdes como el Parque Dehesa Boyal; además de un supermercado Mercadona y el Palacio de congresos y exposiciones La Nave, centro de referencia tecnológica y cultural. Fases: FASE I: Torre 1 entregada FASE II: Torre 2 entregada FASE III: Torres 3, 4 Y 5 entregadas FASE IV: Torres 6 y 7. Torre 8 (en construcción, entrega en marzo de 2024). Promueve: Boetticher y Navarro, S. L. U. del Grupo Pryconsa.",
+            "hasVideo": true,
+            "status": "newdevelopment",
+            "newDevelopment": true,
+            "hasLift": true,
+            "parkingSpace": {
+                "hasParkingSpace": true,
+                "isParkingSpaceIncludedInPrice": true
+            },
+            "newDevelopmentFinished": false,
+            "priceByArea": 2624.0,
+            "detailedType": {
+                "typology": "flat"
+            },
+            "suggestedTexts": {
+                "subtitle": "Los Ángeles, Madrid",
+                "title": "Piso en calle José María Lozano Sainz, 25"
+            },
+            "hasPlan": true,
+            "has3DTour": false,
+            "has360": false,
+            "hasStaging": false,
+            "topNewDevelopment": false,
+            "topPlus": false
+        },
+        {
+            "propertyCode": "104571288",
+            "thumbnail": "https://img4.idealista.com/blur/WEB_LISTING/0/id.pro.es.image.master/df/b0/75/898514781.webp",
+            "externalReference": "Torre 6 Tipo B/C",
+            "numPhotos": 43,
+            "price": 241000.0,
+            "priceInfo": {
+                "price": {
+                    "amount": 241000.0
+                }
+            },
+            "propertyType": "flat",
+            "operation": "sale",
+            "size": 91.0,
+            "exterior": true,
+            "rooms": 2,
+            "bathrooms": 2,
+            "address": "calle José María Lozano Sainz, 25",
+            "province": "Madrid",
+            "municipality": "Madrid",
+            "district": "Villaverde",
+            "country": "es",
+            "neighborhood": "Los Ángeles",
+            "latitude": 40.3465739,
+            "longitude": -3.6950631,
+            "showAddress": true,
+            "url": "https://www.idealista.com/obra-nueva/104571288/",
+            "description": "Tu primera vivienda y mucho más Las viviendas más asequibles de Madrid están en Cielo de Villaverde Plan de pagos flexible, con un pago inicial desde 9.900€ Las mejores zonas comunes de Madrid. Más de 6.000 m2 de zonas comunes y servicios, para vivir en un residencial privado, que facilita una oferta de ocio en un entorno cerrado y vigilado. Más de 250 viviendas entregadas  Ahora también con viviendas de 1, 2 y 3 dormitorios.  Cielo de Villaverde se caracteriza por contar con salas temáticas y más de 6.000m2 de zonas comunes exteriores, para disfrutar de una experiencia de relax, ocio y deporte dentro de un ambiente de seguridad y tranquilidad. Piscina, pista polideportiva, pádel, gimnasio, zonas de juegos infantiles, salas comunitarias, (sala infantil, sala co-working, gimnasio, sala gourmet, sala gamer, eco parking, rocódromo) y amplias zonas verdes sin salir de la urbanización. Las viviendas cuentan con dormitorios espaciosos y luminosos, bien orientadas con modernas calidades que dan forma a hogares de ensueño, bien comunicadas con transportes urbanos y lugares de ocio. En Cielo de Villaverde se han diseñado diversas tipologías de viviendas pensando en la comodidad. Todas las viviendas cuentan con excelentes distribuciones, trasteros y garajes, a un precio excelente. El proyecto se encuentra situado cerca del Centro Médico de Especialidades, y también de dos centros educativos, uno de ellos la Escuela Infantil El Sur y el otro la Escuela de Fútbol Villaverde. Alrededor se encuentran dos centros comerciales de ocio y zonas verdes como el Parque Dehesa Boyal; además de un supermercado Mercadona y el Palacio de congresos y exposiciones La Nave, centro de referencia tecnológica y cultural. Fases: FASE I: Torre 1 entregada FASE II: Torre 2 entregada FASE III: Torres 3, 4 Y 5 entregadas FASE IV: Torres 6 y 7. Torre 8 (en construcción, entrega en marzo de 2024). Promueve: Boetticher y Navarro, S. L. U. del Grupo Pryconsa.",
+            "hasVideo": true,
+            "status": "newdevelopment",
+            "newDevelopment": true,
+            "hasLift": true,
+            "parkingSpace": {
+                "hasParkingSpace": true,
+                "isParkingSpaceIncludedInPrice": true
+            },
+            "newDevelopmentFinished": false,
+            "priceByArea": 2648.0,
+            "detailedType": {
+                "typology": "flat"
+            },
+            "suggestedTexts": {
+                "subtitle": "Los Ángeles, Madrid",
+                "title": "Piso en calle José María Lozano Sainz, 25"
+            },
+            "hasPlan": true,
+            "has3DTour": false,
+            "has360": false,
+            "hasStaging": false,
+            "topNewDevelopment": false,
+            "topPlus": false
+        },
+        {
+            "propertyCode": "85382586",
+            "numPhotos": 0,
+            "floor": "5",
+            "price": 8500000.0,
+            "priceInfo": {
+                "price": {
+                    "amount": 8500000.0
+                }
+            },
+            "propertyType": "flat",
+            "operation": "sale",
+            "size": 700.0,
+            "exterior": true,
+            "rooms": 6,
+            "bathrooms": 3,
+            "address": "barrio Recoletos",
+            "province": "Madrid",
+            "municipality": "Madrid",
+            "district": "Barrio de Salamanca",
+            "country": "es",
+            "neighborhood": "Recoletos",
+            "latitude": 40.4207756,
+            "longitude": -3.6882696,
+            "showAddress": false,
+            "url": "https://www.idealista.com/inmueble/85382586/",
+            "description": "RECOLETOS / JERONIMOS Segregable. ÁTICO de lujo muy singular y exclusivo junto al parque del Retiro, muy bien ubicado, cerca calle Velázquez, SERRANO y Pº Castellana.  \"Location location location\": mejor zona, más selecta, señorial y representativa de Madrid. Edificio muy singular, regio, representativo, estilo neoclásico, con preciosas balconadas, balaustradas y de gran riqueza arquitectónica. Muy buena distribución con diversos salones corridos con gran comedor independiente y acceso a estupenda terraza soleada con bonitas y despejadas vistas. Posibilidad de comprar plazas de garaje. Si quiere más información al respecto, póngase en contacto con nosotros. Se trata de uno de las mejores viviendas PREMIUM de Madrid.",
+            "hasVideo": false,
+            "status": "good",
+            "newDevelopment": false,
+            "hasLift": true,
+            "priceByArea": 12143.0,
+            "detailedType": {
+                "typology": "flat"
+            },
+            "suggestedTexts": {
+                "subtitle": "Recoletos, Madrid",
+                "title": "Piso"
+            },
+            "hasPlan": false,
+            "has3DTour": false,
+            "has360": false,
+            "hasStaging": false,
+            "topNewDevelopment": false,
+            "topPlus": false
+        },
+        {
+            "propertyCode": "85675261",
+            "thumbnail": "https://img4.idealista.com/blur/WEB_LISTING/0/id.pro.es.image.master/1a/33/d3/1116404987.webp",
+            "externalReference": "16417",
+            "numPhotos": 3,
+            "floor": "5",
+            "price": 6500000.0,
+            "priceInfo": {
+                "price": {
+                    "amount": 6500000.0
+                }
+            },
+            "propertyType": "penthouse",
+            "operation": "sale",
+            "size": 470.0,
+            "exterior": true,
+            "rooms": 4,
+            "bathrooms": 4,
+            "address": "barrio Recoletos",
+            "province": "Madrid",
+            "municipality": "Madrid",
+            "district": "Barrio de Salamanca",
+            "country": "es",
+            "neighborhood": "Recoletos",
+            "latitude": 40.4192266,
+            "longitude": -3.687101,
+            "showAddress": false,
+            "url": "https://www.idealista.com/inmueble/85675261/",
+            "description": "Espectacular ático con terraza de 70 metros cuadrados, junto a la Puerta de Alcalá y el Retiro, ubicado en uno de los edificios más representativos de principios del siglo pasado, con portal señorial, magníficas vidrieras, ascensor moderno y una bonita decoración.  La vivienda, conserva su estilo clásico, techos altos, molduras en todos los techos, maderas nobles, suelo pino melis, etc… Actualmente están unidas por la terraza y por la parte de servicio, muy fácilmente divisible. Cada vivienda consta de hall, salón, comedor, terraza de 80 metros, cocina con área de servicio completa con acceso independiente y tres dormitorios con tres baños en suite. Además, cuenta con servicio de portería, calefacción central, aire acondicionado, cuarto trastero y plaza de garaje en el propio edificio. El barrio de Salamanca es una de las zonas residenciales y comerciales más apreciadas de Madrid, y con mayor nivel de vida de toda Europa. El barrio toma su nombre de José de Salamanca y Mayol, el Marqués de Salamanca, que promovió y dirigió su construcción a mediados del siglo XIX, llevada a cabo durante el reinado de Isabel II. Se forjó para las clases aristocráticas y burguesas, con grandes avenidas en distribución regular en forma de damero con calles perpendiculares, en torno a las que se articulan tiendas y comercios de lujo, y grandiosos palacetes, en uno de los cuales vivió el escritor sevillano Gustavo Adolfo Bécquer. En la actualidad, hablamos de una zona dinámica y segura, de grandes aceras, con una interesante vida, gracias a que es el epicentro de las tiendas lujo de la capital, conocida también por la “Milla de Oro”, donde tienen su sede las firmas más prestigiosas del mundo. También concentra un elevado número de Embajadas en edificios decimonónicos con gran valor arquitectónico. Y encontramos los establecimientos de hostelería más cosmopolitas de la capital, como el famoso “Platea Madrid” que es el centro de ocio gastronómico más grande de Europa. La cercanía al Parque del Retiro, le proporciona la etiqueta, de ser unos de los mejores barrios para vivir de Madrid. Álvora Capital Properties con más de 20 años de experiencia cuenta con un grupo de profesionales altamente cualificados con una amplia vocación de servicio, dedicados a asesorar a nuestros clientes en la gestión de inmuebles situados en las mejores zonas de Madrid. Visite nuestra web corporativa contamos con un gran porcentaje de inmuebles no publicados en los portales inmobiliarios.",
+            "hasVideo": false,
+            "status": "good",
+            "newDevelopment": false,
+            "hasLift": true,
+            "parkingSpace": {
+                "hasParkingSpace": true,
+                "isParkingSpaceIncludedInPrice": true
+            },
+            "priceByArea": 13830.0,
+            "detailedType": {
+                "typology": "flat",
+                "subTypology": "penthouse"
+            },
+            "suggestedTexts": {
+                "subtitle": "Recoletos, Madrid",
+                "title": "Ático"
+            },
+            "hasPlan": false,
+            "has3DTour": false,
+            "has360": false,
+            "hasStaging": false,
+            "topNewDevelopment": false,
+            "topPlus": false
+        },
+        {
+            "propertyCode": "85694119",
+            "thumbnail": "https://img4.idealista.com/blur/WEB_LISTING/0/id.pro.es.image.master/c6/01/a3/672976390.webp",
+            "externalReference": "A (tipol.1) ",
+            "numPhotos": 11,
+            "price": 1550000.0,
+            "priceInfo": {
+                "price": {
+                    "amount": 1550000.0
+                }
+            },
+            "propertyType": "chalet",
+            "operation": "sale",
+            "size": 376.0,
+            "rooms": 5,
+            "bathrooms": 5,
+            "address": "calle Jose Fentanes, 110",
+            "province": "Madrid",
+            "municipality": "Madrid",
+            "district": "Moncloa",
+            "country": "es",
+            "neighborhood": "Ciudad Universitaria",
+            "latitude": 40.4685791,
+            "longitude": -3.7256191,
+            "showAddress": true,
+            "url": "https://www.idealista.com/obra-nueva/85694119/",
+            "description": "OBRA FINALIZADA, ENTREGA INMEDIATA ULTIMAS VIVIENDAS Puerta De Hierro Luxury Homes, es un conjunto residencial de 9 chalets adosados con superficies construidas desde 375m2 sobre parcelas independientes de hasta 322 m2, con terrazas, jardín, piscina y garaje independiente. Todas las viviendas cuentan con amplias estancias, 5 dormitorios (4 de ellos en suite), un espectacular salón abierto a través de grandes ventanales a la terraza, piscina y jardín privado con solárium en la planta superior y patio interior como elemento de iluminación central de toda la vivienda (tipologías 1, 2 y 5). Viviendas de moderna arquitectura, luminosas y funcionales, dotadas con la última tecnología, con una selección de calidades de máximo nivel hacen de Puerta de Hierro Luxury Homes, un proyecto dirigido a clientes exigentes que buscan un entorno natural y tranquilo en una zona única. Una opción perfecta para vivir y disfrutar de Madrid.",
+            "hasVideo": false,
+            "status": "newdevelopment",
+            "newDevelopment": true,
+            "parkingSpace": {
+                "hasParkingSpace": true,
+                "isParkingSpaceIncludedInPrice": true
+            },
+            "newDevelopmentFinished": false,
+            "priceByArea": 4122.0,
+            "detailedType": {
+                "typology": "chalet",
+                "subTypology": "semidetachedHouse"
+            },
+            "suggestedTexts": {
+                "subtitle": "Ciudad Universitaria, Madrid",
+                "title": "Chalet pareado en calle Jose Fentanes, 110"
+            },
+            "hasPlan": true,
+            "has3DTour": false,
+            "has360": false,
+            "hasStaging": false,
+            "topNewDevelopment": false,
+            "topPlus": false
+        },
+        {
+            "propertyCode": "85696877",
+            "thumbnail": "https://img4.idealista.com/blur/WEB_LISTING/0/id.pro.es.image.master/21/79/64/674041666.webp",
+            "externalReference": "ch-423469",
+            "numPhotos": 42,
+            "floor": "5",
+            "price": 1900000.0,
+            "priceInfo": {
+                "price": {
+                    "amount": 1900000.0
+                }
+            },
+            "propertyType": "flat",
+            "operation": "sale",
+            "size": 283.0,
+            "exterior": true,
+            "rooms": 5,
+            "bathrooms": 3,
+            "address": "barrio El Viso",
+            "province": "Madrid",
+            "municipality": "Madrid",
+            "district": "Chamartín",
+            "country": "es",
+            "neighborhood": "El Viso",
+            "latitude": 40.4484259,
+            "longitude": -3.6907545,
+            "showAddress": false,
+            "url": "https://www.idealista.com/inmueble/85696877/",
+            "description": "ÚNICA Inmobiliaria Chamartín ofrece esta estupenda vivienda con una situación excepcional. Actualmente distribuida en: hall de entrada, gran salón y comedor independientes con acceso a una agradable terraza; cocina con entrada independiente con office, lavadero y dormitorio de servicio con baño, dormitorio principal en suite con vestidor y baño completo, 3 dormitorios dobles, uno de ellos separado en dos ambientes, como despacho y sala de estar, y un tercer cuarto de baño adicional. Dispone también de cuarto trastero privativo y de plaza de garaje comunitario con acceso directo. Hispanoamérica es un barrio del Distrito de Chamartín, situado en la zona noreste de Madrid. Sus límites son al norte la avenida de Alberto Alcocer y la avenida de Costa Rica, al sur con la avenida de Concha Espina, al oeste el paseo de la Castellana y al este con la avenida de la Paz (M-30). Ofrece una amplia gama de servicios, comercios, colegios, instalaciones deportivas, hoteles, restauración, hospitales y clínicas y un amplio sistema de transporte público; y alberga el Estadio Santiago Bernabéu, varias Embajadas, Administraciones Públicas y la sede de varias de las empresas más importantes de España. En Única Inmobiliaria aglutinamos más de veinte años de experiencia en el sector del lujo. Contamos con una amplia trayectoria que avala nuestra gestión trabajando alrededor de las zonas más exclusivas de Madrid: Barrio de Salamanca, Recoletos, Almagro, Chamartín, Retiro, Justicia… NUESTRA CARTERA DE PROPIEDADES INCLUYE OTROS INMUEBLES EN ESTA MISMA ZONA QUE NO APARECEN EN IDEALISTA POR EXPRESA VOLUNTAD DE SUS PROPIETARIOS. CONSULTE NUESTRA WEB: unicainmobiliaria. com.",
+            "hasVideo": true,
+            "status": "good",
+            "newDevelopment": false,
+            "hasLift": true,
+            "parkingSpace": {
+                "hasParkingSpace": true,
+                "isParkingSpaceIncludedInPrice": true
+            },
+            "priceByArea": 6714.0,
+            "detailedType": {
+                "typology": "flat"
+            },
+            "suggestedTexts": {
+                "subtitle": "El Viso, Madrid",
+                "title": "Piso"
+            },
+            "hasPlan": true,
+            "has3DTour": false,
+            "has360": true,
+            "hasStaging": false,
+            "topNewDevelopment": false,
+            "topPlus": false
+        },
+        {
+            "propertyCode": "85762268",
+            "thumbnail": "https://img4.idealista.com/blur/WEB_LISTING/0/id.pro.es.image.master/1a/36/fc/1180401131.webp",
+            "externalReference": "3373-4326",
+            "numPhotos": 32,
+            "floor": "bj",
+            "price": 350000.0,
+            "priceInfo": {
+                "price": {
+                    "amount": 350000.0
+                }
+            },
+            "propertyType": "countryHouse",
+            "operation": "sale",
+            "size": 292.0,
+            "rooms": 2,
+            "bathrooms": 2,
+            "address": "calle Buenavista",
+            "province": "Madrid",
+            "municipality": "Patones",
+            "country": "es",
+            "latitude": 40.867955,
+            "longitude": -3.4943366,
+            "showAddress": false,
+            "url": "https://www.idealista.com/inmueble/85762268/",
+            "description": "Presentamos este maravilloso inmueble situado en Patones de Arriba, una de las pocas poblaciones de Madrid consideradas a día de hoy “Villa”. A tan sólo 60 km de la Puerta del Sol, en un entorno de paz y calma, una Villa de calles empedradas y casas construidas en pizarra, acoge a nuestra protagonista. Edificada desde los cimientos en 1998, cuidando cada detalle pero sin faltar al estilo arquitectónico de la zona, los 292 metros cuadrados construidos rebosan estilo y belleza ya que, si bien por fuera es una preciosa casa rústica, en el interior vemos el esfuerzo por albergar una moderna vivienda de dos plantas, de espacios abiertos y detalles únicos, como son los suelos de gres, paredes pintadas en liso, ventanas climalit con rotura de puente térmico y oscilobatientes, maderas de IPE y tantas otras características que harán de este inmueble un espacio único para vivir la realidad de un sueño. Está dotada de tres entradas: una por la calle Despeñadero y las otras dos por la calle Buenavista. Accediendo por la calle Despeñadero, lo primero que podemos encontrar es un luminoso recibidor, que sirviendo de antesala, da paso al majestuoso salón. Destaca en él, la magnífica estufa noruega que, con sus tres modos de utilización, calienta la casa con un comedido consumo energético. El salón sirve de distribuidor para acceder al resto de la vivienda: la habitación de invitados; la cocina, a través de la cual se llega al aseo y a la terraza y la escalera que lleva a la segunda planta. Accedemos a una cocina tan amplia, que alberga una mesa de comedor, junto a un hogar que además de ofrecer calidez en invierno, puede usarse a modo de asador o parrilla, dándole a la comida el sabor que ofrece el fuego de leña. Al fondo, un aseo y a la izquierda la salida a la maravillosa terraza, con mesa, sillas y bancos de madera de teca, donde disfrutar de un eterno desayuno, en una primaveral mañana y poder observar el paisaje de media montaña que puede ofrecer un pueblo tan singular como Patones de Arriba. También es uno de los accesos desde la calle. Nuevamente en el salón, al otro lado de la estufa, se abre la habitación de invitados, con patio propio y salida a la calle para una total privacidad de los huéspedes. Volvemos al salón para subir la señorial escalera de madera de IPE, un material conocido por su dureza y su resistencia al paso del tiempo (conocida popularmente como madera de acero o “Iron Wood”). Ya en la planta superior, lo primero que vemos es un dormitorio abierto, protegido por la balconada que asoma al salón. A su lado, la biblioteca de gran luminosidad, en dónde pasar las tardes disfrutando de uno de los mayores placeres de la vida y un espacioso vestidor a su espalda.  Al otro lado, frente al dormitorio, descubrimos un baño completo, de gran tamaño, con bañera y con dos ventanas que aportan luz natural. Y, finalmente, el despacho de la casa, con terraza-solarium propia, donde hacer un “break” en el teletrabajo adquiere un nuevo significado.",
+            "hasVideo": false,
+            "status": "good",
+            "newDevelopment": false,
+            "priceByArea": 1199.0,
+            "detailedType": {
+                "typology": "countryHouse",
+                "subTypology": "countryHouse"
+            },
+            "suggestedTexts": {
+                "subtitle": "Patones",
+                "title": "Finca rústica en calle Buenavista"
+            },
+            "hasPlan": true,
+            "has3DTour": false,
+            "has360": false,
+            "hasStaging": false,
+            "highlight": {
+                "groupDescription": "Destacado"
+            },
+            "topNewDevelopment": false,
+            "topPlus": false
+        },
+        {
+            "propertyCode": "85803868",
+            "thumbnail": "https://img4.idealista.com/blur/WEB_LISTING/0/id.pro.es.image.master/11/46/2d/675656371.webp",
+            "externalReference": "V02",
+            "numPhotos": 16,
+            "floor": "bj",
+            "price": 313925.0,
+            "priceInfo": {
+                "price": {
+                    "amount": 313925.0
+                }
+            },
+            "propertyType": "flat",
+            "operation": "sale",
+            "size": 122.0,
+            "exterior": true,
+            "rooms": 3,
+            "bathrooms": 2,
+            "address": "calle Pedro I, S/N Esq. Avda. Alfonso VI - ESPARTALES NORTE  s/n",
+            "province": "Madrid",
+            "municipality": "Alcalá de Henares",
+            "district": "Espartales",
+            "country": "es",
+            "latitude": 40.509816,
+            "longitude": -3.3632567,
+            "showAddress": true,
+            "url": "https://www.idealista.com/obra-nueva/85803868/",
+            "description": "¡OBRAS INICIADAS! Ingescasa gestiona en Régimen de Cooperativa una Promoción de obra nueva de 69 viviendas VPPL promovida por SUEÑOS DE ALCALÁ NORTE, S. COOP. MAD. La Promoción se desarrolla en un atractivo edificio, compuesto de Bajo + 4 alturas + Áticos con amplias terrazas. Viviendas de 2 y 3 dormitorios con 2 baños, en urbanización cerrada con zonas comunes con piscina, solárium juegos infantiles, local comunitario y conserjería Todas las viviendas incluyen, 2 plazas de garaje y trastero. Con dotación de viviendas para personas con movilidad reducida, cumpliendo con la Normativa de la Consejería de Vivienda de la Comunidad de Madrid. Ubicada en una de las mejores zonas de Espartales Norte, a 6 minutos del Hospital Universitario Príncipe de Asturias y a 5 minutos de la Universidad de Alcalá de Henares. La parcela está situada en la calle Pedro I, Esq. Avda. Alfonso VI. ESPARTALES NORTE es un Ámbito moderno y actual dotado de zonas verdes y espacios abiertos donde propicia una agradable y confortable calidad de vida. Rodeado con todo tipo de servicios como Comercios, Restauración, Hostelería, Ocio, Colegios, Universidad, y cercano a la nueva Ciudad Deportiva del Atlético de Madrid con excelentes comunicaciones.",
+            "hasVideo": true,
+            "status": "newdevelopment",
+            "newDevelopment": true,
+            "hasLift": true,
+            "newDevelopmentFinished": false,
+            "priceByArea": 2573.0,
+            "detailedType": {
+                "typology": "flat"
+            },
+            "suggestedTexts": {
+                "subtitle": "Espartales, Alcalá de Henares",
+                "title": "Piso en calle Pedro I, S/n Esq. Avda. Alfonso Vi - Espartales Norte  s/n"
+            },
+            "hasPlan": true,
+            "has3DTour": false,
+            "has360": false,
+            "hasStaging": false,
+            "topNewDevelopment": false,
+            "topPlus": false
+        },
+        {
+            "propertyCode": "85803865",
+            "thumbnail": "https://img4.idealista.com/blur/WEB_LISTING/0/id.pro.es.image.master/71/83/2c/675656257.webp",
+            "externalReference": "V03",
+            "numPhotos": 16,
+            "floor": "bj",
+            "price": 267919.0,
+            "priceInfo": {
+                "price": {
+                    "amount": 267919.0
+                }
+            },
+            "propertyType": "flat",
+            "operation": "sale",
+            "size": 101.0,
+            "exterior": true,
+            "rooms": 2,
+            "bathrooms": 2,
+            "address": "calle Pedro I, S/N Esq. Avda. Alfonso VI - ESPARTALES NORTE  s/n",
+            "province": "Madrid",
+            "municipality": "Alcalá de Henares",
+            "district": "Espartales",
+            "country": "es",
+            "latitude": 40.509816,
+            "longitude": -3.3632567,
+            "showAddress": true,
+            "url": "https://www.idealista.com/obra-nueva/85803865/",
+            "description": "¡OBRAS INICIADAS! Ingescasa gestiona en Régimen de Cooperativa una Promoción de obra nueva de 69 viviendas VPPL promovida por SUEÑOS DE ALCALÁ NORTE, S. COOP. MAD. La Promoción se desarrolla en un atractivo edificio, compuesto de Bajo + 4 alturas + Áticos con amplias terrazas. Viviendas de 2 y 3 dormitorios con 2 baños, en urbanización cerrada con zonas comunes con piscina, solárium juegos infantiles, local comunitario y conserjería Todas las viviendas incluyen, 2 plazas de garaje y trastero. Con dotación de viviendas para personas con movilidad reducida, cumpliendo con la Normativa de la Consejería de Vivienda de la Comunidad de Madrid. Ubicada en una de las mejores zonas de Espartales Norte, a 6 minutos del Hospital Universitario Príncipe de Asturias y a 5 minutos de la Universidad de Alcalá de Henares. La parcela está situada en la calle Pedro I, Esq. Avda. Alfonso VI. ESPARTALES NORTE es un Ámbito moderno y actual dotado de zonas verdes y espacios abiertos donde propicia una agradable y confortable calidad de vida. Rodeado con todo tipo de servicios como Comercios, Restauración, Hostelería, Ocio, Colegios, Universidad, y cercano a la nueva Ciudad Deportiva del Atlético de Madrid con excelentes comunicaciones.",
+            "hasVideo": true,
+            "status": "newdevelopment",
+            "newDevelopment": true,
+            "hasLift": true,
+            "newDevelopmentFinished": false,
+            "priceByArea": 2653.0,
+            "detailedType": {
+                "typology": "flat"
+            },
+            "suggestedTexts": {
+                "subtitle": "Espartales, Alcalá de Henares",
+                "title": "Piso en calle Pedro I, S/n Esq. Avda. Alfonso Vi - Espartales Norte  s/n"
+            },
+            "hasPlan": true,
+            "has3DTour": false,
+            "has360": false,
+            "hasStaging": false,
+            "topNewDevelopment": false,
+            "topPlus": false
+        },
+        {
+            "propertyCode": "85803931",
+            "thumbnail": "https://img4.idealista.com/blur/WEB_LISTING/0/id.pro.es.image.master/f0/62/9d/675656363.webp",
+            "externalReference": "V10",
+            "numPhotos": 16,
+            "price": 309866.0,
+            "priceInfo": {
+                "price": {
+                    "amount": 309866.0
+                }
+            },
+            "propertyType": "duplex",
+            "operation": "sale",
+            "size": 173.0,
+            "exterior": true,
+            "rooms": 2,
+            "bathrooms": 2,
+            "address": "calle Pedro I, S/N Esq. Avda. Alfonso VI - ESPARTALES NORTE  s/n",
+            "province": "Madrid",
+            "municipality": "Alcalá de Henares",
+            "district": "Espartales",
+            "country": "es",
+            "latitude": 40.509816,
+            "longitude": -3.3632567,
+            "showAddress": true,
+            "url": "https://www.idealista.com/obra-nueva/85803931/",
+            "description": "¡OBRAS INICIADAS! Ingescasa gestiona en Régimen de Cooperativa una Promoción de obra nueva de 69 viviendas VPPL promovida por SUEÑOS DE ALCALÁ NORTE, S. COOP. MAD. La Promoción se desarrolla en un atractivo edificio, compuesto de Bajo + 4 alturas + Áticos con amplias terrazas. Viviendas de 2 y 3 dormitorios con 2 baños, en urbanización cerrada con zonas comunes con piscina, solárium juegos infantiles, local comunitario y conserjería Todas las viviendas incluyen, 2 plazas de garaje y trastero. Con dotación de viviendas para personas con movilidad reducida, cumpliendo con la Normativa de la Consejería de Vivienda de la Comunidad de Madrid. Ubicada en una de las mejores zonas de Espartales Norte, a 6 minutos del Hospital Universitario Príncipe de Asturias y a 5 minutos de la Universidad de Alcalá de Henares. La parcela está situada en la calle Pedro I, Esq. Avda. Alfonso VI. ESPARTALES NORTE es un Ámbito moderno y actual dotado de zonas verdes y espacios abiertos donde propicia una agradable y confortable calidad de vida. Rodeado con todo tipo de servicios como Comercios, Restauración, Hostelería, Ocio, Colegios, Universidad, y cercano a la nueva Ciudad Deportiva del Atlético de Madrid con excelentes comunicaciones.",
+            "hasVideo": true,
+            "status": "newdevelopment",
+            "newDevelopment": true,
+            "hasLift": true,
+            "newDevelopmentFinished": false,
+            "priceByArea": 1791.0,
+            "detailedType": {
+                "typology": "flat",
+                "subTypology": "duplex"
+            },
+            "suggestedTexts": {
+                "subtitle": "Espartales, Alcalá de Henares",
+                "title": "Dúplex en calle Pedro I, S/n Esq. Avda. Alfonso Vi - Espartales Norte  s/n"
+            },
+            "hasPlan": true,
+            "has3DTour": false,
+            "has360": false,
+            "hasStaging": false,
+            "topNewDevelopment": false,
+            "topPlus": false
+        },
+        {
+            "propertyCode": "85803934",
+            "thumbnail": "https://img4.idealista.com/blur/WEB_LISTING/0/id.pro.es.image.master/7b/fc/21/675656378.webp",
+            "externalReference": "V13",
+            "numPhotos": 16,
+            "price": 307159.0,
+            "priceInfo": {
+                "price": {
+                    "amount": 307159.0
+                }
+            },
+            "propertyType": "duplex",
+            "operation": "sale",
+            "size": 163.0,
+            "exterior": true,
+            "rooms": 2,
+            "bathrooms": 2,
+            "address": "calle Pedro I, S/N Esq. Avda. Alfonso VI - ESPARTALES NORTE  s/n",
+            "province": "Madrid",
+            "municipality": "Alcalá de Henares",
+            "district": "Espartales",
+            "country": "es",
+            "latitude": 40.509816,
+            "longitude": -3.3632567,
+            "showAddress": true,
+            "url": "https://www.idealista.com/obra-nueva/85803934/",
+            "description": "¡OBRAS INICIADAS! Ingescasa gestiona en Régimen de Cooperativa una Promoción de obra nueva de 69 viviendas VPPL promovida por SUEÑOS DE ALCALÁ NORTE, S. COOP. MAD. La Promoción se desarrolla en un atractivo edificio, compuesto de Bajo + 4 alturas + Áticos con amplias terrazas. Viviendas de 2 y 3 dormitorios con 2 baños, en urbanización cerrada con zonas comunes con piscina, solárium juegos infantiles, local comunitario y conserjería Todas las viviendas incluyen, 2 plazas de garaje y trastero. Con dotación de viviendas para personas con movilidad reducida, cumpliendo con la Normativa de la Consejería de Vivienda de la Comunidad de Madrid. Ubicada en una de las mejores zonas de Espartales Norte, a 6 minutos del Hospital Universitario Príncipe de Asturias y a 5 minutos de la Universidad de Alcalá de Henares. La parcela está situada en la calle Pedro I, Esq. Avda. Alfonso VI. ESPARTALES NORTE es un Ámbito moderno y actual dotado de zonas verdes y espacios abiertos donde propicia una agradable y confortable calidad de vida. Rodeado con todo tipo de servicios como Comercios, Restauración, Hostelería, Ocio, Colegios, Universidad, y cercano a la nueva Ciudad Deportiva del Atlético de Madrid con excelentes comunicaciones.",
+            "hasVideo": true,
+            "status": "newdevelopment",
+            "newDevelopment": true,
+            "hasLift": true,
+            "newDevelopmentFinished": false,
+            "priceByArea": 1884.0,
+            "detailedType": {
+                "typology": "flat",
+                "subTypology": "duplex"
+            },
+            "suggestedTexts": {
+                "subtitle": "Espartales, Alcalá de Henares",
+                "title": "Dúplex en calle Pedro I, S/n Esq. Avda. Alfonso Vi - Espartales Norte  s/n"
+            },
+            "hasPlan": true,
+            "has3DTour": false,
+            "has360": false,
+            "hasStaging": false,
+            "topNewDevelopment": false,
+            "topPlus": false
+        },
+        {
+            "propertyCode": "85803935",
+            "thumbnail": "https://img4.idealista.com/blur/WEB_LISTING/0/id.pro.es.image.master/bf/6b/d7/675656182.webp",
+            "externalReference": "V09",
+            "numPhotos": 16,
+            "price": 439766.0,
+            "priceInfo": {
+                "price": {
+                    "amount": 439766.0
+                }
+            },
+            "propertyType": "penthouse",
+            "operation": "sale",
+            "size": 224.0,
+            "exterior": true,
+            "rooms": 3,
+            "bathrooms": 2,
+            "address": "calle Pedro I, S/N Esq. Avda. Alfonso VI - ESPARTALES NORTE  s/n",
+            "province": "Madrid",
+            "municipality": "Alcalá de Henares",
+            "district": "Espartales",
+            "country": "es",
+            "latitude": 40.509816,
+            "longitude": -3.3632567,
+            "showAddress": true,
+            "url": "https://www.idealista.com/obra-nueva/85803935/",
+            "description": "¡OBRAS INICIADAS! Ingescasa gestiona en Régimen de Cooperativa una Promoción de obra nueva de 69 viviendas VPPL promovida por SUEÑOS DE ALCALÁ NORTE, S. COOP. MAD. La Promoción se desarrolla en un atractivo edificio, compuesto de Bajo + 4 alturas + Áticos con amplias terrazas. Viviendas de 2 y 3 dormitorios con 2 baños, en urbanización cerrada con zonas comunes con piscina, solárium juegos infantiles, local comunitario y conserjería Todas las viviendas incluyen, 2 plazas de garaje y trastero. Con dotación de viviendas para personas con movilidad reducida, cumpliendo con la Normativa de la Consejería de Vivienda de la Comunidad de Madrid. Ubicada en una de las mejores zonas de Espartales Norte, a 6 minutos del Hospital Universitario Príncipe de Asturias y a 5 minutos de la Universidad de Alcalá de Henares. La parcela está situada en la calle Pedro I, Esq. Avda. Alfonso VI. ESPARTALES NORTE es un Ámbito moderno y actual dotado de zonas verdes y espacios abiertos donde propicia una agradable y confortable calidad de vida. Rodeado con todo tipo de servicios como Comercios, Restauración, Hostelería, Ocio, Colegios, Universidad, y cercano a la nueva Ciudad Deportiva del Atlético de Madrid con excelentes comunicaciones.",
+            "hasVideo": true,
+            "status": "newdevelopment",
+            "newDevelopment": true,
+            "hasLift": true,
+            "newDevelopmentFinished": false,
+            "priceByArea": 1963.0,
+            "detailedType": {
+                "typology": "flat",
+                "subTypology": "penthouse"
+            },
+            "suggestedTexts": {
+                "subtitle": "Espartales, Alcalá de Henares",
+                "title": "Ático en calle Pedro I, S/n Esq. Avda. Alfonso Vi - Espartales Norte  s/n"
+            },
+            "hasPlan": true,
+            "has3DTour": false,
+            "has360": false,
+            "hasStaging": false,
+            "topNewDevelopment": false,
+            "topPlus": false
+        },
+        {
+            "propertyCode": "85803933",
+            "thumbnail": "https://img4.idealista.com/blur/WEB_LISTING/0/id.pro.es.image.master/bf/6b/d7/675656182.webp",
+            "externalReference": "V12",
+            "numPhotos": 16,
+            "price": 305806.0,
+            "priceInfo": {
+                "price": {
+                    "amount": 305806.0
+                }
+            },
+            "propertyType": "duplex",
+            "operation": "sale",
+            "size": 164.0,
+            "exterior": true,
+            "rooms": 2,
+            "bathrooms": 2,
+            "address": "calle Pedro I, S/N Esq. Avda. Alfonso VI - ESPARTALES NORTE  s/n",
+            "province": "Madrid",
+            "municipality": "Alcalá de Henares",
+            "district": "Espartales",
+            "country": "es",
+            "latitude": 40.509816,
+            "longitude": -3.3632567,
+            "showAddress": true,
+            "url": "https://www.idealista.com/obra-nueva/85803933/",
+            "description": "¡OBRAS INICIADAS! Ingescasa gestiona en Régimen de Cooperativa una Promoción de obra nueva de 69 viviendas VPPL promovida por SUEÑOS DE ALCALÁ NORTE, S. COOP. MAD. La Promoción se desarrolla en un atractivo edificio, compuesto de Bajo + 4 alturas + Áticos con amplias terrazas. Viviendas de 2 y 3 dormitorios con 2 baños, en urbanización cerrada con zonas comunes con piscina, solárium juegos infantiles, local comunitario y conserjería Todas las viviendas incluyen, 2 plazas de garaje y trastero. Con dotación de viviendas para personas con movilidad reducida, cumpliendo con la Normativa de la Consejería de Vivienda de la Comunidad de Madrid. Ubicada en una de las mejores zonas de Espartales Norte, a 6 minutos del Hospital Universitario Príncipe de Asturias y a 5 minutos de la Universidad de Alcalá de Henares. La parcela está situada en la calle Pedro I, Esq. Avda. Alfonso VI. ESPARTALES NORTE es un Ámbito moderno y actual dotado de zonas verdes y espacios abiertos donde propicia una agradable y confortable calidad de vida. Rodeado con todo tipo de servicios como Comercios, Restauración, Hostelería, Ocio, Colegios, Universidad, y cercano a la nueva Ciudad Deportiva del Atlético de Madrid con excelentes comunicaciones.",
+            "hasVideo": true,
+            "status": "newdevelopment",
+            "newDevelopment": true,
+            "hasLift": true,
+            "newDevelopmentFinished": false,
+            "priceByArea": 1865.0,
+            "detailedType": {
+                "typology": "flat",
+                "subTypology": "duplex"
+            },
+            "suggestedTexts": {
+                "subtitle": "Espartales, Alcalá de Henares",
+                "title": "Dúplex en calle Pedro I, S/n Esq. Avda. Alfonso Vi - Espartales Norte  s/n"
+            },
+            "hasPlan": true,
+            "has3DTour": false,
+            "has360": false,
+            "hasStaging": false,
+            "topNewDevelopment": false,
+            "topPlus": false
+        },
+        {
+            "propertyCode": "85803932",
+            "thumbnail": "https://img4.idealista.com/blur/WEB_LISTING/0/id.pro.es.image.master/77/88/6a/675656361.webp",
+            "externalReference": "V11",
+            "numPhotos": 16,
+            "price": 308513.0,
+            "priceInfo": {
+                "price": {
+                    "amount": 308513.0
+                }
+            },
+            "propertyType": "duplex",
+            "operation": "sale",
+            "size": 173.0,
+            "exterior": true,
+            "rooms": 2,
+            "bathrooms": 2,
+            "address": "calle Pedro I, S/N Esq. Avda. Alfonso VI - ESPARTALES NORTE  s/n",
+            "province": "Madrid",
+            "municipality": "Alcalá de Henares",
+            "district": "Espartales",
+            "country": "es",
+            "latitude": 40.509816,
+            "longitude": -3.3632567,
+            "showAddress": true,
+            "url": "https://www.idealista.com/obra-nueva/85803932/",
+            "description": "¡OBRAS INICIADAS! Ingescasa gestiona en Régimen de Cooperativa una Promoción de obra nueva de 69 viviendas VPPL promovida por SUEÑOS DE ALCALÁ NORTE, S. COOP. MAD. La Promoción se desarrolla en un atractivo edificio, compuesto de Bajo + 4 alturas + Áticos con amplias terrazas. Viviendas de 2 y 3 dormitorios con 2 baños, en urbanización cerrada con zonas comunes con piscina, solárium juegos infantiles, local comunitario y conserjería Todas las viviendas incluyen, 2 plazas de garaje y trastero. Con dotación de viviendas para personas con movilidad reducida, cumpliendo con la Normativa de la Consejería de Vivienda de la Comunidad de Madrid. Ubicada en una de las mejores zonas de Espartales Norte, a 6 minutos del Hospital Universitario Príncipe de Asturias y a 5 minutos de la Universidad de Alcalá de Henares. La parcela está situada en la calle Pedro I, Esq. Avda. Alfonso VI. ESPARTALES NORTE es un Ámbito moderno y actual dotado de zonas verdes y espacios abiertos donde propicia una agradable y confortable calidad de vida. Rodeado con todo tipo de servicios como Comercios, Restauración, Hostelería, Ocio, Colegios, Universidad, y cercano a la nueva Ciudad Deportiva del Atlético de Madrid con excelentes comunicaciones.",
+            "hasVideo": true,
+            "status": "newdevelopment",
+            "newDevelopment": true,
+            "hasLift": true,
+            "newDevelopmentFinished": false,
+            "priceByArea": 1783.0,
+            "detailedType": {
+                "typology": "flat",
+                "subTypology": "duplex"
+            },
+            "suggestedTexts": {
+                "subtitle": "Espartales, Alcalá de Henares",
+                "title": "Dúplex en calle Pedro I, S/n Esq. Avda. Alfonso Vi - Espartales Norte  s/n"
+            },
+            "hasPlan": true,
+            "has3DTour": false,
+            "has360": false,
+            "hasStaging": false,
+            "topNewDevelopment": false,
+            "topPlus": false
+        },
+        {
+            "propertyCode": "85864410",
+            "thumbnail": "https://img4.idealista.com/blur/WEB_LISTING/0/id.pro.es.image.master/f5/05/eb/677312316.webp",
+            "externalReference": "EOR15190",
+            "numPhotos": 13,
+            "floor": "bj",
+            "price": 450000.0,
+            "priceInfo": {
+                "price": {
+                    "amount": 450000.0
+                }
+            },
+            "propertyType": "duplex",
+            "operation": "sale",
+            "size": 90.0,
+            "exterior": true,
+            "rooms": 0,
+            "bathrooms": 1,
+            "address": "barrio Guindalera",
+            "province": "Madrid",
+            "municipality": "Madrid",
+            "district": "Barrio de Salamanca",
+            "country": "es",
+            "neighborhood": "Guindalera",
+            "latitude": 40.4377776,
+            "longitude": -3.6766024,
+            "showAddress": false,
+            "url": "https://www.idealista.com/inmueble/85864410/",
+            "description": "Estate One ofrece estupendo loft dúplex con techos de 4m de altura, trastero y garaje en el edificio. Está situado en un edificio con vigilancia por cámaras, con una zona común central abierta. Cocina abierta de acero con todos los electrodomésticos. En la planta baja hay un dormitorio con baño incorporado, que dispone de ducha. Del salón, arranca una escalera que va al segundo dormitorio, abierto al salón, en el cual hay una bañera de hidromasaje. El garaje está situado en el mismo edificio. Calefacción y agua caliente individual por gas. Aire acondicionado. El Barrio de Salamanca es uno de los distritos más emblemáticos de Madrid. Recibe su nombre del marqués de Salamanca, quien proyectó y promovió su desarrollo. En su origen fue concebido para albergar a la aristocracia, muestra de ello son los numerosos palacetes que pueblan sus calles. Actualmente es una de las zonas más codiciadas de Madrid, no sólo por contar con una gran oferta comercial, cultural y de ocio, sino por contar también con uno de los parques más agradables de Madrid, El Retiro.  Se distribuye en seis grandes zonas, Castellana, Recoletos, Goya, Lista, Guindalera y Fuente del Berro. Todas ellas gozan de los servicios necesarios para tener una vida cómoda en pleno centro de Madrid, además de contar con la mejor oferta educativa, por albergar entre otros, colegios de gran prestigio como Nuestra Señora del Pilar, Nuestra Señora de Loreto o Inmaculada Concepción. Su conexión con el resto de la Ciudad, es magnífica, pues además de contar con innumerables opciones de transporte público, dispone de salida a la M 30 desde diferentes puntos. Su ubicación permite acceder al aeropuerto en tan solo 20 minutos GUINDALERA Esta zona es característica por no contar con el ajetreo y el ruido de los barrios más cercanos al centro, sin embargo sus buenas comunicaciones hacen que sea fácil acceder a él. De hecho, tiene una ubicación privilegiada, con salida casi inmediata a tres de las arterias más importantes de la ciudad (Alcalá, M-30, Avenida de América). Cuenta también con diferentes estaciones de metro que le permiten conexión directa con tres líneas distintas. Entre los servicios de los que dispone, cuenta con tres centros deportivos, el mercado de la Guindalera y diferentes opciones de centros educativos.",
+            "hasVideo": false,
+            "status": "good",
+            "newDevelopment": false,
+            "hasLift": true,
+            "parkingSpace": {
+                "hasParkingSpace": true,
+                "isParkingSpaceIncludedInPrice": true
+            },
+            "priceByArea": 5000.0,
+            "detailedType": {
+                "typology": "flat",
+                "subTypology": "duplex"
+            },
+            "suggestedTexts": {
+                "subtitle": "Guindalera, Madrid",
+                "title": "Dúplex"
+            },
+            "hasPlan": false,
+            "has3DTour": false,
+            "has360": false,
+            "hasStaging": false,
+            "topNewDevelopment": false,
+            "topPlus": false
+        },
+        {
+            "propertyCode": "85865350",
+            "thumbnail": "https://img4.idealista.com/blur/WEB_LISTING/0/id.pro.es.image.master/5c/df/89/898177666.webp",
+            "externalReference": "CDC1586",
+            "numPhotos": 67,
+            "price": 1800000.0,
+            "priceInfo": {
+                "price": {
+                    "amount": 1800000.0
+                }
+            },
+            "propertyType": "chalet",
+            "operation": "sale",
+            "size": 600.0,
+            "rooms": 8,
+            "bathrooms": 5,
+            "address": "Ciudalcampo",
+            "province": "Madrid",
+            "municipality": "Ciudalcampo",
+            "country": "es",
+            "latitude": 40.6335803,
+            "longitude": -3.5946123,
+            "showAddress": false,
+            "url": "https://www.idealista.com/inmueble/85865350/",
+            "description": "HOUSE AND HOUSE VENDE ( ) Estupenda vivienda con vida una sola planta, con parcela plana y cerca de control.  Construida en el 2001 con muy buenas calidades. Se distribuye:  Planta principal: Amplio hall de entrada con armario ropero, aseo de invitados, cocina muy amplia con mucha luz y zona de office con salida directa a un amplio porche y al comedor, tiene zona de servicio con baño completo, salón-comedor muy amplio y diáfano con estupenda chimenea tambien tiene salida directa salida al porche, además cuenta con sala de estar independiente. En esta misma planta encontramos la zona de dormitorios tiene:  Despacho, dormitorio principal con vestidor y baño completo con ducha y jacuzzi en suite y 5 dormitorios amplios que comparten 2 baños completos. Planta superior: Desde el salón accedemos a una estancia diáfana de unos 50m2, con salida a una estupenda terraza, que puede ser zona de juegos o estar, biblioteca... etc. Planta baja: Segundo salón o cuarto de juegos con comedor, horno de leña y barbacoa La casa además cuenta en la zona de piscina con zona de vestuarios y baño y zona diáfana que puede ser un gimnasio. Garaje para cuatro coches que comunica directamente con la vivienda. Jardín, Piscina y pista de tenis. HOUSE AND HOUSE es una empresa dedicada en exclusiva a esta zona con más de 16 años de experiencia aquí. No dudes en consultarnos cualquier duda que puedas tener, estamos seguros que podemos resolverla y ayudarte a encontrar tu hogar.  La vivienda está ubicada dentro de una urbanización, situada en el kilometro 28 de la N-I, dispone de seguridad privada las 24h del día, como servicios comunes dentro de la urbanización cabe destacar: El club social del RACE, con un campo de golf de 18 hoyos, hípica, piscina, tenis, padel, futbol, gimnasio etc... Además de dos edificios sociales uno de adultos y uno de niños, con zona de ocio, piscina de bolas y unos grandes jardines con columpios y mesas de picnic ideales para celebrar fiestas infantiles. Colegio privado bilingüe SEK, en la urbanización de enfrente (Santo Domingo) hay un colegio público bilingüe con primaria y secundaria y a 5 min por la vía de servicio en dirección Madrid se encuentra también el Trinity College colegio concertado bilingüe. La urbanización tiene una línea de autobús que van a Plaza de Castilla y hacen paradas intermedias en el metro de San Sebastián de los Reyes, junto al Hospital Publico Infanta Sofía. Ciudalcampo dispone además de una línea de minibuses internos que recorren toda la urbanización. A 10 min, encontramos el Hospital público de la Seguridad Social Infanta Sofía, construido recientemente y con todas las especialidades.",
+            "hasVideo": false,
+            "status": "good",
+            "newDevelopment": false,
+            "parkingSpace": {
+                "hasParkingSpace": true,
+                "isParkingSpaceIncludedInPrice": true
+            },
+            "priceByArea": 3000.0,
+            "detailedType": {
+                "typology": "chalet",
+                "subTypology": "independantHouse"
+            },
+            "suggestedTexts": {
+                "subtitle": "Ciudalcampo",
+                "title": "Casa independiente"
+            },
+            "hasPlan": false,
+            "has3DTour": false,
+            "has360": false,
+            "hasStaging": false,
+            "highlight": {
+                "groupDescription": "Top"
+            },
+            "topNewDevelopment": false,
+            "topPlus": false
+        },
+        {
+            "propertyCode": "85894809",
+            "thumbnail": "https://img4.idealista.com/blur/WEB_LISTING/0/id.pro.es.image.master/13/3e/49/1243861455.webp",
+            "externalReference": "MD129933",
+            "numPhotos": 55,
+            "price": 2500000.0,
+            "priceInfo": {
+                "price": {
+                    "amount": 2500000.0
+                }
+            },
+            "propertyType": "chalet",
+            "operation": "sale",
+            "size": 235.0,
+            "rooms": 7,
+            "bathrooms": 5,
+            "address": "barrio Bernabéu-Hispanoamérica",
+            "province": "Madrid",
+            "municipality": "Madrid",
+            "district": "Chamartín",
+            "country": "es",
+            "neighborhood": "Bernabéu-Hispanoamérica",
+            "latitude": 40.4558592,
+            "longitude": -3.6683507,
+            "showAddress": false,
+            "url": "https://www.idealista.com/inmueble/85894809/",
+            "description": "No encontrarás otro igual, ya que es de los pocos chalets independientes en toda la zona. Con una impresionante parcela de 220m2, esta magnífica propiedad se distribuye en tres plantas más sótano, ofreciendo un total de 235 m² construidos para disfrutar al máximo. En la entrada, un encantador porche te da la bienvenida, con una amplia zona de descanso ideal para disfrutar de comidas y cenas al aire libre. La vivienda cuenta con un amplio salón que se divide en varias instancias, brindando un espacio acogedor y versátil para crear diferentes ambientes según tus necesidades. La cocina es independiente y espaciosa, ofreciendo el lugar perfecto para dar rienda suelta a tu creatividad culinaria. En total, la casa cuenta con 7 dormitorios principales y 5 baños completos, garantizando comodidad y privacidad para toda la familia. El sótano alberga un salón utilizado como sala de estar, un lavadero y un dormitorio con baño propio, además de otro dormitorio de servicio con su vestidor y baño. En la primera planta se encuentra el dormitorio principal con baño en suite y dos habitaciones adicionales con baño compartido. En la segunda planta, podrás disfrutar de una magnífica terraza para relajarte y tomar el sol, así como un dormitorio y una zona de lavandería. La última planta es una encantadora buhardilla que te brinda espacio adicional para tus proyectos. Los suelos de la vivienda son de parquet, y cuenta con calefacción individual de gas natural para mantener un ambiente cálido y confortable en todo momento. Además, numerosos armarios empotrados están distribuidos por todo el chalet, proporcionando un excelente espacio de almacenamiento. La propiedad cuenta también con un garaje privado y un trastero, para mayor comodidad y organización. Construido en el año 1975, este chalet ha sido bien cuidado y se encuentra en buen estado, listo para acoger a una nueva familia. La orientación sur asegura una excelente iluminación natural durante gran parte del día. La parcela de 205 metros cuadrados ofrece un espacio al aire libre para disfrutar y personalizar según tus deseos. No dejes pasar esta oportunidad única de convertir este chalet en tu hogar ideal. ¡Contáctanos para más información y visita esta joya en Alfonso XIII! Disponemos de más de 30 oficinas en Madrid, Marbella, Estepona, Puerto Banús, Sevilla, Cádiz, Jerez e islas Canarias. Nuestra sede central está ubicada en la calle Goya, 47. Durante más de 38 años hemos demostrado nuestra profesionalidad y atención exquisita. Gilmar cuenta con más de 4.000 viviendas en venta, pisos de segunda mano, pisos nuevos, chalets, villas, fincas rústicas… Visita nuestra web y encuentra la mejor inversión inmobiliaria de la mano de los mejores profesionales del sector inmobiliario. Oficina Viso- Chamartín: Nueva España, El Viso, Bernabéu-Hispanoamérica, Pío XII y Castilla). Llámanos y te ayudaremos a encontrar la casa de tus sueños. Las mejores opciones de inversión para rentabilizar tu dinero.",
+            "hasVideo": false,
+            "status": "good",
+            "newDevelopment": false,
+            "parkingSpace": {
+                "hasParkingSpace": true,
+                "isParkingSpaceIncludedInPrice": true
+            },
+            "priceByArea": 10638.0,
+            "detailedType": {
+                "typology": "chalet",
+                "subTypology": "independantHouse"
+            },
+            "suggestedTexts": {
+                "subtitle": "Bernabéu-Hispanoamérica, Madrid",
+                "title": "Casa independiente"
+            },
+            "hasPlan": false,
+            "has3DTour": false,
+            "has360": false,
+            "hasStaging": false,
+            "highlight": {
+                "groupDescription": "Destacado"
+            },
+            "topNewDevelopment": false,
+            "topPlus": false
+        },
+        {
+            "propertyCode": "82878508",
+            "thumbnail": "https://img4.idealista.com/blur/WEB_LISTING/0/id.pro.es.image.master/48/37/de/606871380.webp",
+            "externalReference": "V13139.1",
+            "numPhotos": 20,
+            "price": 3000000.0,
+            "priceInfo": {
+                "price": {
+                    "amount": 3000000.0
+                }
+            },
+            "propertyType": "chalet",
+            "operation": "sale",
+            "size": 1200.0,
+            "rooms": 1,
+            "bathrooms": 1,
+            "address": "Fresnedillas de la Oliva",
+            "province": "Madrid",
+            "municipality": "Fresnedillas de la Oliva",
+            "country": "es",
+            "latitude": 40.4799991,
+            "longitude": -4.16922,
+            "showAddress": false,
+            "url": "https://www.idealista.com/inmueble/82878508/",
+            "description": "FRESNEDILLAS DE LA OLIVA. FINCA EXCLUSIVA DE LUJO a 400 metros a pie del pueblo, con mas de 7 hectáreas de terreno en el que se encuentran 400 arboles frutales, huerta, riego por goteo, 2 pozos, invernadero, gallinero, vaquería, cuadras, plaza de toros, una preciosa ermita, minigolf, piscina con chiringuito y unas vistas expectaculares. Cuenta con varias edificaciones, la principal una casa de piedra con un aislamiento completo y sistema de calefacción por suelo radiante, bodega, casa de guardeses, porche con gimnasio y jaccuzi, horno de leña. Entorno privilegiado con las mejores vistas de la Sierra de Madrid.",
+            "hasVideo": false,
+            "status": "good",
+            "newDevelopment": false,
+            "priceByArea": 2500.0,
+            "detailedType": {
+                "typology": "chalet",
+                "subTypology": "independantHouse"
+            },
+            "suggestedTexts": {
+                "subtitle": "Fresnedillas de la Oliva",
+                "title": "Casa independiente"
+            },
+            "hasPlan": false,
+            "has3DTour": false,
+            "has360": false,
+            "hasStaging": false,
+            "topNewDevelopment": false,
+            "topPlus": false
+        },
+        {
+            "propertyCode": "86112880",
+            "thumbnail": "https://img4.idealista.com/blur/WEB_LISTING/0/id.pro.es.image.master/76/14/17/683966743.webp",
+            "numPhotos": 27,
+            "floor": "4",
+            "price": 295000.0,
+            "priceInfo": {
+                "price": {
+                    "amount": 295000.0
+                }
+            },
+            "propertyType": "flat",
+            "operation": "sale",
+            "size": 78.0,
+            "exterior": true,
+            "rooms": 2,
+            "bathrooms": 1,
+            "address": "calle de Emilio Ferrari",
+            "province": "Madrid",
+            "municipality": "Madrid",
+            "district": "Ciudad Lineal",
+            "country": "es",
+            "neighborhood": "Pueblo Nuevo",
+            "latitude": 40.4298137,
+            "longitude": -3.6394929,
+            "showAddress": false,
+            "url": "https://www.idealista.com/inmueble/86112880/",
+            "description": "Casa de dos dormitorios junto al metro Ascao exterior y para entrar a vivir, en buenas condiciones. Orientación oeste y luminosa. Cuarta planta con ascensor, zona muy bien comunicada y equipada de servicios. Amplio salón independiente, dos dormitorios con armarios empotrados, cocina con electrodomésticos, dos baños, uno completo con bañera y un aseo, suelos de madera, ventanas de aluminio climalit, mejor ver.",
+            "hasVideo": false,
+            "status": "good",
+            "newDevelopment": false,
+            "hasLift": true,
+            "priceByArea": 3782.0,
+            "detailedType": {
+                "typology": "flat"
+            },
+            "suggestedTexts": {
+                "subtitle": "Pueblo Nuevo, Madrid",
+                "title": "Piso en calle de Emilio Ferrari"
+            },
+            "hasPlan": false,
+            "has3DTour": false,
+            "has360": false,
+            "hasStaging": false,
+            "topNewDevelopment": false,
+            "topPlus": false
+        },
+        {
+            "propertyCode": "86276214",
+            "thumbnail": "https://img4.idealista.com/blur/WEB_LISTING/0/id.pro.es.image.master/86/ab/1e/688137316.webp",
+            "numPhotos": 3,
+            "floor": "1",
+            "price": 670000.0,
+            "priceInfo": {
+                "price": {
+                    "amount": 670000.0
+                }
+            },
+            "propertyType": "flat",
+            "operation": "sale",
+            "size": 146.0,
+            "exterior": false,
+            "rooms": 5,
+            "bathrooms": 2,
+            "address": "calle de Juan Álvarez Mendizábal, 76",
+            "province": "Madrid",
+            "municipality": "Madrid",
+            "district": "Moncloa",
+            "country": "es",
+            "neighborhood": "Argüelles",
+            "latitude": 40.4302715,
+            "longitude": -3.7198406,
+            "showAddress": true,
+            "url": "https://www.idealista.com/inmueble/86276214/",
+            "description": "Piso disponible en venta en calle Juan Álvarez Mendizábal, nº 76. 1º B en el barrio de Argüelles - Moncloa en Madrid. Superficie construida: 146,09 m2. Superficie útil: 116,87 m2. Distribución: Vestíbulo de entrada, Despacho, Salón, comedor, 4 dormitorios, 1 baño, 1 aseo y cocina. Pintura lisa, suelos de tarima, suelo de baldosa hidráulica en 1 dormitorio, 2 Ascensores, Portero físico y Portero automático. Precio de venta: 670.000. -€. Subida de precio por nueva tasación. Necesita reforma.",
+            "hasVideo": false,
+            "status": "renew",
+            "newDevelopment": false,
+            "hasLift": true,
+            "priceByArea": 4589.0,
+            "detailedType": {
+                "typology": "flat"
+            },
+            "suggestedTexts": {
+                "subtitle": "Argüelles, Madrid",
+                "title": "Piso en calle de Juan Álvarez Mendizábal, 76"
+            },
+            "hasPlan": true,
+            "has3DTour": false,
+            "has360": false,
+            "hasStaging": false,
+            "topNewDevelopment": false,
+            "topPlus": false
+        },
+        {
+            "propertyCode": "86308196",
+            "thumbnail": "https://img4.idealista.com/blur/WEB_LISTING/0/id.pro.es.image.master/3b/0e/a4/690390106.webp",
+            "externalReference": "423597",
+            "numPhotos": 41,
+            "floor": "1",
+            "price": 3290000.0,
+            "priceInfo": {
+                "price": {
+                    "amount": 3290000.0
+                }
+            },
+            "propertyType": "flat",
+            "operation": "sale",
+            "size": 329.0,
+            "exterior": true,
+            "rooms": 5,
+            "bathrooms": 4,
+            "address": "barrio Recoletos",
+            "province": "Madrid",
+            "municipality": "Madrid",
+            "district": "Barrio de Salamanca",
+            "country": "es",
+            "neighborhood": "Recoletos",
+            "latitude": 40.4282306,
+            "longitude": -3.6835619,
+            "showAddress": false,
+            "url": "https://www.idealista.com/inmueble/86308196/",
+            "description": "En la zona Prime de Recoletos ÚNICA Inmobiliaria presenta vivienda de 329 m² que ocupa toda la planta. Dispone de gran terraza de 100 m² al patio de manzana de acceso y uso exclusivo.  Actualmente el piso está distribuido en 4 dormitorios, el principal el suite, 4 baños, cocina con office, hall, comedor y salón en tres ambientes.  Trastero incluido en el precio, tres plazas de garaje opcionales. Inmejorable ubicación en el Barrio Salamanca, elegante y selecto, es uno es uno de los barrios de mayor nivel de vida de Europa, representativa y señorial zona de la capital, de calles anchas y elegantes edificios donde se pueden encontrar las tiendas más exclusivas de la ciudad. Destaca su tranquilidad, magnífica arquitectura y la variedad de servicios, sus edificios gozan de especial interés gracias a su calidad arquitectónica y la belleza de sus fachadas. En los últimos cincuenta años el carácter residencial del Barrio Salamanca, espacio tradicionalmente habitado por los élites políticas y económicas del país, convive con otras actividades como la empresarial, la diplomática y, especialmente la comercial, ya que es una de las áreas de moda de lujo más importantes de la capital. Aquí se localiza la \"Milla de Oro\", exclusiva área comercial donde están concentradas las tiendas de las marcas de lujo más prestigiosas: Chanel, Dior, Prada, Tiffany. No faltan las galerías de arte y los espacios dedicados a la cultura como la Fundación March o el Museo Lázaro Galdiano, sin olvidar la cercanía al Parque del Retiro, el gran pulmón verde del centro de Madrid. En Única Inmobiliaria aglutinamos más de veinte años de experiencia en el sector del lujo. Contamos con una amplia trayectoria que avala nuestra gestión trabajando alrededor de las zonas más exclusivas de Madrid: Barrio de Salamanca, Recoletos, Almagro, Chamartín, Retiro, Justicia… NUESTRA CARTERA DE PROPIEDADES INCLUYE OTROS INMUEBLES EN ESTA MISMA ZONA QUE NO APARECEN EN IDEALISTA POR EXPRESA VOLUNTAD DE SUS PROPIETARIOS. CONSULTE NUESTRA WEB: unicainmobiliaria. com.",
+            "hasVideo": true,
+            "status": "renew",
+            "newDevelopment": false,
+            "hasLift": true,
+            "parkingSpace": {
+                "hasParkingSpace": true,
+                "isParkingSpaceIncludedInPrice": false,
+                "parkingSpacePrice": 65000.0
+            },
+            "priceByArea": 10000.0,
+            "detailedType": {
+                "typology": "flat"
+            },
+            "suggestedTexts": {
+                "subtitle": "Recoletos, Madrid",
+                "title": "Piso"
+            },
+            "hasPlan": true,
+            "has3DTour": true,
+            "has360": true,
+            "hasStaging": false,
+            "topNewDevelopment": false,
+            "topPlus": false
+        },
+        {
+            "propertyCode": "86429829",
+            "thumbnail": "https://img4.idealista.com/blur/WEB_LISTING/0/id.pro.es.image.master/7c/45/00/720766277.webp",
+            "externalReference": "m-tdp-4",
+            "numPhotos": 35,
+            "floor": "5",
+            "price": 350000.0,
+            "priceInfo": {
+                "price": {
+                    "amount": 350000.0
+                }
+            },
+            "propertyType": "penthouse",
+            "operation": "sale",
+            "size": 50.0,
+            "exterior": true,
+            "rooms": 1,
+            "bathrooms": 1,
+            "address": "travesía Pozas",
+            "province": "Madrid",
+            "municipality": "Madrid",
+            "district": "Centro",
+            "country": "es",
+            "neighborhood": "Malasaña-Universidad",
+            "latitude": 40.4235448,
+            "longitude": -3.7061605,
+            "showAddress": false,
+            "url": "https://www.idealista.com/inmueble/86429829/",
+            "description": "Se vende magnifica VIVIENDA en el centro histórico de Madrid, a escaso metros de la Gran Vía. Vivienda de un dormitorio, salón, comedor, cocina amueblada, despensa y un cuarto de baño. Vivienda exterior y muy luminosa. Amueblada y con electrodomésticos. Aire acondicionado. Calefacción individual por gas, mediante radiadores. Finca y portal muy representativos. Ascensor. Dispone de todos los servicios y comunicaciones a la puerta de la vivienda; Metro Noviciado (línea 2), varias líneas de autobuses de la EMT, y una amplia oferta comercial, de ocio y restauración; El Corte Inglés, Fnac, tiendas de las marcas más exclusivas, teatros, cines, restaurantes, etc. Excelente oportunidad. Visitar sin compromiso. Llamar al teléfono del anuncio para concertar la visita.",
+            "hasVideo": false,
+            "status": "good",
+            "newDevelopment": false,
+            "hasLift": true,
+            "priceByArea": 7000.0,
+            "detailedType": {
+                "typology": "flat",
+                "subTypology": "penthouse"
+            },
+            "suggestedTexts": {
+                "subtitle": "Malasaña-Universidad, Madrid",
+                "title": "Ático en travesía Pozas"
+            },
+            "hasPlan": true,
+            "has3DTour": false,
+            "has360": false,
+            "hasStaging": false,
+            "highlight": {
+                "groupDescription": "Destacado"
+            },
+            "topNewDevelopment": false,
+            "topPlus": false
+        },
+        {
+            "propertyCode": "87090378",
+            "thumbnail": "https://img4.idealista.com/blur/WEB_LISTING/0/id.pro.es.image.master/b8/6c/3c/711108917.webp",
+            "externalReference": "A2125",
+            "numPhotos": 49,
+            "price": 2950000.0,
+            "priceInfo": {
+                "price": {
+                    "amount": 2950000.0
+                }
+            },
+            "propertyType": "chalet",
+            "operation": "sale",
+            "size": 630.0,
+            "rooms": 6,
+            "bathrooms": 5,
+            "address": "barrio El Plantío",
+            "province": "Madrid",
+            "municipality": "Madrid",
+            "district": "Moncloa",
+            "country": "es",
+            "neighborhood": "El Plantío",
+            "latitude": 40.476684,
+            "longitude": -3.8243719,
+            "showAddress": false,
+            "url": "https://www.idealista.com/inmueble/87090378/",
+            "description": "Enest presenta esta magnifica casa en la urbanización de La Florida con vistas al Pardo.  Las primeras imágenes son infografías de una posible actualización de la casa.  Casa construida por prestigioso arquitecto con una excelente distribución y situada en una parcela de más 3.000 m² con máxima privacidad. Amplio jardín consolidado, con vegetación y arbolado.  Cuenta con hall de entrada que comunica de frente con los salones, el comedor, el porche y el jardín. En la planta baja se sitúa el dormitorio principal con salón, vestidor y baño.  Zona de cocina con office, cuarto de plancha, despensa y comedor de diario. En planta superior encontramos un salón que da paso a cuatro dormitorios con dos baños. Toda la casa tiene grandes ventanales siendo muy luminosa. En la zona de la piscina se encuentra la casita de invitados con salón abierto y un baño. Dispone de un amplio garaje para varios vehículos. Disponemos de muchos mas inmuebles, visita nuestra web enest. es.",
+            "hasVideo": false,
+            "status": "good",
+            "newDevelopment": false,
+            "parkingSpace": {
+                "hasParkingSpace": true,
+                "isParkingSpaceIncludedInPrice": true
+            },
+            "priceByArea": 4683.0,
+            "detailedType": {
+                "typology": "chalet",
+                "subTypology": "independantHouse"
+            },
+            "suggestedTexts": {
+                "subtitle": "El Plantío, Madrid",
+                "title": "Casa independiente"
+            },
+            "hasPlan": true,
+            "has3DTour": false,
+            "has360": true,
+            "hasStaging": false,
+            "topNewDevelopment": false,
+            "topPlus": false
+        },
+        {
+            "propertyCode": "87158601",
+            "thumbnail": "https://img4.idealista.com/blur/WEB_LISTING/0/id.pro.es.image.master/29/40/71/713387969.webp",
+            "externalReference": "MOV02961",
+            "numPhotos": 36,
+            "price": 1.5E7,
+            "priceInfo": {
+                "price": {
+                    "amount": 1.5E7
+                }
+            },
+            "propertyType": "chalet",
+            "operation": "sale",
+            "size": 1300.0,
+            "rooms": 8,
+            "bathrooms": 11,
+            "address": "paseo de la Marquesa Viuda de Aldama",
+            "province": "Madrid",
+            "municipality": "La Moraleja",
+            "district": "La Moraleja urbanización",
+            "country": "es",
+            "latitude": 40.5161821,
+            "longitude": -3.6342708,
+            "showAddress": false,
+            "url": "https://www.idealista.com/inmueble/87158601/",
+            "description": "Trasladarse a la Provenza francesa sin salir de Madrid es posible, no hay más que adentrarse en esta espectacular propiedad de 10.000 m2 situada en La Moraleja, que le presentamos. Sus 1.300 m2 de vivienda distribuidos en dos plantas más la planta sótano son un alarde de elegancia y calidad gracias a los materiales utilizados. Piedra, madera y metal son los elementos que predominan en esta lujosa casa que nos recibe con un magnífico hall de entrada de 62 m2. En la planta principal se ubican las zonas comunes, están presididas por un hermoso y amplísimo salón de 70 m2 con grandes ventanales y orientado hacia una imponente chimenea. El comedor de 40 m2 y con acceso al exterior está directamente conectado con el salón, sus dimensiones permiten celebrar en él grandes banquetes. También en esta planta encontramos un fabuloso salón biblioteca, sus majestuosas columnas en piedra, su chimenea y las fantásticas vigas de madera vista hacen de este espacio uno de los mas especiales de la casa. Desde la biblioteca se accede además a un espléndido porche cerrado de 48 m2, un espacio único totalmente acristalado para disfrutar de las vistas sin importar la climatología. La cocina también con aire provenzal es un lugar espacioso y completo con despensa y zona de lavandería y un cómodo office para el día a día. Por último, en esta planta encontramos el dormitorio principal, tiene 21 m2 y cuenta con vestidor, baño en suite y unas fantásticas vistas sobre el jardín. Para encontrar el resto de dormitorios hay que subir a la primera planta. Aquí se ubican cinco amplias habitaciones, algunas con acceso a una terraza y todas ellas con baño en suite, así como un cuarto de estar. En su exterior la vivienda tiene una bonita zona de porche para pasar agradables momentos disfrutando del aire libre y el jardín al resguardo del sol. Su jardín de hectárea es un verdadero paraíso de incuestionable belleza, bien cuidado e integrado con la fachada de la casa, cuenta además con pozo. En él encontramos un magnífico arbolado y una vegetación primorosamente cuidada con detalles como una preciosa fuente. La propiedad goza de pleno confort gracias a la calefacción por suelo radiante y el arie acondicionado. Tiene también gran capacidad de estacionamiento con cuatro plazas de garaje interiores y ocho exteriores cubiertas. Por último la guinda de las comodidades la pone una espectacular piscina cubierta climatizada. El encanto de la Provenza les esta esperando en esta bella y lujosa propiedad de La Moraleja. DESALAS. Ref: MOV02961. MUCHAS DE NUESTRAS PROPIEDADES NO APARECEN EN IDEALISTA. CONSULTE EN NUESTRA PÁGINA WEB DE “De Salas”, PARA VER MÁS VIVIENDAS EN EXCLUSIVA. DISTRIBUCIÓN PLANTA BAJA - Hall (60 m2) Y gran salón con chimenea (70 m2) - Cuarto de estar o biblioteca (79 m2) - Comedor (40 m2) - Porche cerrado.(48 m2) - Aseo de invit. - 1 dormitorio principal en suite (21 m2), con vestidor de (12m2) y 2 baños - Cocina de (14 m2) con office (20 m2) y despensa y lavandería (14 m2) - Porche (32 m2) - 2 dormitorios de servicio y baño - Ascensor - Garaje: (4 plazas interiores y 8 plazas cubiertas exteriores) (73 m2) - Aseo de servicio PRIMERA PLANTA - 5 dormitorios (todos en suite) - Cuarto de estar (30 m2) y terraza (32 m2) SÓTANO - Bodega - Cuarto de calderas y trastero   - Calefacción de gasóleo suelo radiante, aire acondicionado y Alarma - Piscina climatizada de (62 m2), 1 Baño - Jardín con 4 fuentes y pozo legalizado.",
+            "hasVideo": false,
+            "status": "good",
+            "newDevelopment": false,
+            "parkingSpace": {
+                "hasParkingSpace": true,
+                "isParkingSpaceIncludedInPrice": true
+            },
+            "priceByArea": 11538.0,
+            "detailedType": {
+                "typology": "chalet",
+                "subTypology": "independantHouse"
+            },
+            "suggestedTexts": {
+                "subtitle": "La Moraleja urbanización, La Moraleja",
+                "title": "Casa independiente en paseo de la Marquesa Viuda de Aldama"
+            },
+            "hasPlan": false,
+            "has3DTour": false,
+            "has360": false,
+            "hasStaging": true,
+            "highlight": {
+                "groupDescription": "Top"
+            },
+            "topNewDevelopment": false,
+            "topPlus": false
+        },
+        {
+            "propertyCode": "87331010",
+            "thumbnail": "https://img4.idealista.com/blur/WEB_LISTING/0/id.pro.es.image.master/a1/d1/eb/717933431.webp",
+            "externalReference": "1109",
+            "numPhotos": 26,
+            "price": 2950000.0,
+            "priceInfo": {
+                "price": {
+                    "amount": 2950000.0
+                }
+            },
+            "propertyType": "chalet",
+            "operation": "sale",
+            "size": 700.0,
+            "rooms": 6,
+            "bathrooms": 5,
+            "address": "barrio El Plantío",
+            "province": "Madrid",
+            "municipality": "Madrid",
+            "district": "Moncloa",
+            "country": "es",
+            "neighborhood": "El Plantío",
+            "latitude": 40.476484,
+            "longitude": -3.8231719,
+            "showAddress": false,
+            "url": "https://www.idealista.com/inmueble/87331010/",
+            "description": "Magnifico chalet independiente en una de las mejores calles de la Urb. LA FLORIDA, lindando con El Monte del Pardo. En un exclusivo y único entorno se encuentra este inmueble que destaca por su amplia parcela de 3.100 m2 y una construcción de 700 m2 con espectaculares vistas al Pardo donde se puede apreciar distinta fauna como ciervos, jabalíes y conejos. La vivienda bien distribuida y funcional esta para actualizar, ya que aunque está construida con magníficas calidades, es perfecta para adecuarla más a los estándares de hoy en día y con poco tener una casa al gusto y necesidades de quien la compre. La vivienda se distribuye de la siguiente manera: Planta baja: Hall, aseo de cortesía, salón con dos ambientes con chimenea y acceso al porche y al jardín con un amplio ventanal, comedor amplio con mucha luz y chimenea. Cocina con puerta de servicio, habitación de servicio y cuarto de plancha. Cuarto principal en suite con vestidor y un baño doble. Suelos de madera, calefacción por gasoil y con una magnifica orientación sur. Planta primera: 4 habitaciones y 2 cuartos de baño completos y una sala de estar. La vivienda se encuentra en una parcela totalmente plana con piscina y un bungaló con baño, parking interior para 3 coches y un parking exterior para 6 coches mas. Urbanización con vigilancia las 24 horas.",
+            "hasVideo": true,
+            "status": "renew",
+            "newDevelopment": false,
+            "parkingSpace": {
+                "hasParkingSpace": true,
+                "isParkingSpaceIncludedInPrice": true
+            },
+            "priceByArea": 4214.0,
+            "detailedType": {
+                "typology": "chalet",
+                "subTypology": "independantHouse"
+            },
+            "suggestedTexts": {
+                "subtitle": "El Plantío, Madrid",
+                "title": "Casa independiente"
+            },
+            "hasPlan": true,
+            "has3DTour": true,
+            "has360": false,
+            "hasStaging": true,
+            "highlight": {
+                "groupDescription": "Destacado"
+            },
+            "topNewDevelopment": false,
+            "topPlus": false
+        },
+        {
+            "propertyCode": "87352319",
+            "thumbnail": "https://img4.idealista.com/blur/WEB_LISTING/0/id.pro.es.image.master/8d/94/d2/858762566.webp",
+            "numPhotos": 29,
+            "price": 3200000.0,
+            "priceInfo": {
+                "price": {
+                    "amount": 3200000.0
+                }
+            },
+            "propertyType": "chalet",
+            "operation": "sale",
+            "size": 410.0,
+            "rooms": 7,
+            "bathrooms": 5,
+            "address": "barrio El Viso",
+            "province": "Madrid",
+            "municipality": "Madrid",
+            "district": "Chamartín",
+            "country": "es",
+            "neighborhood": "El Viso",
+            "latitude": 40.4434932,
+            "longitude": -3.6839934,
+            "showAddress": false,
+            "url": "https://www.idealista.com/inmueble/87352319/",
+            "description": "ATENDEMOS TAMBIEN SÁBADOS Y DOMINGOS. WhatsApp en el SEIS NUEVE SEIS NUEVE CINCO SEIS CUATRO CERO CERO 6.9. 6.9. 5.6. 400. BERNADO LUXURY HOUSES vende espléndido chalet para reformar en El Viso de 410m2 construidos divididos en cuatro plantas. Esta propiedad cuenta con 4 referencias catastrales, lo que permitiría su segregación en varias viviendas. La casa está situada en una calle tranquila y cómoda y muy cercana al centro de la capital Distribución:  La planta -1 está habilitada para un gran garaje para 3 coches, zona de servicio, despensa, posibilidad de cocinas y trastero  En la planta baja hay una cocina y un comedor anexo, salón-comedor dos dormitorios, uno de ellos en suite, otro baño y salida a patio ajardinado de la cocina y salida a la piscina desde el salón.  En la planta primera se encuentran dos habitaciones, dos baños, biblioteca, una cocina y zona de lavado y plancha y una terraza.  En la segunda planta hay otras dos habitaciones, un baño, un estudio-dormitorio de 40m2 con una terraza con impresionantes vistas. La parcela consta de 313m2 y dispone piscina y de parking exterior que podría habilitarse como un porche El Viso es una de las zonas residenciales más prestigiosas de Madrid al tener una ubicación inmejorable por su proximidad a Paseo de la Habana y calle Serrano y cuenta al mismo tiempo con una tranquilidad absoluta.",
+            "hasVideo": true,
+            "status": "renew",
+            "newDevelopment": false,
+            "parkingSpace": {
+                "hasParkingSpace": true,
+                "isParkingSpaceIncludedInPrice": true
+            },
+            "priceByArea": 7805.0,
+            "detailedType": {
+                "typology": "chalet",
+                "subTypology": "semidetachedHouse"
+            },
+            "suggestedTexts": {
+                "subtitle": "El Viso, Madrid",
+                "title": "Chalet pareado"
+            },
+            "hasPlan": true,
+            "has3DTour": false,
+            "has360": false,
+            "hasStaging": false,
+            "highlight": {
+                "groupDescription": "Destacado"
+            },
+            "topNewDevelopment": false,
+            "topPlus": false
+        },
+        {
+            "propertyCode": "87358652",
+            "thumbnail": "https://img4.idealista.com/blur/WEB_LISTING/0/id.pro.es.image.master/14/5c/60/846875161.webp",
+            "externalReference": "V197Q32",
+            "numPhotos": 27,
+            "price": 3100000.0,
+            "priceInfo": {
+                "price": {
+                    "amount": 3100000.0
+                }
+            },
+            "propertyType": "chalet",
+            "operation": "sale",
+            "size": 750.0,
+            "rooms": 4,
+            "bathrooms": 5,
+            "address": "calle Serramagna",
+            "province": "Madrid",
+            "municipality": "Madrid",
+            "district": "Hortaleza",
+            "country": "es",
+            "neighborhood": "Conde Orgaz-Piovera",
+            "latitude": 40.4566453,
+            "longitude": -3.6321117,
+            "showAddress": false,
+            "url": "https://www.idealista.com/inmueble/87358652/",
+            "description": "QUALITÉ Agence Immobilière Française présente LES PLUS BELLES MAISONS DE MADRID. ORIENTACIÓN PERFECTA en Parque Conde de Orgaz. Su perfecta orientación, la dotan de luz y color durante todo el día en todas las estaciones del año. DISTRIBUCIÓN DE LA VIVIENDA PLANTA PRINCIPAL. Hall de entrada, aseo de cortesía, salón-comedor (100 m2), cocina/office completamente equipada (23 m2), sala de estar (15 m2), porche acristalado, gran jardín privado y piscina. PLANTA PRIMERA. Gran distribuidor, dormitorio principal en suite (138,79 m2) con bañera, ducha y jacuzzi, vestidor y balcón. Un despacho (26 m2). Un dormitorio en suite (38 m2) con bañera, ducha y vestidor.  PLANTA SEGUNDA. Un dormitorio en suite (36 m2). PLANTA SÓTANO. Dormitorio de servicio (27 m2) con baño, gran bodega, gimnasio, zona de lavandería, y garaje cerrado para 2 coches y otros 3 en rampa. ELEMENTOS EXCLUSIVOS. Calefacción individual gas natural. Aire acondicionado. Piscina individual. Gran jardín privado. Garaje cerrado para 2 coches grandes y en rampa otros 3. Gran bodega. Gimnasio. Alarma. PROXIMIDADES. Arturo Soria Plaza 2,1 km. Hipercor Campo de las Naciones 1,4 km. Gimnasio Holmes Place 1,2 km. Hospital Nuestra Señora de América 2,1 km. Clínica Universitaria de Navarra 1,8 km. Colegio San José del Parque 1,3 km. Liceo Francés de Madrid 1,3 km. Farmacia 400m. QUALITÉ AGENCE IMMOBILIÈRE FRANÇAISE selecciona las mejores viviendas del Parque Conde de Orgaz, Arturo Soria Prime y exclusivas zonas de Madrid, ofreciéndole la mejor calidad de servicio. Vender, comprar o alquilar un hogar son momentos importantes de nuestra vida, por eso ofrecemos la máxima seriedad y profesionalidad a nuestros clientes.  PINCHE EN NUESTRO LOGO PARA VER MÁS VIVIENDAS. VENTA 3.100. 000€ REF. V197Q32 Pareado Parque Conde de Orgaz  4 dormitorios 5 baños 750 m2 construidos 900 m2 de parcela Año construcción 1989 Plantas +3-1 Orientación sur.",
+            "hasVideo": true,
+            "status": "good",
+            "newDevelopment": false,
+            "parkingSpace": {
+                "hasParkingSpace": true,
+                "isParkingSpaceIncludedInPrice": true
+            },
+            "priceByArea": 4133.0,
+            "detailedType": {
+                "typology": "chalet",
+                "subTypology": "semidetachedHouse"
+            },
+            "suggestedTexts": {
+                "subtitle": "Conde Orgaz-Piovera, Madrid",
+                "title": "Chalet pareado en calle Serramagna"
+            },
+            "hasPlan": true,
+            "has3DTour": true,
+            "has360": true,
+            "hasStaging": false,
+            "highlight": {
+                "groupDescription": "Top"
+            },
+            "topNewDevelopment": false,
+            "topPlus": false
+        },
+        {
+            "propertyCode": "87418987",
+            "thumbnail": "https://img4.idealista.com/blur/WEB_LISTING/0/id.pro.es.image.master/3d/76/1a/1200823097.webp",
+            "externalReference": "W-02H2XF",
+            "numPhotos": 63,
+            "price": 2830000.0,
+            "priceInfo": {
+                "price": {
+                    "amount": 2830000.0
+                }
+            },
+            "propertyType": "chalet",
+            "operation": "sale",
+            "size": 1238.0,
+            "rooms": 11,
+            "bathrooms": 11,
+            "address": "barrio Mirasierra",
+            "province": "Madrid",
+            "municipality": "Madrid",
+            "district": "Fuencarral",
+            "country": "es",
+            "neighborhood": "Mirasierra",
+            "latitude": 40.4879341,
+            "longitude": -3.7103348,
+            "showAddress": false,
+            "url": "https://www.idealista.com/inmueble/87418987/",
+            "description": "Todo un hallazgo en la colonia Mirasierra Engel&Volkers Mirasierra - Puerta de Hierro ( ) les presenta una fantástica propiedad en un enclave único en la colonia Mirasierra, en una zona muy tranquila y bien comunicada. Les presentamos una casa de generosas dimensiones, concretamente 1.248m² construidos muy bien repartidos. La casa la diseñó el actual propietario, un reconocido arquitecto, y no escatimó en estándares constructivos de alta calidad, así como en diseñar una casa a su medida con todas las comodidades posibles. Actualmente la vivienda se encuentra repartida en tres módulos ya que hace cinco años se amplió la vivienda original para hacer un despacho profesional de tres plantas que actualmente se destina a una vivienda independiente de la original con su propia independencia. La casa principal se distribuye en tres plantas, donde el sótano es la zona de servicio, trasteros, sala de máquinas, gimnasio y duchas. Subiendo a la planta noble situamos un gran salón y una zona de estar, con un comedor independiente y una bonita cocina en isla y un aseo de cortesía. Subiendo por una escalera fundida en acero encontramos un despacho y acceso a dos dormitorios, el principal con dos vestidores y cuarto de baño y una terraza, y uno de invitados con baño en suite. Actualmente la casa original con los otro cuatro dormitorios se ha separado con un tabique, dejando esa parte con un salón, cocina y cuatro dormitorios y tres baños. Juntando la vivienda que era el despacho profesional la casa cuenta con 11 dormitorios y varios espacios de estar. El jardín muy consolidado con piscina salina y vegetación tupida. Los porches de la casa todos orientados a sur. Tiene garaje para 8/10 vehículos. MUCHAS DE NUESTRAS PROPIEDADES NO ESTÁN PUBLICITADAS EN IDEALISTA, PARA CONOCERLAS VISITE NUESTRA WEB ENGELVOELKERS. COM/MIRASIERRA La colonia Mirasierra es una de las zonas exclusivas pioneras en la ciudad de Madrid. Comenzó a construirse a finales de los años 50 como lugar de veraneo para las altas clases de la capital. Décadas después e integrada dentro de la ciudad de Madrid, Mirasierra ha pasado a ser un barrio residencial de referencia por su cercanía al centro, por su tranquilidad, seguridad y estar dotada de todos los servicios disponibles. Formada en su mayoría por chalets unifamiliares, adosados y pareados, es una de las zonas más verdes de la capital, creando una atmósfera de relax y paz para poder olvidarse del ruido de la ciudad. Dispone de servicios comerciales, de hospitales como Ruber Internacional y la Clínica Cemtro, clubs deportivos, colegios privados y fáciles conexiones de transporte. Sin duda Mirasierra sigue siendo una zona exclusiva integrada en Madrid capital.",
+            "hasVideo": true,
+            "status": "good",
+            "newDevelopment": false,
+            "parkingSpace": {
+                "hasParkingSpace": true,
+                "isParkingSpaceIncludedInPrice": true
+            },
+            "priceByArea": 2286.0,
+            "detailedType": {
+                "typology": "chalet",
+                "subTypology": "independantHouse"
+            },
+            "suggestedTexts": {
+                "subtitle": "Mirasierra, Madrid",
+                "title": "Casa independiente"
+            },
+            "hasPlan": true,
+            "has3DTour": false,
+            "has360": true,
+            "hasStaging": false,
+            "topNewDevelopment": false,
+            "topPlus": false
+        },
+        {
+            "propertyCode": "86984755",
+            "thumbnail": "https://img4.idealista.com/blur/WEB_LISTING/0/id.pro.es.image.master/f3/2d/63/858177254.webp",
+            "externalReference": "1398-4963/01587",
+            "numPhotos": 13,
+            "price": 5000000.0,
+            "priceInfo": {
+                "price": {
+                    "amount": 5000000.0
+                }
+            },
+            "propertyType": "chalet",
+            "operation": "sale",
+            "size": 990.0,
+            "rooms": 6,
+            "bathrooms": 8,
+            "address": "barrio Conde Orgaz-Piovera",
+            "province": "Madrid",
+            "municipality": "Madrid",
+            "district": "Hortaleza",
+            "country": "es",
+            "neighborhood": "Conde Orgaz-Piovera",
+            "latitude": 40.455918,
+            "longitude": -3.6370567,
+            "showAddress": false,
+            "url": "https://www.idealista.com/inmueble/86984755/",
+            "description": "CONYCOR ofrece este chalet exclusivo en el Parque Conde de Orgaz. Es una propiedad de lujo con amplios espacios y materiales nobles. Está ubicado en una zona privilegiada, rodeado de parques públicos ya solo diez minutos del centro de Madrid. La casa cuenta con todo tipo de comodidades, como ascensor, cuatro suites, ocho baños, dos salones, un gran gimnasio, bodega, baño turco, vestuario y baño de piscina, barbacoa de obra y área de servicio con entrada independiente. La casa fue estrenada en el año 2002 y tiene una superficie de casi 1.000 m² construida sobre una parcela de más de 1.000 m² con 70 metros de fachada. La estructura se basa en una sólida cimentación por pilotes y sustentación perimetral, lo que permite que las plantas sean diáfanas y adaptables a las necesidades de los habitantes, sin pilares ni columnas interiores. El jardín, diseñado por un estudio de paisajismo, cuenta con un estanque con cascada, piscina con agua depurada con sistema de iones (Cu), diferentes especies arbóreas, setos y praderas de césped natural. En la planta principal, que tiene una altura de 3,30 metros, se encuentra un porche de pizarra natural y techo de madera, que se comunica con un amplio salón diáfano de más de 90 m² en varios ambientes sin columnas ni pilares. También se encuentra el comedor y el salón-recibidor semicircular, dotado de luz cenital a través de un lucernario en la cubierta. Completa esta planta un aseo de cortesía y una cocina semicircular equipada con office, despensa y cuarto de útiles de limpieza. En la planta primera, a la que se accede por una cómoda escalera o ascensor, se encuentran las tres grandes suites. La suite principal cuenta con una sala de baño semicircular con bañera y ducha separadas, vestidor, armarios, vestidos y baños revestidos de mármol envejecido. En la planta segunda se encuentra un amplio salón con ambiente inglés, una salita de juegos de mesa, un despacho, armarios y un aseo de cortesía. Estas tres plantas y la escalera están soladas con tarima maciza de caoba sucupira. La planta sótano cuenta con una zona de servicio, un gran gimnasio, una bodega semicircular, un baño turco, vestuario y baño de piscina, un cuarto con armarios roperos, un aljibe de pluviales y un garaje para 4/5 automóviles. Toda la edificación está climatizada con aire acondicionado frío y calor de gas natural por conductos. Las ventanas son oscilobatientes de madera lacada por el interior y aluminio lacado por el exterior, con persianas metálicas de seguridad y motorizadas. Las puertas son a medida en madera maciza lacada al horno. Además, la casa cuenta con alarma sectorizada por plantas. El Parque Conde de Orgaz es una zona residencial prime del Nordeste de Madrid, con excelentes instalaciones y servicios, como clínicas y centros de salud, centros comerciales, instalaciones deportivas públicas y privadas, colegios reconocidos, guarderías bilingües, salas de cine, restaurantes, bancos., entre otros. La ubicación del chalet permite un fácil acceso a la A-2, M-40, recintos feriales de IFEMA, aeropuerto y más. Es la zona más deseada por las familias que buscan tranquilidad, exclusividad y buenas comunicaciones.",
+            "hasVideo": false,
+            "status": "good",
+            "newDevelopment": false,
+            "parkingSpace": {
+                "hasParkingSpace": true,
+                "isParkingSpaceIncludedInPrice": true
+            },
+            "priceByArea": 5051.0,
+            "detailedType": {
+                "typology": "chalet",
+                "subTypology": "independantHouse"
+            },
+            "suggestedTexts": {
+                "subtitle": "Conde Orgaz-Piovera, Madrid",
+                "title": "Casa independiente"
+            },
+            "hasPlan": true,
+            "has3DTour": false,
+            "has360": false,
+            "hasStaging": false,
+            "topNewDevelopment": false,
+            "topPlus": false
+        },
+        {
+            "propertyCode": "87629813",
+            "thumbnail": "https://img4.idealista.com/blur/WEB_LISTING/0/id.pro.es.image.master/4a/f7/dc/726676132.webp",
+            "externalReference": "MOP-3789",
+            "numPhotos": 16,
+            "floor": "6",
+            "price": 849000.0,
+            "priceInfo": {
+                "price": {
+                    "amount": 849000.0
+                }
+            },
+            "propertyType": "flat",
+            "operation": "sale",
+            "size": 86.0,
+            "exterior": true,
+            "rooms": 2,
+            "bathrooms": 1,
+            "address": "barrio Castellana",
+            "province": "Madrid",
+            "municipality": "Madrid",
+            "district": "Barrio de Salamanca",
+            "country": "es",
+            "neighborhood": "Castellana",
+            "latitude": 40.4346289,
+            "longitude": -3.6794545,
+            "showAddress": false,
+            "url": "https://www.idealista.com/inmueble/87629813/",
+            "description": "Excepcional piso alto y luminoso situado en el barrio de Salamanca.  Dispone de 2 dormitorios dobles, salón, cocina y cuarto de baño con 2 lavabos. Baño y cocina paredes y suelo de mármol. Totalmente insonorizado. Calefacción central y agua caliente central, aire acondicionado central. Armarios empotrados.  Finca con varios ascensores y conserje las 24 hs. Varias bocas de metro a un minuto andando. Diego de León, Av. de América y Núñez de Balboa.",
+            "hasVideo": false,
+            "status": "good",
+            "newDevelopment": false,
+            "hasLift": true,
+            "priceByArea": 9872.0,
+            "detailedType": {
+                "typology": "flat"
+            },
+            "suggestedTexts": {
+                "subtitle": "Castellana, Madrid",
+                "title": "Piso"
+            },
+            "hasPlan": false,
+            "has3DTour": false,
+            "has360": false,
+            "hasStaging": false,
+            "topNewDevelopment": false,
+            "topPlus": false
+        },
+        {
+            "propertyCode": "87663479",
+            "thumbnail": "https://img4.idealista.com/blur/WEB_LISTING/0/id.pro.es.image.master/6f/3d/5a/1249372324.webp",
+            "externalReference": "W-02FNP2",
+            "numPhotos": 52,
+            "price": 1990000.0,
+            "priceInfo": {
+                "price": {
+                    "amount": 1990000.0
+                }
+            },
+            "propertyType": "chalet",
+            "operation": "sale",
+            "size": 784.0,
+            "rooms": 5,
+            "bathrooms": 5,
+            "address": "Ciudalcampo",
+            "province": "Madrid",
+            "municipality": "Ciudalcampo",
+            "country": "es",
+            "latitude": 40.6170445,
+            "longitude": -3.6227075,
+            "showAddress": false,
+            "url": "https://www.idealista.com/inmueble/87663479/",
+            "description": "Lujo en estado puro para amantes de la naturaleza Casa de ensueño, diseñada por J Martorell, Oriol Bohigas y D.Mackay. Integrada en perfecta armonía con el jardín con el mismo carácter que se respira en el parque natural, las especies vegetales, algunas autóctonas y otras importadas armonizaran con el entorno de la sierra, con un marcado acento agreste fácil de mantener, con notas de color durante todo el año.  La vivienda abraza al jardín no sólo mediante su disposición en planta, se ha intentado potenciar la integración del mismo al interior de la vivienda a través de sus fachadas, con el fin de disfrutar al máximo de la naturaleza y sus vistas. Cuenta con huerto, un bonito estanque en la zona baja de la parcela y diversas zonas de plantación integradas unas con otras de manera natural. Desde el exterior, una pasarela suspendida conduce hasta la puerta de la vivienda. El diseño de la casa permite diferenciar dos piezas alargadas formando un ángulo de 90º y unidas por una esquina. Ala N/S, se encuentran la cocina, el aseo y los 4 dormitorios en suite, ascensor de comunicación entre todos los niveles y la escalera. La estructura de esta pieza es tradicional. Ala E/O, de planta rectangular y un nivel de altura sobrevolando la parcela. Aquí están el comedor y los salones con una chimenea suspendida estilo Gyrofocus de Dominique Imbert y una enorme terraza entre ambos salones con impresionantes vistas a la sierra, forjado tipo Deck y cubierta curva de zinc.  Planta baja: zona de aguas (piscina interior, jacuzzi circular, baño turco y aseo), un dormitorio en suite con baño incorporado, una sala de usos varios. Seguridad: cámaras, barreras de infrarrojos en ventanas y puertas. La casa cuenta con la más avanzada tecnología, domótica, suelo radiante, aspiración centralizada, ascensor, ventanas eléctricas, persianas motorizadas de seguridad, las ventanas del salón están calefactadas para impedir que se empañen, iluminación led, equipo de sonido integrado y centralizado de la prestigiosa marca Bang&Olufsen, alarma volumétrica. En definitiva una casa de capricho integrada en un bello jardín donde poder fundirse con la naturaleza y disfrutar de paz y tranquilidad a escasos minutos de Madrid. La urbanización de Ciudalcampo es una de las mejores zonas residenciales de Madrid. Excepcional emplazamiento dentro del Parque Regional de la Cuenca Alta del Manzanares, ubicada en los municipios de San Sebastián de los Reyes y Colmenar Viejo. Entorno privilegiado y con impresionantes vistas a la sierra norte de Madrid. Espacio que mantiene el equilibrio entre el desarrollo urbanístico y la conservación del medio natural. Cómodo y rápido acceso en el Km 28 de la N-1. Próxima al aeropuerto de Madrid Barajas, IFEMA y a parque empresarial con múltiples empresas multinacionales, y a tan solo 10 minutos de uno de los mejores hospitales de la zona Norte el Hospital Infanta Sofía. Excepcionales dotaciones y servicios dentro de la propia urbanización: Colegio internacional SEK, Club deportivo RACE (Golf, Paddle, Tenis, Piscina, Gimnasio, Hípica, Fútbol), Servicio regular de autobuses a Madrid e interno dentro de la propia urbanización, Oficina de correos y Centro Comercial Santo Domingo, con farmacia, supermercado, frutería, carnicería, pescadería, estanco, restauración, etc. Dispone de un sistema de cámaras y vallado perimetral. Servicio de seguridad 24 horas con patrullas de vigilancia y control de barrera a la entrada. Cuenta además con 6,5Km de circuito físico para la práctica de deporte al aire libre y 41km de viales con tráfico limitado a la propia urbanización, ideales para los amantes de paseos en plena naturaleza.",
+            "hasVideo": false,
+            "status": "good",
+            "newDevelopment": false,
+            "parkingSpace": {
+                "hasParkingSpace": true,
+                "isParkingSpaceIncludedInPrice": true
+            },
+            "priceByArea": 2538.0,
+            "detailedType": {
+                "typology": "chalet",
+                "subTypology": "independantHouse"
+            },
+            "suggestedTexts": {
+                "subtitle": "Ciudalcampo",
+                "title": "Casa independiente"
+            },
+            "hasPlan": false,
+            "has3DTour": true,
+            "has360": false,
+            "hasStaging": false,
+            "topNewDevelopment": false,
+            "topPlus": false
+        },
+        {
+            "propertyCode": "104923946",
+            "thumbnail": "https://img4.idealista.com/blur/WEB_LISTING/0/id.pro.es.image.master/07/3d/f0/1167884815.webp",
+            "externalReference": "01632",
+            "numPhotos": 14,
+            "floor": "2",
+            "price": 160000.0,
+            "priceInfo": {
+                "price": {
+                    "amount": 160000.0
+                }
+            },
+            "propertyType": "flat",
+            "operation": "sale",
+            "size": 89.0,
+            "exterior": true,
+            "rooms": 1,
+            "bathrooms": 1,
+            "address": "Centro",
+            "province": "Madrid",
+            "municipality": "Colmenar Viejo",
+            "district": "Centro",
+            "country": "es",
+            "latitude": 40.6583447,
+            "longitude": -3.7685413,
+            "showAddress": false,
+            "url": "https://www.idealista.com/inmueble/104923946/",
+            "description": "Piso en muy buen estado de conservaciçon, 89m2 construidos, 80m2 útiles aproximadamente. entrada directamente al salón con cocina totalmente equipada con electrodomésticos, 1 dormitorio, vestidor y baño completo. Puerta blindada, calefacción gas natural, plaza de garaje y trastero. Buena comunicación con comercios, tte. público.",
+            "hasVideo": false,
+            "status": "good",
+            "newDevelopment": false,
+            "hasLift": false,
+            "parkingSpace": {
+                "hasParkingSpace": true,
+                "isParkingSpaceIncludedInPrice": true
+            },
+            "priceByArea": 1798.0,
+            "detailedType": {
+                "typology": "flat"
+            },
+            "suggestedTexts": {
+                "subtitle": "Centro, Colmenar Viejo",
+                "title": "Piso"
+            },
+            "hasPlan": false,
+            "has3DTour": false,
+            "has360": false,
+            "hasStaging": false,
+            "topNewDevelopment": false,
+            "topPlus": false
+        },
+        {
+            "propertyCode": "87782453",
+            "thumbnail": "https://img4.idealista.com/blur/WEB_LISTING/0/id.pro.es.image.master/0b/d7/a6/730813853.webp",
+            "numPhotos": 27,
+            "floor": "bj",
+            "price": 145000.0,
+            "priceInfo": {
+                "price": {
+                    "amount": 145000.0
+                }
+            },
+            "propertyType": "flat",
+            "operation": "sale",
+            "size": 64.0,
+            "exterior": true,
+            "rooms": 2,
+            "bathrooms": 1,
+            "address": "calle Serafín de Asís, 3",
+            "province": "Madrid",
+            "municipality": "Madrid",
+            "district": "Latina",
+            "country": "es",
+            "neighborhood": "Lucero",
+            "latitude": 40.4060433,
+            "longitude": -3.7514151,
+            "showAddress": true,
+            "url": "https://www.idealista.com/inmueble/87782453/",
+            "description": "Disfruta de la Casa de Campo a tres paradas del centro de Madrid. Piso actualmente en alquiler. INTERHABITAT presenta esta acogedora vivienda ubicada en el barrio de Batán junto a la Casa de Campo en la Colonia Montepío, Batán. Situado en una planta baja exterior y luminoso, tiene 64 m2 y consta de un salón comedor, dos dormitorios, cocina y cuarto de baño. Todas las estancias son exteriores. El inmueble es todo exterior. También cuenta con jardín comunitario en el que aprovecharás el buen tiempo. Además, por su orientación este, en esta casa disfrutarás del sol por las mañanas y por la ubicación es muy tranquila y sin ruidos. Esta casa está situada en una zona bien comunicada, muy cerca de las estaciones de Metro de Batán y Lucero, con la parada de autobús casi al lado de la vivienda y con un práctico acceso a la A-5. Para mayor comodidad, la vivienda se encuentra muy cerca de un hospital y de un colegio, de supermercados, comercios y todo lo necesario para el día a día.  Barrio de El Batán, está situado al suroeste de Madrid en la zona más alta que pueda haber para la contemplación de cualquier paisaje; tanto de la Sierra del Guadarrama como de ese Madrid histórico que se asoma por encima de las construcciones modernas y los árboles centenarios del Campo del Moro y la Casa de Campo.",
+            "hasVideo": false,
+            "status": "renew",
+            "newDevelopment": false,
+            "hasLift": true,
+            "priceByArea": 2266.0,
+            "detailedType": {
+                "typology": "flat"
+            },
+            "suggestedTexts": {
+                "subtitle": "Lucero, Madrid",
+                "title": "Piso en calle Serafín de Asís, 3"
+            },
+            "hasPlan": true,
+            "has3DTour": true,
+            "has360": true,
+            "hasStaging": false,
+            "topNewDevelopment": false,
+            "topPlus": false
+        },
+        {
+            "propertyCode": "87803515",
+            "thumbnail": "https://img4.idealista.com/blur/WEB_LISTING/0/id.pro.es.image.master/01/42/dd/731283425.webp",
+            "externalReference": "VA-1380",
+            "numPhotos": 19,
+            "price": 315000.0,
+            "priceInfo": {
+                "price": {
+                    "amount": 315000.0
+                }
+            },
+            "propertyType": "chalet",
+            "operation": "sale",
+            "size": 120.0,
+            "rooms": 0,
+            "bathrooms": 0,
+            "address": "Hoyo de Manzanares",
+            "province": "Madrid",
+            "municipality": "Hoyo de Manzanares",
+            "country": "es",
+            "latitude": 40.6277299,
+            "longitude": -3.90974,
+            "showAddress": false,
+            "url": "https://www.idealista.com/inmueble/87803515/",
+            "description": "Chalet a medio construir con proyecto, en maravillosa parcela de 1000m2 con bonitas vistas. Entorno privilegiado entre arbustos bajos, encinas y montaña. Proyecto en tres plantas. Tambien se podría terminar planta sotano y colocar casa de paneles o prefabricada encima con grandes vistas. Todos los suministros a mano. Posee puerta de garaje, parcela totalmente vallada. Bonita zona residencial, a dos minutos andando al pueblo.",
+            "hasVideo": false,
+            "status": "renew",
+            "newDevelopment": false,
+            "priceByArea": 2625.0,
+            "detailedType": {
+                "typology": "chalet",
+                "subTypology": "independantHouse"
+            },
+            "suggestedTexts": {
+                "subtitle": "Hoyo de Manzanares",
+                "title": "Casa independiente"
+            },
+            "hasPlan": false,
+            "has3DTour": false,
+            "has360": false,
+            "hasStaging": false,
+            "topNewDevelopment": false,
+            "topPlus": false
+        }
+    ],
+    "total": 26924,
+    "totalPages": 539,
+    "actualPage": 2,
+    "itemsPerPage": 50,
+    "numPaginations": 0,
+    "summary": [
+        "Comprar",
+        "Viviendas",
+        "Madrid provincia",
+        "Todos los precios",
+        "Todos los tamaños"
+    ],
+    "filter": {
+        "locationName": "Madrid"
+    },
+    "alertName": "Viviendas en Madrid",
+    "totalAppliedFilters": 0,
+    "upperRangePosition": 100,
+    "lowerRangePosition": 50,
+    "paginable": true
+}

@@ -1,0 +1,2500 @@
+{
+    "elementList": [
+        {
+            "propertyCode": "97260273",
+            "thumbnail": "https://img4.idealista.com/blur/WEB_LISTING/0/id.pro.es.image.master/2e/6a/75/973927253.webp",
+            "numPhotos": 5,
+            "price": 340000.0,
+            "priceInfo": {
+                "price": {
+                    "amount": 340000.0,
+                    "currencySuffix": "?"
+                }
+            },
+            "propertyType": "chalet",
+            "operation": "sale",
+            "size": 136.0,
+            "rooms": 3,
+            "bathrooms": 3,
+            "address": "avenida De los Canteros, 3",
+            "province": "Madrid",
+            "municipality": "Cerceda",
+            "country": "es",
+            "latitude": 40.6988723,
+            "longitude": -3.9315891,
+            "showAddress": true,
+            "url": "https://www.idealista.com/obra-nueva/97260273/",
+            "description": "Chalets en Régimen Autopromotor. Frente al parque regional del Guadarrama, la nueva urbanización de Cerceda supondrá la llegada de viviendas económicamente asequibles, ecosostenibles, tecnológicamente dotadas, pensadas para un consumo responsable y eficientes energéticamente. ? Atractivas, durables, funcionales, accesibles, confortables y enclavadas en un entorno saludable. Pensadas para respirar en ellas. ? Eficientes en relación al uso de recursos energéticos, materiales y naturales. ? Respetuosas con su entorno y la ciudad. ? Competitivas económicamente, especialmente cuando se toma en consideración el largo ciclo de vida asociado a los edificios, en costes de mantenimiento, durabilidad por la calidad de sus materiales y precios de reventa por la alta demanda de este tipo de viviendas.",
+            "hasVideo": false,
+            "status": "newdevelopment",
+            "newDevelopment": true,
+            "newDevelopmentFinished": false,
+            "priceByArea": 2500.0,
+            "detailedType": {
+                "typology": "chalet",
+                "subTypology": "semidetachedHouse"
+            },
+            "suggestedTexts": {
+                "subtitle": "Cerceda",
+                "title": "Chalet pareado en avenida De los Canteros, 3"
+            },
+            "hasPlan": true,
+            "has3DTour": false,
+            "has360": false,
+            "hasStaging": false,
+            "topNewDevelopment": false,
+            "topPlus": false
+        },
+        {
+            "propertyCode": "97260308",
+            "thumbnail": "https://img4.idealista.com/blur/WEB_LISTING/0/id.pro.es.image.master/2e/6a/75/973927253.webp",
+            "numPhotos": 5,
+            "price": 395000.0,
+            "priceInfo": {
+                "price": {
+                    "amount": 395000.0,
+                    "currencySuffix": "?"
+                }
+            },
+            "propertyType": "chalet",
+            "operation": "sale",
+            "size": 183.0,
+            "rooms": 4,
+            "bathrooms": 2,
+            "address": "avenida De los Canteros, 3",
+            "province": "Madrid",
+            "municipality": "Cerceda",
+            "country": "es",
+            "latitude": 40.6988723,
+            "longitude": -3.9315891,
+            "showAddress": true,
+            "url": "https://www.idealista.com/obra-nueva/97260308/",
+            "description": "Chalets en Régimen Autopromotor. Frente al parque regional del Guadarrama, la nueva urbanización de Cerceda supondrá la llegada de viviendas económicamente asequibles, ecosostenibles, tecnológicamente dotadas, pensadas para un consumo responsable y eficientes energéticamente. ? Atractivas, durables, funcionales, accesibles, confortables y enclavadas en un entorno saludable. Pensadas para respirar en ellas. ? Eficientes en relación al uso de recursos energéticos, materiales y naturales. ? Respetuosas con su entorno y la ciudad. ? Competitivas económicamente, especialmente cuando se toma en consideración el largo ciclo de vida asociado a los edificios, en costes de mantenimiento, durabilidad por la calidad de sus materiales y precios de reventa por la alta demanda de este tipo de viviendas.",
+            "hasVideo": false,
+            "status": "newdevelopment",
+            "newDevelopment": true,
+            "newDevelopmentFinished": false,
+            "priceByArea": 2158.0,
+            "detailedType": {
+                "typology": "chalet",
+                "subTypology": "semidetachedHouse"
+            },
+            "suggestedTexts": {
+                "subtitle": "Cerceda",
+                "title": "Chalet pareado en avenida De los Canteros, 3"
+            },
+            "hasPlan": true,
+            "has3DTour": false,
+            "has360": false,
+            "hasStaging": false,
+            "topNewDevelopment": false,
+            "topPlus": false
+        },
+        {
+            "propertyCode": "97288935",
+            "thumbnail": "https://img4.idealista.com/blur/WEB_LISTING/0/id.pro.es.image.master/3c/9a/c8/1007027639.webp",
+            "externalReference": "CCI-000-000028921",
+            "numPhotos": 63,
+            "price": 569000.0,
+            "priceInfo": {
+                "price": {
+                    "amount": 569000.0,
+                    "currencySuffix": "?",
+                    "priceDropInfo": {
+                        "formerPrice": 575000.0,
+                        "priceDropValue": 6000,
+                        "priceDropPercentage": 1
+                    }
+                }
+            },
+            "propertyType": "chalet",
+            "operation": "sale",
+            "size": 681.0,
+            "rooms": 4,
+            "bathrooms": 5,
+            "address": "calle de las Moreras",
+            "province": "Madrid",
+            "municipality": "Aranjuez",
+            "district": "Foso-Moreras",
+            "country": "es",
+            "latitude": 40.0356178,
+            "longitude": -3.5808817,
+            "showAddress": false,
+            "url": "https://www.idealista.com/inmueble/97288935/",
+            "description": "Espectacular chalet de lujo con 681m2 en 4 plantas situado en la localidad de Aranjuez (Madrid). Consta amplia cocina, salón con 3 ambientes, 4 dormitorios, despacho, 5 baños completos, aseo y Garaje para 3 coches. Ascensor desde el garaje, Domótica, Aire acondicionado por conductos. Tiene patio delantero y trasero. Con Piscina Comunitaria. Dispone de Jacuzzi, Gimnasio, Sauna húmeda y seca. Persianas eléctricas de seguridad, solados de Porcelanosa, inmejorables calidades.",
+            "hasVideo": false,
+            "status": "good",
+            "newDevelopment": false,
+            "parkingSpace": {
+                "hasParkingSpace": true,
+                "isParkingSpaceIncludedInPrice": true
+            },
+            "priceByArea": 836.0,
+            "detailedType": {
+                "typology": "chalet",
+                "subTypology": "terracedHouse"
+            },
+            "suggestedTexts": {
+                "subtitle": "Foso-Moreras, Aranjuez",
+                "title": "Chalet adosado en calle de las Moreras"
+            },
+            "hasPlan": true,
+            "has3DTour": false,
+            "has360": false,
+            "hasStaging": false,
+            "highlight": {
+                "groupDescription": "Destacado"
+            },
+            "topNewDevelopment": false,
+            "topPlus": false
+        },
+        {
+            "propertyCode": "97290670",
+            "thumbnail": "https://img4.idealista.com/blur/WEB_LISTING/0/id.pro.es.image.master/09/e5/3a/1087511157.webp",
+            "externalReference": "798",
+            "numPhotos": 23,
+            "floor": "2",
+            "price": 390000.0,
+            "priceInfo": {
+                "price": {
+                    "amount": 390000.0,
+                    "currencySuffix": "?"
+                }
+            },
+            "propertyType": "flat",
+            "operation": "sale",
+            "size": 115.0,
+            "exterior": true,
+            "rooms": 3,
+            "bathrooms": 2,
+            "address": "barrio Berruguete",
+            "province": "Madrid",
+            "municipality": "Madrid",
+            "district": "Tetuán",
+            "country": "es",
+            "neighborhood": "Berruguete",
+            "latitude": 40.4615648,
+            "longitude": -3.7065945,
+            "showAddress": false,
+            "url": "https://www.idealista.com/inmueble/97290670/",
+            "description": "CAVALIER VENDE. Luminoso piso dúplex de 115m2 con 3 dormitorios y 3 baños. Situado en zona de fácil aparcamiento, cerca de estación de metro de Tetuán y junto a diversas paradas de autobús.    En planta principal disponemos de un amplio hall de entrada, salón comedor con gran ventanal orientado al sur, que le confiere mucha luminosidad, y un baño completo.     En planta primera encontramos 3 amplios dormitorios, uno de ellos tipo suite con baño incorporado.    La vivienda dispone de carpintería exterior de aluminio con climalit, suelos porcelanicos, puerta blindada de madera y calefacción por gas natural.",
+            "hasVideo": false,
+            "status": "good",
+            "newDevelopment": false,
+            "hasLift": false,
+            "priceByArea": 3391.0,
+            "detailedType": {
+                "typology": "flat"
+            },
+            "suggestedTexts": {
+                "subtitle": "Berruguete, Madrid",
+                "title": "Piso"
+            },
+            "hasPlan": false,
+            "has3DTour": false,
+            "has360": false,
+            "hasStaging": false,
+            "topNewDevelopment": false,
+            "topPlus": false
+        },
+        {
+            "propertyCode": "101475350",
+            "thumbnail": "https://img4.idealista.com/blur/WEB_LISTING/0/id.pro.es.image.master/70/b2/9e/775500674.webp",
+            "externalReference": "V07 ",
+            "numPhotos": 13,
+            "price": 470000.0,
+            "priceInfo": {
+                "price": {
+                    "amount": 470000.0,
+                    "currencySuffix": "?"
+                }
+            },
+            "propertyType": "chalet",
+            "operation": "sale",
+            "size": 237.0,
+            "rooms": 3,
+            "bathrooms": 3,
+            "address": "Juan Esteban y Francisco de Mora de los números 44 al 60 s/n",
+            "province": "Madrid",
+            "municipality": "San Lorenzo de El Escorial",
+            "district": "Zaburdón - Monte Escorial",
+            "country": "es",
+            "latitude": 40.60276,
+            "longitude": -4.1332451,
+            "showAddress": true,
+            "url": "https://www.idealista.com/obra-nueva/101475350/",
+            "description": "18 Chalets en Pinar Real en San Lorenzo del Escorial. Viviendas de 250m2 construidos en parcelas entre 220 y 260 m2 de superficie. Chalet con 3 amplios dormitorios con 2 baños en planta primera y salón, cocina y. un aseo en planta baja, buhardilla de 50m2 aprox. diáfana terminada como el resto de la casa. Garaje para un coche La parcela que queda libre para hacer jardín tiene una superficie de unos 90m2. Calefacción-climatización por Aerotermia con suelo radiante y refrescante. Las viviendas de la calle Francisco de Mora se iniciarán cuando estén vendidas el 70% siendo el tiempo de ejecución de las obras 18 meses desde su inicio.",
+            "hasVideo": false,
+            "status": "newdevelopment",
+            "newDevelopment": true,
+            "parkingSpace": {
+                "hasParkingSpace": true,
+                "isParkingSpaceIncludedInPrice": true
+            },
+            "newDevelopmentFinished": false,
+            "priceByArea": 1983.0,
+            "detailedType": {
+                "typology": "chalet",
+                "subTypology": "terracedHouse"
+            },
+            "suggestedTexts": {
+                "subtitle": "Zaburdón - Monte Escorial, San Lorenzo de El Escorial",
+                "title": "Chalet adosado en Juan Esteban y Francisco de Mora de los números 44 al 60 s/n"
+            },
+            "hasPlan": true,
+            "has3DTour": false,
+            "has360": false,
+            "hasStaging": false,
+            "topNewDevelopment": false,
+            "topPlus": false
+        },
+        {
+            "propertyCode": "103975176",
+            "thumbnail": "https://img4.idealista.com/blur/WEB_LISTING/0/id.pro.es.image.master/70/b2/9e/775500674.webp",
+            "externalReference": "V02 ",
+            "numPhotos": 13,
+            "price": 445000.0,
+            "priceInfo": {
+                "price": {
+                    "amount": 445000.0,
+                    "currencySuffix": "?"
+                }
+            },
+            "propertyType": "chalet",
+            "operation": "sale",
+            "size": 247.0,
+            "rooms": 3,
+            "bathrooms": 3,
+            "address": "Juan Esteban y Francisco de Mora de los números 44 al 60 s/n",
+            "province": "Madrid",
+            "municipality": "San Lorenzo de El Escorial",
+            "district": "Zaburdón - Monte Escorial",
+            "country": "es",
+            "latitude": 40.60276,
+            "longitude": -4.1332451,
+            "showAddress": true,
+            "url": "https://www.idealista.com/obra-nueva/103975176/",
+            "description": "18 Chalets en Pinar Real en San Lorenzo de El Escorial. Viviendas de 250?m² construidos en parcelas entre 220 y 260 m² de superficie. 3 amplios dormitorios con 2 baños y un aseo, buhardilla de 50?m² aprox. diáfana terminada como el resto de la casa. La parcela que queda libre para hacer jardín tiene una superficie de unos 90?m². Calefacción-climatización por Aerotermia con suelo radiante y refrescante. Las viviendas de la calle Francisco de Mora se iniciarán cuando estén vendidas el 70% siendo el tiempo de ejecución de las obras 18 meses desde su inicio.",
+            "hasVideo": false,
+            "status": "newdevelopment",
+            "newDevelopment": true,
+            "parkingSpace": {
+                "hasParkingSpace": true,
+                "isParkingSpaceIncludedInPrice": true
+            },
+            "newDevelopmentFinished": false,
+            "priceByArea": 1802.0,
+            "detailedType": {
+                "typology": "chalet",
+                "subTypology": "terracedHouse"
+            },
+            "suggestedTexts": {
+                "subtitle": "Zaburdón - Monte Escorial, San Lorenzo de El Escorial",
+                "title": "Chalet adosado en Juan Esteban y Francisco de Mora de los números 44 al 60 s/n"
+            },
+            "hasPlan": true,
+            "has3DTour": false,
+            "has360": false,
+            "hasStaging": false,
+            "topNewDevelopment": false,
+            "topPlus": false
+        },
+        {
+            "propertyCode": "101475397",
+            "thumbnail": "https://img4.idealista.com/blur/WEB_LISTING/0/id.pro.es.image.master/70/b2/9e/775500674.webp",
+            "externalReference": "V08 ",
+            "numPhotos": 13,
+            "price": 475000.0,
+            "priceInfo": {
+                "price": {
+                    "amount": 475000.0,
+                    "currencySuffix": "?"
+                }
+            },
+            "propertyType": "chalet",
+            "operation": "sale",
+            "size": 237.0,
+            "rooms": 3,
+            "bathrooms": 3,
+            "address": "Juan Esteban y Francisco de Mora de los números 44 al 60 s/n",
+            "province": "Madrid",
+            "municipality": "San Lorenzo de El Escorial",
+            "district": "Zaburdón - Monte Escorial",
+            "country": "es",
+            "latitude": 40.60276,
+            "longitude": -4.1332451,
+            "showAddress": true,
+            "url": "https://www.idealista.com/obra-nueva/101475397/",
+            "description": "18 Chalets en Pinar Real en San Lorenzo del Escorial. Viviendas de 250m2 construidos en parcelas entre 220 y 260 m2 de superficie. Planta primera con 3 amplios dormitorios con 2 baños y salón, cocina y un aseo en planta baja. Una buhardilla de 50m2 aprox. diáfana terminada como el resto de la casa.  La parcela que queda libre para hacer jardín tiene una superficie de unos 90m2. Calefacción-climatización por Aerotermia con suelo radiante y refrescante. Las viviendas de la calle Francisco de Mora se iniciarán cuando estén vendidas el 70% siendo el tiempo de ejecución de las obras 18 meses desde su inicio.",
+            "hasVideo": false,
+            "status": "newdevelopment",
+            "newDevelopment": true,
+            "parkingSpace": {
+                "hasParkingSpace": true,
+                "isParkingSpaceIncludedInPrice": true
+            },
+            "newDevelopmentFinished": false,
+            "priceByArea": 2004.0,
+            "detailedType": {
+                "typology": "chalet",
+                "subTypology": "terracedHouse"
+            },
+            "suggestedTexts": {
+                "subtitle": "Zaburdón - Monte Escorial, San Lorenzo de El Escorial",
+                "title": "Chalet adosado en Juan Esteban y Francisco de Mora de los números 44 al 60 s/n"
+            },
+            "hasPlan": true,
+            "has3DTour": false,
+            "has360": false,
+            "hasStaging": false,
+            "topNewDevelopment": false,
+            "topPlus": false
+        },
+        {
+            "propertyCode": "103975186",
+            "thumbnail": "https://img4.idealista.com/blur/WEB_LISTING/0/id.pro.es.image.master/70/b2/9e/775500674.webp",
+            "externalReference": "V03",
+            "numPhotos": 13,
+            "price": 445000.0,
+            "priceInfo": {
+                "price": {
+                    "amount": 445000.0,
+                    "currencySuffix": "?"
+                }
+            },
+            "propertyType": "chalet",
+            "operation": "sale",
+            "size": 237.0,
+            "rooms": 3,
+            "bathrooms": 3,
+            "address": "Juan Esteban y Francisco de Mora de los números 44 al 60 s/n",
+            "province": "Madrid",
+            "municipality": "San Lorenzo de El Escorial",
+            "district": "Zaburdón - Monte Escorial",
+            "country": "es",
+            "latitude": 40.60276,
+            "longitude": -4.1332451,
+            "showAddress": true,
+            "url": "https://www.idealista.com/obra-nueva/103975186/",
+            "description": "18 Chalets en Pinar Real en San Lorenzo de El Escorial. Viviendas de 250?m² construidos en parcelas entre 220 y 260 m² de superficie. 3 amplios dormitorios con 2 baños y un aseo, buhardilla de 50?m² aprox. diáfana terminada como el resto de la casa. La parcela que queda libre para hacer jardín tiene una superficie de unos 90?m². Calefacción-climatización por Aerotermia con suelo radiante y refrescante. Las viviendas de la calle Francisco de Mora se iniciarán cuando estén vendidas el 70% siendo el tiempo de ejecución de las obras 18 meses desde su inicio.",
+            "hasVideo": false,
+            "status": "newdevelopment",
+            "newDevelopment": true,
+            "parkingSpace": {
+                "hasParkingSpace": true,
+                "isParkingSpaceIncludedInPrice": true
+            },
+            "newDevelopmentFinished": false,
+            "priceByArea": 1878.0,
+            "detailedType": {
+                "typology": "chalet",
+                "subTypology": "terracedHouse"
+            },
+            "suggestedTexts": {
+                "subtitle": "Zaburdón - Monte Escorial, San Lorenzo de El Escorial",
+                "title": "Chalet adosado en Juan Esteban y Francisco de Mora de los números 44 al 60 s/n"
+            },
+            "hasPlan": true,
+            "has3DTour": false,
+            "has360": false,
+            "hasStaging": false,
+            "topNewDevelopment": false,
+            "topPlus": false
+        },
+        {
+            "propertyCode": "103975144",
+            "thumbnail": "https://img4.idealista.com/blur/WEB_LISTING/0/id.pro.es.image.master/70/b2/9e/775500674.webp",
+            "externalReference": "V01",
+            "numPhotos": 13,
+            "price": 445000.0,
+            "priceInfo": {
+                "price": {
+                    "amount": 445000.0,
+                    "currencySuffix": "?"
+                }
+            },
+            "propertyType": "chalet",
+            "operation": "sale",
+            "size": 237.0,
+            "rooms": 3,
+            "bathrooms": 3,
+            "address": "Juan Esteban y Francisco de Mora de los números 44 al 60 s/n",
+            "province": "Madrid",
+            "municipality": "San Lorenzo de El Escorial",
+            "district": "Zaburdón - Monte Escorial",
+            "country": "es",
+            "latitude": 40.60276,
+            "longitude": -4.1332451,
+            "showAddress": true,
+            "url": "https://www.idealista.com/obra-nueva/103975144/",
+            "description": "18 Chalets en Pinar Real en San Lorenzo de El Escorial. Viviendas de 250?m² construidos en parcelas entre 220 y 260 m² de superficie. 3 amplios dormitorios con 2 baños y un aseo, buhardilla de 50?m² aprox. diáfana terminada como el resto de la casa.  La parcela que queda libre para hacer jardín tiene una superficie de unos 90?m². Calefacción-climatización por Aerotermia con suelo radiante y refrescante. Las viviendas de la calle Francisco de Mora se iniciarán cuando estén vendidas el 70% siendo el tiempo de ejecución de las obras 18 meses desde su inicio.",
+            "hasVideo": false,
+            "status": "newdevelopment",
+            "newDevelopment": true,
+            "parkingSpace": {
+                "hasParkingSpace": true,
+                "isParkingSpaceIncludedInPrice": true
+            },
+            "newDevelopmentFinished": false,
+            "priceByArea": 1878.0,
+            "detailedType": {
+                "typology": "chalet",
+                "subTypology": "terracedHouse"
+            },
+            "suggestedTexts": {
+                "subtitle": "Zaburdón - Monte Escorial, San Lorenzo de El Escorial",
+                "title": "Chalet adosado en Juan Esteban y Francisco de Mora de los números 44 al 60 s/n"
+            },
+            "hasPlan": true,
+            "has3DTour": false,
+            "has360": false,
+            "hasStaging": false,
+            "topNewDevelopment": false,
+            "topPlus": false
+        },
+        {
+            "propertyCode": "103912276",
+            "thumbnail": "https://img4.idealista.com/blur/WEB_LISTING/0/id.pro.es.image.master/70/b2/9e/775500674.webp",
+            "externalReference": "V13",
+            "numPhotos": 10,
+            "price": 445000.0,
+            "priceInfo": {
+                "price": {
+                    "amount": 445000.0,
+                    "currencySuffix": "?"
+                }
+            },
+            "propertyType": "chalet",
+            "operation": "sale",
+            "size": 285.0,
+            "rooms": 3,
+            "bathrooms": 3,
+            "address": "Juan Esteban y Francisco de Mora de los números 44 al 60 s/n",
+            "province": "Madrid",
+            "municipality": "San Lorenzo de El Escorial",
+            "district": "Zaburdón - Monte Escorial",
+            "country": "es",
+            "latitude": 40.60276,
+            "longitude": -4.1332451,
+            "showAddress": true,
+            "url": "https://www.idealista.com/obra-nueva/103912276/",
+            "description": "18 Chalets en Pinar Real en San Lorenzo del Escorial. Vivienda en calle Juan Esteban de 280m2 construidos en parcelas entre 220 y 260 m2 de superficie. Chalet en 4 alturas con 3 amplios dormitorios con 2 baños en planta primera, salón cocina y un aseo en planta baja, buhardilla de 50m2 aprox. diáfana terminada como el resto de la casa. Tiene un garaje sótano de 80m2 La parcela que queda libre para hacer jardín tiene una superficie de unos 90m2. Calefacción-climatización por aerotermia con suelo radiante y refrescante. Esta vivienda ya está en construcción siendo el tiempo de ejecución de las obras 15 meses.",
+            "hasVideo": false,
+            "status": "newdevelopment",
+            "newDevelopment": true,
+            "parkingSpace": {
+                "hasParkingSpace": true,
+                "isParkingSpaceIncludedInPrice": true
+            },
+            "newDevelopmentFinished": false,
+            "priceByArea": 1561.0,
+            "detailedType": {
+                "typology": "chalet",
+                "subTypology": "terracedHouse"
+            },
+            "suggestedTexts": {
+                "subtitle": "Zaburdón - Monte Escorial, San Lorenzo de El Escorial",
+                "title": "Chalet adosado en Juan Esteban y Francisco de Mora de los números 44 al 60 s/n"
+            },
+            "hasPlan": false,
+            "has3DTour": false,
+            "has360": false,
+            "hasStaging": false,
+            "topNewDevelopment": false,
+            "topPlus": false
+        },
+        {
+            "propertyCode": "97310987",
+            "thumbnail": "https://img4.idealista.com/blur/WEB_LISTING/0/id.pro.es.image.master/97/18/d5/975501369.webp",
+            "numPhotos": 10,
+            "floor": "1",
+            "price": 157000.0,
+            "priceInfo": {
+                "price": {
+                    "amount": 157000.0,
+                    "currencySuffix": "?"
+                }
+            },
+            "propertyType": "flat",
+            "operation": "sale",
+            "size": 105.0,
+            "exterior": true,
+            "rooms": 3,
+            "bathrooms": 1,
+            "address": "calle Isabela Saverana",
+            "province": "Madrid",
+            "municipality": "Madrid",
+            "district": "Carabanchel",
+            "country": "es",
+            "neighborhood": "Buena Vista",
+            "latitude": 40.3700918,
+            "longitude": -3.7599211,
+            "showAddress": false,
+            "url": "https://www.idealista.com/inmueble/97310987/",
+            "description": "VIVIENDA ARRENDADA. Te ofrecemos la posibilidad de rentar tu dinero desde el minuto uno.  Esta magnífica vivienda situada en la primera planta de un buen edificio, está alquilada a una familia española desde 2013.  Más de 10 años pagando religiosamente por banco (demostrable). Inquilinos de trato excelente y con interés en mantenerse viviendo en el barrio, por la proximidad del colegio. Actualmente están pagando 900 ?. Es un amplio piso, de tres dormitorios. En Escrituras figuran 75 metros, (Si bien construidos figuran de 105 m², según catastro), Es exterior y muy luminoso. A escasos metros del Colegio Amorós, La Avenida de la Peseta y del Parque de las Cruces. Entre las bocas de metro de Avenida de la Peseta y Carabanchel Alto. Distribuido en tres grandes dormitorios, salón independiente, cocina amplia con tendedero, baño amplio, una gran terraza exterior que es longitudinal a toda la vivienda. Si fuera necesario, ya que han finalizado las prórrogas forzosas de arrendamiento, el inquilino abandonaría la casa con el preaviso legal de 4 meses. Aunque al piso hay que hacerle arreglos, merece la pena porque es una primera planta súper amplia y muy soleada, en una finca con un vecindario muy bueno. A diez minutos está la Avenida de la Peseta con todo lo bueno que esto supone (comercio, hostelería, grandes avenidas,...) Posibilidad de Servicios Financieros. Consulte condiciones y honorarios de tramitación financiera e inmobiliaria. Situado en el madrileño barrio de Carabanchel Alto. Bien comunicado por el bus 35 a la puerta y diferentes bocas de metro. Se accede con facilidad a la M-40. El colegio más cercano es el Amorós, no muy lejos se puede ir a centros comerciales como Islazul y las Aguilas. Todo el barrio está ajardinado con zonas de recreo ideales para vivir con niños o mascotas. Aunque al piso hay que hacerle arreglos, merece la pena porque es una primera planta súper amplia y muy soleada, en una finca con un vecindario muy bueno. A diez minutos está la Avenida de la Peseta con todo lo bueno que esto supone (comercio, hostelería, grandes avenidas,...) AVISO LEGAL: Informamos a nuestros clientes que la información expuesta no constituye una oferta vinculante ni contractual. Este es un anuncio publicitario, provisional, y cuyas fotografías y datos en él incluidos podrían estar sujetos a posibles modificaciones y rectificaciones por cuestiones comerciales, jurídicas, técnicas y confidencialidad de las peticiones de la propiedad. La información aquí contenida intenta reflejar una orientación sobre el estado de los inmuebles a la fecha de su publicación, si bien no incluyen muebles ni electrodomésticos ni otros aperos. El contenido que aparece tiene carácter meramente informativo y aproximado, no teniendo, en modo alguno, carácter contractual. Tanto los datos, como las imágenes y planos pueden estar sujetos a cambios y/o errores, por lo que le invitamos a que, si precisa una información más exacta y detallada, contacte con nosotros en nuestra sede social. Los contenidos tienen únicamente finalidad informativa y bajo ninguna circunstancia deben usarse ni considerarse como oferta de venta ni herramienta para la financiación, solicitud de una oferta de compra, etc. La información y documentación a ofrecer de acuerdo con lo dispuesto en el Real Decreto 515/1989 (de 21 de abril, relativa a la protección de los consumidores en cuanto a la información a suministrar en la compraventa y arrendamiento de viviendas), será puesta a disposición de los potenciales compradores en nuestra sede de la calle pelícano nº 21 de Madrid. Si desea presentar una negociación a la propiedad, deberá consultar los honorarios que cobra el agente en virtud del tipo de negociación que se pretenda contratar.",
+            "hasVideo": true,
+            "status": "good",
+            "newDevelopment": false,
+            "hasLift": false,
+            "priceByArea": 1495.0,
+            "detailedType": {
+                "typology": "flat"
+            },
+            "suggestedTexts": {
+                "subtitle": "Buena Vista, Madrid",
+                "title": "Piso en calle Isabela Saverana"
+            },
+            "hasPlan": false,
+            "has3DTour": false,
+            "has360": false,
+            "hasStaging": false,
+            "topNewDevelopment": false,
+            "topPlus": false
+        },
+        {
+            "propertyCode": "95194246",
+            "thumbnail": "https://img4.idealista.com/blur/WEB_LISTING/0/id.pro.es.image.master/35/ed/9d/991020086.webp",
+            "numPhotos": 64,
+            "price": 369000.0,
+            "priceInfo": {
+                "price": {
+                    "amount": 369000.0,
+                    "currencySuffix": "?"
+                }
+            },
+            "propertyType": "chalet",
+            "operation": "sale",
+            "size": 257.0,
+            "rooms": 4,
+            "bathrooms": 3,
+            "address": "Eurovillas",
+            "province": "Madrid",
+            "municipality": "Eurovillas",
+            "country": "es",
+            "latitude": 40.3609528,
+            "longitude": -3.2672353,
+            "showAddress": false,
+            "url": "https://www.idealista.com/inmueble/95194246/",
+            "description": "Bonito chalet de ladrillo visto y grandes ventanales Climalit. La distribución en una planta con buhardilla hace que esta casa además de amplía sea muy cómoda. Desde el distribuidor accedemos al salón y cocina y en la misma planta tres dormitorios más y tres baños completos. Salón con chimenea y salida al porche acristalado. Todo comunicado; una estancia muy agradable donde podrás disfrutar tanto en invierno como en verano. Tiene estufa de pellet y bomba de frío y calor, además de excelentes vistas a la piscina. Cocina completa, muy luminosa, grande, con electrodomésticos de alta de gama y acceso al porche acristalado. Desde una una original escalera accedemos a la buhardilla donde encontramos una amplia habitación con baño completo con jacuzzi, muy luminosa, ideal como despacho o estudio. Todos los dormitorios cuentan con armarios empotrados. Pintura lisa en toda la casa. Una casa lista para entrar a vivir, con instalación de placas solares propias lo que supone un gran ahorro en el consumo de electricidad. Cuenta con cuatro bombas de frío y calor y caldera y depósito de gasoil. Parcela de esquina muy bien situada, completamente vallada con muro de piedra.  Tiene puerta para vehículos y techado para coches. Una casa pensada y muy cuidada donde sólo tendrás que disfrutar. Sistema de vigilancia perimetral. Riego automático pérgola, piscina orientada al sur con circuito de agua caliente para calentar el agua de la piscina. Disfruta de todas estas comodidades a cinco minutos de centro comercial, parada de bus, colegios. Muy buena ubicación.",
+            "hasVideo": false,
+            "status": "good",
+            "newDevelopment": false,
+            "parkingSpace": {
+                "hasParkingSpace": true,
+                "isParkingSpaceIncludedInPrice": true
+            },
+            "priceByArea": 1436.0,
+            "detailedType": {
+                "typology": "chalet",
+                "subTypology": "independantHouse"
+            },
+            "suggestedTexts": {
+                "subtitle": "Eurovillas",
+                "title": "Casa independiente"
+            },
+            "hasPlan": false,
+            "has3DTour": false,
+            "has360": false,
+            "hasStaging": false,
+            "topNewDevelopment": false,
+            "topPlus": false
+        },
+        {
+            "propertyCode": "97382265",
+            "thumbnail": "https://img4.idealista.com/blur/WEB_LISTING/0/id.pro.es.image.master/59/93/3b/977797407.webp",
+            "externalReference": "Fon  Talamanca del Jarama",
+            "numPhotos": 17,
+            "price": 177500.0,
+            "priceInfo": {
+                "price": {
+                    "amount": 177500.0,
+                    "currencySuffix": "?"
+                }
+            },
+            "propertyType": "countryHouse",
+            "operation": "sale",
+            "size": 100.0,
+            "rooms": 3,
+            "bathrooms": 1,
+            "address": "carretera C 100 a Madrid",
+            "province": "Madrid",
+            "municipality": "Talamanca de Jarama",
+            "country": "es",
+            "latitude": 40.7265929,
+            "longitude": -3.5120006,
+            "showAddress": false,
+            "url": "https://www.idealista.com/inmueble/97382265/",
+            "description": "VILLAMAYOR GESTIÓN les ofrece una auténtica oportunidad de comprar una finca rústica con muchas posibilidades en el municipio de Talamanca del Jarama.  Situada a 50 kms de Madrid. Tiene más de 13.000 m2.  Ideal para explotar como Vivero, Centro hípico, o actividades relacionadas con la naturaleza.  En la finca hay una casa prefabricada.  Ideal para emprendedores.  Negociamos directamente con la propiedad para conseguir el mejor precio. VILLAMAYOR GESTION es una empresa de intermediación inmobiliaria con 20 años de experiencia en el mercado. Formada por profesionales con formación jurídica y financiera que le asesoran en todos los detalles y fases que conlleva cualquier operación inmobiliaria.",
+            "hasVideo": false,
+            "status": "renew",
+            "newDevelopment": false,
+            "priceByArea": 1775.0,
+            "detailedType": {
+                "typology": "countryHouse",
+                "subTypology": "countryHouse"
+            },
+            "suggestedTexts": {
+                "subtitle": "Talamanca de Jarama",
+                "title": "Finca rústica en carretera c 100 a Madrid"
+            },
+            "hasPlan": false,
+            "has3DTour": false,
+            "has360": false,
+            "hasStaging": false,
+            "topNewDevelopment": false,
+            "topPlus": false
+        },
+        {
+            "propertyCode": "97312137",
+            "thumbnail": "https://img4.idealista.com/blur/WEB_LISTING/0/id.pro.es.image.master/3a/75/26/1258094690.webp",
+            "externalReference": "EX03411",
+            "numPhotos": 37,
+            "price": 367000.0,
+            "priceInfo": {
+                "price": {
+                    "amount": 367000.0,
+                    "currencySuffix": "?"
+                }
+            },
+            "propertyType": "chalet",
+            "operation": "sale",
+            "size": 300.0,
+            "rooms": 4,
+            "bathrooms": 3,
+            "address": "Villalbilla",
+            "province": "Madrid",
+            "municipality": "Villalbilla",
+            "country": "es",
+            "latitude": 40.4378009,
+            "longitude": -3.2892286,
+            "showAddress": false,
+            "url": "https://www.idealista.com/inmueble/97312137/",
+            "description": "Magnifico chalet independiente con parcela de 800 metros cuadrados.  la parcela, dispone de una zona chill out donde podemos encontrar una magnifica piscina en la cual tenemos sol prácticamente todo el día y disfrutar de bonitas vistas, también dispone de un estupendo cenador que nos da acceso directo a la vivienda.     la vivienda se distribuye en tres plantas:    la planta baja donde encontramos el garaje de 100 metros cuadrados (para tres plazas), un aseo, el depósito de gasoil para la calefacción y el termo para el agua caliente.     la planta principal, muy luminosa y de 100 metros cuadrados se distribuye en 2 habitaciones dobles, salón, baño completo y una amplia y preciosa cocina con acceso a la parcela.     la segunda planta abuhardillada y de unos 85 metros cuadrados, se distribuye en 2 habitaciones dobles muy amplias y luminosas, un salón que separa esas dos habitaciones y un baño completo muy amplio y luminoso.       este anuncio no es vinculante y puede contener errores. Se muestra a titulo informativo y no es contractual. En los precios de venta no están incluidos impuestos legales ni gastos de escrituración.",
+            "hasVideo": false,
+            "status": "good",
+            "newDevelopment": false,
+            "parkingSpace": {
+                "hasParkingSpace": true,
+                "isParkingSpaceIncludedInPrice": true
+            },
+            "priceByArea": 1223.0,
+            "detailedType": {
+                "typology": "chalet",
+                "subTypology": "independantHouse"
+            },
+            "suggestedTexts": {
+                "subtitle": "Villalbilla",
+                "title": "Casa independiente"
+            },
+            "hasPlan": true,
+            "has3DTour": false,
+            "has360": true,
+            "hasStaging": false,
+            "topNewDevelopment": false,
+            "topPlus": false
+        },
+        {
+            "propertyCode": "97450935",
+            "thumbnail": "https://img4.idealista.com/blur/WEB_LISTING/0/id.pro.es.image.master/38/eb/6d/979893868.webp",
+            "externalReference": "35",
+            "numPhotos": 24,
+            "price": 270000.0,
+            "priceInfo": {
+                "price": {
+                    "amount": 270000.0,
+                    "currencySuffix": "?"
+                }
+            },
+            "propertyType": "chalet",
+            "operation": "sale",
+            "size": 307.0,
+            "rooms": 10,
+            "bathrooms": 3,
+            "address": "Miraflores de la Sierra",
+            "province": "Madrid",
+            "municipality": "Miraflores de la Sierra",
+            "country": "es",
+            "latitude": 40.8151366,
+            "longitude": -3.763453,
+            "showAddress": false,
+            "url": "https://www.idealista.com/inmueble/97450935/",
+            "description": "IDEAL INVERSORES O AMANTES DE LA NATURALEZA DELANAORIVERA ofrece ésta oportunidad única, magnífica finca con multitud de posibilidades para poder realizar un edificio, varias viviendas, una casa rural, un chalet independiente, una reforma... a tan sólo 49km de Madrid. Situado en un enclave privilegiado, de destacado valor natural y ecológico, Miraflores de la Sierra forma parte del Parque Nacional de la Sierra de Guadarrama, así como el Parque Regional de la Cuenca Alta del Manzanares, área natural protegida.  Aquellos que quieran disfrutar de la larga y rica tradición cultural de la villa serrana encontrarán un amplio patrimonio cultural en ella, con sus fiestas locales, su estratégica situación entre los puertos de Canencia y Morcuera, inmejorable destino para senderistas, ciclistas o aficionados al turismo activo, rutas ornitológicaas, paseos a pie... La gastronomía de Miraflores de la Sierra siempre ha sido un atractivo para sus visitantes, que se encuentra en los alojamientos de hosteleros mirafloreños una prolífica oferta de platos elaborados con los productos de la tierra: miel, requesón, quesos, setas, carne de la Sierra de Guadarrama, asados, repostería... restaurantes y vinos. Celebran varios eventos gastronómicos anuales. Ubicado en uno de los pueblos mágicos de España, tiene una superficie de 307m², construida en el año 1964, distribuida en dos plantas, con 3 viviendas completamente independientes y equipadas, 10 dormitorios, 3 salón comedor, 3 cocina, y 3 baños, balcones con vistas, patio privado, varios garajes, trasteros y con acceso por distintas entradas. Somos una agencia inmobiliaria con un servicio 360º, en el que poder confiar y atender tu demanda desde el inicio ya sea por una compra, una venta o un alquiler, sin perder el tiempo. Estamos para hacértelo más fácil.  También disponemos de un equipo de profesionales para las reformas, tanto para inversores, como para acondicionar la entrada de un hogar o simplemente vender en menos tiempo y a mayor valor.  Contamos con un servicio de hipotecas con posibilidad de financiación del 100% para que sea más sencilla la compra y un servicio de alarmas con los mejores en seguridad, para que puedas estar seguro. Ofrecemos un servicio de mudanzas y guardamuebles con vehículos equipados para llevar su mercancía segura y protegida. Trabajamos para empresas o particulares, desmontaje y montaje de los muebles, así como, el embalaje de muebles. Disponemos de un servicio de fabricación de casas modulares, con el mismo, hacemos un estudio en todas nuestras parcelas para poder llevar acabo la construcción de cualquiera de los modelos disponibles. Contacte con nosotros y buscaremos la mejor opción para usted. Presupuesto sin compromiso. Si deseas ver anuncios similares visita nuestra web o redes sociales Instagram, Tiktok, Twitter, Youtube... @delanaorivera.",
+            "hasVideo": true,
+            "status": "renew",
+            "newDevelopment": false,
+            "parkingSpace": {
+                "hasParkingSpace": true,
+                "isParkingSpaceIncludedInPrice": true
+            },
+            "priceByArea": 879.0,
+            "detailedType": {
+                "typology": "chalet",
+                "subTypology": "independantHouse"
+            },
+            "suggestedTexts": {
+                "subtitle": "Miraflores de la Sierra",
+                "title": "Casa independiente"
+            },
+            "hasPlan": false,
+            "has3DTour": false,
+            "has360": false,
+            "hasStaging": false,
+            "topNewDevelopment": false,
+            "topPlus": false
+        },
+        {
+            "propertyCode": "97453365",
+            "thumbnail": "https://img4.idealista.com/blur/WEB_LISTING/0/id.pro.es.image.master/3c/b6/ab/979959907.webp",
+            "numPhotos": 21,
+            "floor": "bj",
+            "price": 252000.0,
+            "priceInfo": {
+                "price": {
+                    "amount": 252000.0,
+                    "currencySuffix": "?"
+                }
+            },
+            "propertyType": "flat",
+            "operation": "sale",
+            "size": 50.0,
+            "exterior": true,
+            "rooms": 1,
+            "bathrooms": 1,
+            "address": "calle de Santa Lucia",
+            "province": "Madrid",
+            "municipality": "Madrid",
+            "district": "Centro",
+            "country": "es",
+            "neighborhood": "Malasaña-Universidad",
+            "latitude": 40.4270735,
+            "longitude": -3.7062407,
+            "showAddress": false,
+            "url": "https://www.idealista.com/inmueble/97453365/",
+            "description": "Bajo exterior en finca totalmente rehabilitada con reforma integral en el año 2008, en pleno barrio de Malasaña, calle muy tranquila junto a la calle San Bernardo. Consta de salón con ventana a la calle, cocina con ventana a patio, amplio, dormitorio ventana a patio con vestidor, baño, altillo de gran capacidad para guardar maletas etc. Zona totalmente consolidada y dotada, con todo tipo de servicios (ocio, restauración, transportes, colegios, centros de salud, etc., . ) Malasaña es el barrio contiguo a Chueca, cruzando la calle Fuencarral. El centro de Malasaña es la Plaza del Dos de Mayo. Malasaña recibe su nombre a la bordadora Manuela Malasaña. Ella fue una de las protagonistas de uno de los sucesos históricos que han ocurrido en este barrio: En 1808, Madrid estaba ocupado por las tropas napoleónicas y el 2 de Mayo, el pueblo de Madrid se levantó contra el invasor. Manuela Malasaña fue detenida y fusilada por llevar unas tijeras, que según los franceses era un arma. La otra revolución que aconteció en este barrio es que Malasaña fue el centro de la ?Movida Madrileña?. Hoy el barrio poco a poco va peatonalizándo, convirtiéndose en un lugar más agradable, lleno de encantadoras placitas llenas de luz y de vida, donde uno puede tomar un café o una caña y contemplar el personal que va desde el joven roquero o gótico al intelectual alternativo, además de la gente castiza del barrio de toda la vida?\" Somos una empresa joven y dinámica que entiende las necesidades de nuestros clientes y ofrece soluciones para cada caso. Llevamos años en el sector inmobiliario y tenemos la suerte de haber formado un gran equipo de personas y profesionales. Ponemos mucho empeño y utilizamos la transparencia para que las cosas salgan bien, lo primero para nosotros son las personas, por eso queremos conocerte. Porque en cada compra, venta o alquiler, PENSAMOS EN TI.",
+            "hasVideo": true,
+            "status": "renew",
+            "newDevelopment": false,
+            "hasLift": false,
+            "priceByArea": 5040.0,
+            "detailedType": {
+                "typology": "flat"
+            },
+            "suggestedTexts": {
+                "subtitle": "Malasaña-Universidad, Madrid",
+                "title": "Piso en calle de Santa Lucia"
+            },
+            "hasPlan": false,
+            "has3DTour": false,
+            "has360": false,
+            "hasStaging": false,
+            "highlight": {
+                "groupDescription": "Destacado"
+            },
+            "topNewDevelopment": false,
+            "topPlus": false
+        },
+        {
+            "propertyCode": "97476583",
+            "thumbnail": "https://img4.idealista.com/blur/WEB_LISTING/0/id.pro.es.image.master/bf/e5/d3/1207491249.webp",
+            "externalReference": "1102",
+            "numPhotos": 23,
+            "price": 249900.0,
+            "priceInfo": {
+                "price": {
+                    "amount": 249900.0,
+                    "currencySuffix": "?"
+                }
+            },
+            "propertyType": "chalet",
+            "operation": "sale",
+            "size": 212.0,
+            "rooms": 4,
+            "bathrooms": 3,
+            "address": "Aldea del Fresno",
+            "province": "Madrid",
+            "municipality": "Aldea del Fresno",
+            "country": "es",
+            "latitude": 40.3141198,
+            "longitude": -4.1951486,
+            "showAddress": false,
+            "url": "https://www.idealista.com/inmueble/97476583/",
+            "description": "Chalet Independiente cuenta con parcela de 545 m2 sobre esta, se encuentra un vivienda unifamiliar de 212m2 La vivienda consta de planta primera donde encontramos un amplio salón muy luminoso, cocina independiente con despensa y 3 habitación con armarios empotrados( el principal cuenta con vestidor), dos baños completos y porche con excelentes vistas a la montaña. En la planta baja encontramos salón amplio, con salida a parcela, bodega con chimenea, habitación de matrimonio con vestidor y cuarto de baño completo. También cuenta con Garaje cubierto, con acceso a directamente a la casa y a su vez con amplio espacio para meter mas cosas y trstero. También dispone de una parcela, completamente llana y conservada en un inmejorable enclave natural, donde podrá disfrutar de la tranquilidad y la calidad de vida que usted desea. Aldea del Fresno, es un municipio que está situado al suroeste de la Comunidad de Madrid, cuenta con muy buenas comunicaciones por carretera y autobús de forma muy regular. También cuenta, colegio, supermercado, médicos, farmacia, gasolinera, centro de salud.. . No cobramos comisión al comprador! ahorre dinero y no pague comisiones abusivas por comprar su vivienda! disponemos de departamento financiero, tramitando las mejores hipotecas del mercado y con las mejores condiciones, realizando un estudio completamente gratuito y sin compromiso, tramitando el 100%. En PADILLA SERVICIOS INMOBILIARIOS, como es norma de nuestra oficina, nos ponemos a vuestra entera disposición, para la COMPRAVENTA O ALQUILER de su vivienda.",
+            "hasVideo": false,
+            "status": "good",
+            "newDevelopment": false,
+            "parkingSpace": {
+                "hasParkingSpace": true,
+                "isParkingSpaceIncludedInPrice": true
+            },
+            "priceByArea": 1179.0,
+            "detailedType": {
+                "typology": "chalet"
+            },
+            "suggestedTexts": {
+                "subtitle": "Aldea del Fresno",
+                "title": "Chalet"
+            },
+            "hasPlan": false,
+            "has3DTour": false,
+            "has360": false,
+            "hasStaging": false,
+            "highlight": {
+                "groupDescription": "Destacado"
+            },
+            "topNewDevelopment": false,
+            "topPlus": false
+        },
+        {
+            "propertyCode": "97478735",
+            "thumbnail": "https://img4.idealista.com/blur/WEB_LISTING/0/id.pro.es.image.master/31/c4/a0/980659111.webp",
+            "externalReference": "C/GB083",
+            "numPhotos": 16,
+            "floor": "bj",
+            "price": 469000.0,
+            "priceInfo": {
+                "price": {
+                    "amount": 469000.0,
+                    "currencySuffix": "?"
+                }
+            },
+            "propertyType": "flat",
+            "operation": "sale",
+            "size": 102.0,
+            "exterior": true,
+            "rooms": 4,
+            "bathrooms": 2,
+            "address": "guzman el bueno, 83",
+            "province": "Madrid",
+            "municipality": "Madrid",
+            "district": "Chamberí",
+            "country": "es",
+            "neighborhood": "Gaztambide",
+            "latitude": 40.4373985,
+            "longitude": -3.7133269,
+            "showAddress": true,
+            "url": "https://www.idealista.com/inmueble/97478735/",
+            "description": "ConfoHogar ofrece amplio piso en buen estado. Compuesto por salón-comedor, 4 dormitorios, 2 baños y cocina. Suelos de parquet, cerramientos en aluminio Climalit, aislante puente térmico, armarios empotrados, calefacción por gas natural CENTRALIZADA, muy luminoso.  Finca con ascensor y conserje. Situado a tan solo 3 minutos de la estación de metro Islas Filipinas y el intercambiador de Moncloa. Rodeado de comercios, supermercados, bancos, restaurantes, bares y diferentes opciones de ocio.",
+            "hasVideo": false,
+            "status": "good",
+            "newDevelopment": false,
+            "hasLift": true,
+            "priceByArea": 4598.0,
+            "detailedType": {
+                "typology": "flat"
+            },
+            "suggestedTexts": {
+                "subtitle": "Gaztambide, Madrid",
+                "title": "Piso en guzman el bueno, 83"
+            },
+            "hasPlan": false,
+            "has3DTour": false,
+            "has360": false,
+            "hasStaging": false,
+            "topNewDevelopment": false,
+            "topPlus": false
+        },
+        {
+            "propertyCode": "96194888",
+            "thumbnail": "https://img4.idealista.com/blur/WEB_LISTING/0/id.pro.es.image.master/56/a3/ec/1097252238.webp",
+            "externalReference": "123456",
+            "numPhotos": 82,
+            "price": 600000.0,
+            "priceInfo": {
+                "price": {
+                    "amount": 600000.0,
+                    "currencySuffix": "?"
+                }
+            },
+            "propertyType": "chalet",
+            "operation": "sale",
+            "size": 508.0,
+            "rooms": 11,
+            "bathrooms": 5,
+            "address": "calle pinar, 18",
+            "province": "Madrid",
+            "municipality": "Meco",
+            "country": "es",
+            "latitude": 40.5473881,
+            "longitude": -3.3281669,
+            "showAddress": true,
+            "url": "https://www.idealista.com/inmueble/96194888/",
+            "description": "RosalHome, presenta este chalet independiente, en una ubicación privilegiada de Meco, llamada zona de los pintores. Muy cerca del centro comercial Belvalle y parque infantil Senda de la Plata.  A pocos pasos nos encontramos la parada de autobús con las líneas 220 y 250 que llevan a Madrid y Alcalá de Henares.  Centrándonos en este exclusivo chalet independiente de gran tamaño con sus 508 m2 construidos, con no pocas habitaciones 11 en total.  Cuenta con cuatro dormitorios en suite, todo ello repartido en 3 plantas y buhardilla. Cosas a destacar de la casa son las terrazas.  La principal de ellas da al salón que da acceso a un porche de madera y este a una piscina con hidromasaje. En el mismo salón encontramos una chimenea de mármol tipo casete para calentarse en los fríos inviernos.  Los dormitorios todos tienen armarios empotrados, ventanas con cristales climalit con posición oscilo-batiente, persianas de seguridad y mosquitera.  También disponen de aire acondicionado alguna de ellas.  La vivienda cuenta con cuarto de caldera de gasoil con deposito 1500 litros y cuarto de lavandería. También tiene placas solares para calentar el agua corriente de la casa. La parcela tiene una superficie de 501 con posibilidad de aparcamiento para 9 vehículos.  RosalHome no cobra comisión al Comprador. No renuncie a visitarla donde verá los pequeños detalles que no le hemos contado. Solicítenos el Video 3D.",
+            "hasVideo": true,
+            "status": "good",
+            "newDevelopment": false,
+            "parkingSpace": {
+                "hasParkingSpace": true,
+                "isParkingSpaceIncludedInPrice": true
+            },
+            "priceByArea": 1181.0,
+            "detailedType": {
+                "typology": "chalet",
+                "subTypology": "independantHouse"
+            },
+            "suggestedTexts": {
+                "subtitle": "Meco",
+                "title": "Casa independiente en calle pinar, 18"
+            },
+            "hasPlan": true,
+            "has3DTour": false,
+            "has360": false,
+            "hasStaging": false,
+            "highlight": {
+                "groupDescription": "Destacado"
+            },
+            "topNewDevelopment": false,
+            "topPlus": false
+        },
+        {
+            "propertyCode": "97117837",
+            "thumbnail": "https://img4.idealista.com/blur/WEB_LISTING/0/id.pro.es.image.master/91/e3/06/966837861.webp",
+            "externalReference": "0034218294",
+            "numPhotos": 1,
+            "price": 204700.0,
+            "priceInfo": {
+                "price": {
+                    "amount": 204700.0,
+                    "currencySuffix": "?"
+                }
+            },
+            "propertyType": "chalet",
+            "operation": "sale",
+            "size": 168.0,
+            "rooms": 4,
+            "bathrooms": 3,
+            "address": "calle Venecia s/n",
+            "province": "Madrid",
+            "municipality": "Aranjuez",
+            "district": "La Montaña-El Cortijo",
+            "country": "es",
+            "latitude": 40.0620609,
+            "longitude": -3.5969402,
+            "showAddress": true,
+            "url": "https://www.idealista.com/inmueble/97117837/",
+            "description": "Casa adosada con 4 habitaciones en la provincia de madrid, en el municipio de aranjuez, en la calle venecia. Con incidencias. Inmueble alquilado-no visitable.",
+            "hasVideo": false,
+            "status": "good",
+            "newDevelopment": false,
+            "priceByArea": 1218.0,
+            "detailedType": {
+                "typology": "chalet",
+                "subTypology": "terracedHouse"
+            },
+            "suggestedTexts": {
+                "subtitle": "La Montaña-El Cortijo, Aranjuez",
+                "title": "Chalet adosado en calle Venecia s/n"
+            },
+            "hasPlan": false,
+            "has3DTour": false,
+            "has360": false,
+            "hasStaging": false,
+            "topNewDevelopment": false,
+            "topPlus": false
+        },
+        {
+            "propertyCode": "97509564",
+            "thumbnail": "https://img4.idealista.com/blur/WEB_LISTING/0/id.pro.es.image.master/44/ca/d0/1256466165.webp",
+            "externalReference": "AV1102",
+            "numPhotos": 52,
+            "price": 550000.0,
+            "priceInfo": {
+                "price": {
+                    "amount": 550000.0,
+                    "currencySuffix": "?"
+                }
+            },
+            "propertyType": "chalet",
+            "operation": "sale",
+            "size": 250.0,
+            "rooms": 4,
+            "bathrooms": 3,
+            "address": "Becerril de la Sierra",
+            "province": "Madrid",
+            "municipality": "Becerril de la Sierra",
+            "country": "es",
+            "latitude": 40.70699,
+            "longitude": -4.0053497,
+            "showAddress": false,
+            "url": "https://www.idealista.com/inmueble/97509564/",
+            "description": "NAVACERRADA CONSULTORES INMOBILIARIOS vende última vivienda de la promoción, OBRA NUEVA TERMINADA con SISTEMA DE AEROTERMIA (calefacción en invierno y enfriamiento en verano por la solera, con termostatos diferenciados para cada una de las plantas habitadas). Chalet independiente con jardín y piscina privados.  Ubicación estratégica, en zona residencial entre Navacerrada y Becerril de la Sierra, a tan solo 10 minutos paseando al embalse de Navacerrada.  Vivienda de dos plantas con vistas panorámicas a la sierra madrileña, ubicada en parcela de 724m² y construido con muy buenas calidades, al detalle y planificado para una cómoda vida gracias a sus amplias estancias, la entrada de luz natural por los ventanales y varias terrazas privadas en los dormitorios. La planta principal: dispone de recibidor integrado en el distribuidor, con un armario empotrado de cortesía, salón comedor con chimenea y salida a una terraza solada (ideal para los meses de primavera y verano) y desde esta terraza se accede al jardín trasero que está aterrazado en dos alturas llanas para su mejor aprovechamiento. En esta misma planta se encuentra la cocina amueblada, con espacio para office, y salida al jardín (y a la zona destinada a aparcamiento, muy cómodo para descargar el coche siempre que sea necesario), dormitorio doble con armario empotrado y baño completo exterior con ducha. En la planta superior: una elegante escalera de madera conduce a la zona de descanso, donde un luminoso distribuidor con armario para ropa blanca da paso a tres dormitorios dobles. El primero de ellos con armario empotrado y ventanal al suroeste con vistas al Cerro del Castillo, el segundo dormitorio también dispone de armario empotrado y terraza privada con la misma orientación. Ambos dormitorios comparten un amplio baño exterior con ducha. El tercer dormitorio de esta planta, es una suite con doble vestidor de paso al baño independiente exterior con ducha, además dispone de gran terraza privada con bonitas vistas a la montaña (Maliciosa, Pedriza, etc.). El jardín: se distribuye en varias zonas diferenciadas, el acceso está solado para acceder cómodamente con el coche (parking techado y espacio para más vehículos), alrededor de la casa hay espacio donde poder instalar un cómodo comedor de verano junto a la piscina, y además dispone de un espacio de unos 200m² de pradera (jardín, zona de juegos, huerto, etc).  Destacar varias de las calidades de esta construcción: - Instalación de sistema de AEROTERMIA (energía renovable de alta eficiencia energética y bajo coste de explotación). - Suelo entarimado en primera planta classic AC5. - Cocina: blanca brillo, tiradores Gola blanco mate, encimera de cuarzo Silestone color verde agua con frente de 5cm.  - Baños: Platos de ducha Mineral Nature. Y columnas de ducha termostáticas Deck-t round (ROCA SANITARIO S.A. ®). - Anchura de pasillos y puertas adaptadas. - Cerramientos de máxima calidad para un óptimo aislamiento de la vivienda. - Portero automático en las dos plantas. - Tomas de TV y teléfono/internet en todos los dormitorios. - Vallado perimetral y dos fachadas en piedra y forja. - Garaje preparado para vehículo eléctrico. - Cancela motorizada abatible, con puerta peatonal. Al tratarse de obra nueva, al precio final de venta hay que añadirle el 10% de IVA.  Descubre otro ritmo de vida... Para más información contacte con NAVACERRADA CONSULTORES INMOBILIARIOS. Ref.: AV1102. [IW].",
+            "hasVideo": false,
+            "status": "good",
+            "newDevelopment": false,
+            "parkingSpace": {
+                "hasParkingSpace": true,
+                "isParkingSpaceIncludedInPrice": true
+            },
+            "priceByArea": 2200.0,
+            "detailedType": {
+                "typology": "chalet",
+                "subTypology": "independantHouse"
+            },
+            "suggestedTexts": {
+                "subtitle": "Becerril de la Sierra",
+                "title": "Casa independiente"
+            },
+            "hasPlan": true,
+            "has3DTour": false,
+            "has360": false,
+            "hasStaging": false,
+            "topNewDevelopment": false,
+            "topPlus": false
+        },
+        {
+            "propertyCode": "97526388",
+            "thumbnail": "https://img4.idealista.com/blur/WEB_LISTING/0/id.pro.es.image.master/51/5a/1c/982202059.webp",
+            "externalReference": "06254",
+            "numPhotos": 27,
+            "floor": "1",
+            "price": 125000.0,
+            "priceInfo": {
+                "price": {
+                    "amount": 125000.0,
+                    "currencySuffix": "?"
+                }
+            },
+            "propertyType": "duplex",
+            "operation": "sale",
+            "size": 103.0,
+            "exterior": true,
+            "rooms": 2,
+            "bathrooms": 2,
+            "address": "calle Miguel de Cervantes",
+            "province": "Madrid",
+            "municipality": "Robledo de Chavela",
+            "country": "es",
+            "latitude": 40.5217276,
+            "longitude": -4.2486901,
+            "showAddress": false,
+            "url": "https://www.idealista.com/inmueble/97526388/",
+            "description": "Magnifico Dúplex con jardín ubicado en la Estación de Robledo de Chavela La planta baja tiene cocina con despensa y salida a uno de los jardines con barbacoa de obra y leñera La planta primera consta de salón comedor, cuarto de estar, baño y dos dormitorios Trastero en jardín posterior Calefacción eléctrica de agua Zona muy tranquila, rodeada de naturaleza a 5 minutos andando de la estación de Renfe y a 3 km de el pueblo.",
+            "hasVideo": false,
+            "status": "good",
+            "newDevelopment": false,
+            "hasLift": false,
+            "priceByArea": 1214.0,
+            "detailedType": {
+                "typology": "flat",
+                "subTypology": "duplex"
+            },
+            "suggestedTexts": {
+                "subtitle": "Robledo de Chavela",
+                "title": "Dúplex en calle Miguel de Cervantes"
+            },
+            "hasPlan": true,
+            "has3DTour": false,
+            "has360": true,
+            "hasStaging": false,
+            "highlight": {
+                "groupDescription": "Destacado"
+            },
+            "topNewDevelopment": false,
+            "topPlus": false
+        },
+        {
+            "propertyCode": "97553117",
+            "thumbnail": "https://img4.idealista.com/blur/WEB_LISTING/0/id.pro.es.image.master/e9/01/f7/982981000.webp",
+            "externalReference": "2227",
+            "numPhotos": 14,
+            "floor": "4",
+            "price": 125000.0,
+            "priceInfo": {
+                "price": {
+                    "amount": 125000.0,
+                    "currencySuffix": "?"
+                }
+            },
+            "propertyType": "flat",
+            "operation": "sale",
+            "size": 50.0,
+            "exterior": true,
+            "rooms": 2,
+            "bathrooms": 1,
+            "address": "calle del Chimbo",
+            "province": "Madrid",
+            "municipality": "Madrid",
+            "district": "Carabanchel",
+            "country": "es",
+            "neighborhood": "Abrantes",
+            "latitude": 40.3818077,
+            "longitude": -3.7272026,
+            "showAddress": false,
+            "url": "https://www.idealista.com/inmueble/97553117/",
+            "description": "-ZONA ABRANTES- IDEAL PARA INVERSORES. ALQUILADO HASTA 2027 Piso de 50m², exterior y semiamueblado. La vivienda consta de salón con acceso a terraza de 20m², dos dormitorios, un cuarto de baño y cocina independiente, amueblada y equipada con electrodomésticos. Ventanas de climalit y suelos de gres. Agua caliente mediante termo eléctrico. La finca no dispone de ascensor. El inmueble se encuentra al lado de la estación de Metro Abrantes. Rodeado de todo tipo de servicios, comercios y zonas de ocio. SIN COMISION DE AGENCIA.",
+            "hasVideo": false,
+            "status": "good",
+            "newDevelopment": false,
+            "hasLift": false,
+            "priceByArea": 2500.0,
+            "detailedType": {
+                "typology": "flat"
+            },
+            "suggestedTexts": {
+                "subtitle": "Abrantes, Madrid",
+                "title": "Piso en calle del Chimbo"
+            },
+            "hasPlan": false,
+            "has3DTour": false,
+            "has360": false,
+            "hasStaging": false,
+            "topNewDevelopment": false,
+            "topPlus": false
+        },
+        {
+            "propertyCode": "97568691",
+            "thumbnail": "https://img4.idealista.com/blur/WEB_LISTING/0/id.pro.es.image.master/3d/c9/f9/983460801.webp",
+            "numPhotos": 17,
+            "floor": "bj",
+            "price": 115000.0,
+            "priceInfo": {
+                "price": {
+                    "amount": 115000.0,
+                    "currencySuffix": "?"
+                }
+            },
+            "propertyType": "flat",
+            "operation": "sale",
+            "size": 50.0,
+            "exterior": true,
+            "rooms": 2,
+            "bathrooms": 1,
+            "address": "POZAS",
+            "province": "Madrid",
+            "municipality": "San Lorenzo de El Escorial",
+            "district": "Centro - Casco Histórico",
+            "country": "es",
+            "latitude": 40.5914405,
+            "longitude": -4.1492962,
+            "showAddress": false,
+            "url": "https://www.idealista.com/inmueble/97568691/",
+            "description": "Vivienda totalmente exterior en esquina de 50 m2, en buen estado de conservación, con cocina reformada. La vivienda esta distribuida en salón comedor independiente, dos dormitorios, cocina y baño. Planta baja ideal para inversión, por su maravillosa ubicación y su buena distribución. Situado en pleno centro de San Lorenzo, rodeado de todo tipo de servicios (comerciales, educativos, sanitarios, de ocio, etc). Muy cercano al Monasterio y a todo el conjunto histórico artístico. Cercano a la estación de autobuses. Llamar para ver Jaime 620 88 36 56.",
+            "hasVideo": false,
+            "status": "good",
+            "newDevelopment": false,
+            "hasLift": false,
+            "priceByArea": 2300.0,
+            "detailedType": {
+                "typology": "flat"
+            },
+            "suggestedTexts": {
+                "subtitle": "Centro - Casco Histórico, San Lorenzo de El Escorial",
+                "title": "Piso en Pozas"
+            },
+            "hasPlan": false,
+            "has3DTour": false,
+            "has360": false,
+            "hasStaging": false,
+            "highlight": {
+                "groupDescription": "Destacado"
+            },
+            "topNewDevelopment": false,
+            "topPlus": false
+        },
+        {
+            "propertyCode": "97570412",
+            "thumbnail": "https://img4.idealista.com/blur/WEB_LISTING/0/id.pro.es.image.master/ed/81/21/1184668398.webp",
+            "externalReference": "827",
+            "numPhotos": 43,
+            "price": 449000.0,
+            "priceInfo": {
+                "price": {
+                    "amount": 449000.0,
+                    "currencySuffix": "?"
+                }
+            },
+            "propertyType": "chalet",
+            "operation": "sale",
+            "size": 469.0,
+            "rooms": 10,
+            "bathrooms": 4,
+            "address": "Cercedilla",
+            "province": "Madrid",
+            "municipality": "Cercedilla",
+            "country": "es",
+            "latitude": 40.7397736,
+            "longitude": -4.0673819,
+            "showAddress": false,
+            "url": "https://www.idealista.com/inmueble/97570412/",
+            "description": "CAVALIER VENDE. Dos preciosos y antiguos chalets independientes de 406m2 y 63m2 sobre parcela ajardinada de 710m2. En total 469m2 construidos. La parcela dispone de tres accesos independientes desde dos calles.     Ambas viviendas se encuentra en su estado original, por lo que REQUIEREN REFORMA COMPLETA E INTEGRAL.     La preciosa edificación principal, construida en 1920 en ladrillo de caravista y de estilo Ferroviario, tiene 406m2 distribuidos en dos plantas mas un almacén.     La segunda vivienda es un luminoso chalet independiente de 63m2.     Ambas viviendas presentan un evidente deterioro, por lo que tanto la edificación principal como la vivienda independiente requieren reforma integral y completa de todas y cada una de sus instalaciones, además de replanteo de la distribución.",
+            "hasVideo": false,
+            "status": "renew",
+            "newDevelopment": false,
+            "parkingSpace": {
+                "hasParkingSpace": true,
+                "isParkingSpaceIncludedInPrice": true
+            },
+            "priceByArea": 957.0,
+            "detailedType": {
+                "typology": "chalet",
+                "subTypology": "independantHouse"
+            },
+            "suggestedTexts": {
+                "subtitle": "Cercedilla",
+                "title": "Casa independiente"
+            },
+            "hasPlan": false,
+            "has3DTour": false,
+            "has360": false,
+            "hasStaging": false,
+            "topNewDevelopment": false,
+            "topPlus": false
+        },
+        {
+            "propertyCode": "97597391",
+            "thumbnail": "https://img4.idealista.com/blur/WEB_LISTING/0/id.pro.es.image.master/a5/13/54/984337709.webp",
+            "numPhotos": 21,
+            "floor": "bj",
+            "price": 448000.0,
+            "priceInfo": {
+                "price": {
+                    "amount": 448000.0,
+                    "currencySuffix": "?"
+                }
+            },
+            "propertyType": "flat",
+            "operation": "sale",
+            "size": 100.0,
+            "exterior": true,
+            "rooms": 1,
+            "bathrooms": 2,
+            "address": "calle el Escorial, 26",
+            "province": "Madrid",
+            "municipality": "Madrid",
+            "district": "Centro",
+            "country": "es",
+            "neighborhood": "Malasaña-Universidad",
+            "latitude": 40.4243605,
+            "longitude": -3.70403,
+            "showAddress": true,
+            "url": "https://www.idealista.com/inmueble/97597391/",
+            "description": "Atención inversores! Nuevo en el mercado! Ubicado en el barrio de Malasaña, a tan solo 200 metros de la Gran Via se encuentra este piso en planta baja con mucho encanto. Ideal para alquilar de corta temporada por su excelente ubicación y también para vivir en forma permanente. Cerca de estaciones de metro, buses, restaurantes, tiendas y diversas atracciones que ofrece la fantástica ciudad de Madrid. Posee un patio interno de muy buenas dimensiones, baños reformados y cocina totalmente equipada. No dude en contactarnos para más información.",
+            "hasVideo": true,
+            "status": "good",
+            "newDevelopment": false,
+            "hasLift": false,
+            "priceByArea": 4480.0,
+            "detailedType": {
+                "typology": "flat"
+            },
+            "suggestedTexts": {
+                "subtitle": "Malasaña-Universidad, Madrid",
+                "title": "Piso en calle el Escorial, 26"
+            },
+            "hasPlan": true,
+            "has3DTour": false,
+            "has360": false,
+            "hasStaging": false,
+            "topNewDevelopment": false,
+            "topPlus": false
+        },
+        {
+            "propertyCode": "97601546",
+            "thumbnail": "https://img4.idealista.com/blur/WEB_LISTING/0/id.pro.es.image.master/a7/ea/e7/984450902.webp",
+            "numPhotos": 54,
+            "floor": "5",
+            "price": 149000.0,
+            "priceInfo": {
+                "price": {
+                    "amount": 149000.0,
+                    "currencySuffix": "?"
+                }
+            },
+            "propertyType": "duplex",
+            "operation": "sale",
+            "size": 78.0,
+            "exterior": true,
+            "rooms": 2,
+            "bathrooms": 1,
+            "address": "alejandro rubio",
+            "province": "Madrid",
+            "municipality": "Guadalix de la Sierra",
+            "country": "es",
+            "latitude": 40.7844542,
+            "longitude": -3.7009297,
+            "showAddress": false,
+            "url": "https://www.idealista.com/inmueble/97601546/",
+            "description": "B2V Inmobiliaria comercializa en EXCLUSIVA. Enrique Vallinas Lázaro  Pablo Batres  Finca registrada como aparta-hotel, difícilmente hipotecable. Habría que disponer del dinero para comprar. Fantástico dúplex en Guadalix de la Sierra, con gran terraza y vistas extraordinarias. Se trata de un piso dividido en dos plantas: -Planta principal: En esta encontramos una habitación, cuarto de baño completo con bañera de hidromasaje, cocina independiente y salón-comedor con acceso directo a una gran terraza muy agradable con unas vistas fabulosas a la sierra del Guadarrama, pantano del Guadalix y zona de la Cabrera. -Planta superior: Aquí tenemos una amplia habitación diafana con altillos y armarios empotrados. En este espacio originalmente habia un baño que se eliminó, aunque la instalacion esta hecha con lo que sería facil volver a poner uno si se quiere. Suelos de Gres, ventanas de climalit y PVC La urbanización cuenta con piscina y zonas comunes con una gran pradera y vistas a la montaña, un lugar donde disfrutar de la epoca estival y donde los mas pequeños podrán divertirse con los amigos y los adultos disfrutar de una barbacoa al aire libre. GUADALIX DE LA SIERRA Guadalix de la Sierra es un municipio español de la provincia y Comunidad de Madrid a 49 kilómetros de Madrid capital en la cuenca del río Jarama. Guadalix posee abundantes pastizales y ejemplares arbóreos, el agua también está muy presente gracias a los ríos Guadalix y Miraflores, a numerosos arroyos y al embalse de Pedrezuela. En este municipio se rodó en 1953 uno de los clásicos del cine español: ¡Bienvenido, Mister Marshall\" dirigida por Luis García Berlanga y en la que intervinieron en calidad de extras muchos de los vecinos del municipio. Guadalix de la Sierra cuenta con dos líneas de autobuses: Línea 197C: Torrelaguna - Redueña - Venturada - Guadalix de la Sierra - Navalafuente - Cabanillas de la Sierra Línea 726: Madrid (Plaza de Castilla) - Colmenar Viejo - Soto del Real - Guadalix de la Sierra - Navalafuente  Para más informacióm y visitas póngase en contacto: Enrique Vallinas Lázaro  Pablo Batres  Porque nos tomamos muy en serio nuestro cometido, sólo trabajamos en EXCLUSIVA.",
+            "hasVideo": true,
+            "status": "good",
+            "newDevelopment": false,
+            "hasLift": false,
+            "priceByArea": 1910.0,
+            "detailedType": {
+                "typology": "flat",
+                "subTypology": "duplex"
+            },
+            "suggestedTexts": {
+                "subtitle": "Guadalix de la Sierra",
+                "title": "Dúplex en alejandro rubio"
+            },
+            "hasPlan": false,
+            "has3DTour": false,
+            "has360": false,
+            "hasStaging": false,
+            "highlight": {
+                "groupDescription": "Destacado"
+            },
+            "topNewDevelopment": false,
+            "topPlus": false
+        },
+        {
+            "propertyCode": "97653830",
+            "thumbnail": "https://img4.idealista.com/blur/WEB_LISTING/0/id.pro.es.image.master/9b/87/7b/1148455449.webp",
+            "externalReference": "Lillo-294",
+            "numPhotos": 56,
+            "price": 140000.0,
+            "priceInfo": {
+                "price": {
+                    "amount": 140000.0,
+                    "currencySuffix": "?",
+                    "priceDropInfo": {
+                        "formerPrice": 156000.0,
+                        "priceDropValue": 16000,
+                        "priceDropPercentage": 10
+                    }
+                }
+            },
+            "propertyType": "chalet",
+            "operation": "sale",
+            "size": 84.0,
+            "rooms": 3,
+            "bathrooms": 2,
+            "address": "Nueva, 19",
+            "province": "Madrid",
+            "municipality": "Pozuelo del Rey",
+            "country": "es",
+            "latitude": 40.3665441,
+            "longitude": -3.3206352,
+            "showAddress": true,
+            "url": "https://www.idealista.com/inmueble/97653830/",
+            "description": "Casa de 84 m2 (2 plantas)  de 3 dormitorios + Dos baños con ventanas  + Trastero de 3 m2 Y con Piscina y Sauna comunitarias En Pozuelo del Rey  Salón independiente, muy luminoso: Con dos ventanas. Y además con Aire acondicionado con Bomba de Calor.  Cocina semi amueblada recientemente reformada y con muebles \"Forlady\" (7 m2).  3 Dormitorios + 2 baños.  3 Armarios empotrados forrados y revestidos.  1 Baño en planta baja y 1 baño en planta alta.  Suelos en gres.  Ventanas aluminio con climalit.",
+            "hasVideo": true,
+            "status": "good",
+            "newDevelopment": false,
+            "priceByArea": 1667.0,
+            "detailedType": {
+                "typology": "chalet",
+                "subTypology": "terracedHouse"
+            },
+            "suggestedTexts": {
+                "subtitle": "Pozuelo del Rey",
+                "title": "Chalet adosado en Nueva, 19"
+            },
+            "hasPlan": true,
+            "has3DTour": false,
+            "has360": true,
+            "hasStaging": false,
+            "topNewDevelopment": false,
+            "topPlus": false
+        },
+        {
+            "propertyCode": "92358709",
+            "thumbnail": "https://img4.idealista.com/blur/WEB_LISTING/0/id.pro.es.image.master/a4/43/5a/848433197.webp",
+            "externalReference": "BT05",
+            "numPhotos": 21,
+            "price": 145000.0,
+            "priceInfo": {
+                "price": {
+                    "amount": 145000.0,
+                    "currencySuffix": "?"
+                }
+            },
+            "propertyType": "chalet",
+            "operation": "sale",
+            "size": 97.0,
+            "rooms": 2,
+            "bathrooms": 2,
+            "address": "EL PARQUE",
+            "province": "Madrid",
+            "municipality": "Navalagamella",
+            "country": "es",
+            "latitude": 40.4665147,
+            "longitude": -4.1222221,
+            "showAddress": false,
+            "url": "https://www.idealista.com/inmueble/92358709/",
+            "description": "PARA INVERSORES. Precioso Chalet adosado.    En la actualidad está alquilado con una buena rentabilidad. Inquilino solvente y de confianza.    Preciosa vivienda con muchas luz. En un precioso entorno, rodeada de jardines y naturaleza, con bonitas vistas.    97 metros cuadrados divididos en dos plantas.    En planta baja bonito salón comedor con cocina americana totalmente amueblada, con encimera de piedra de cuarzo en colores calidos.  Chimenea que hace de la estancia sea un lugar calido y bonito.  Suelos de tarima en color nogal. Carpinteria de aluminio en blanco con corte termico.  Cuarto de baño con ducha en planta baja.    En primera planta dos dormitorios con armarios empotrados. Con bonitas vistas y mucha luz. Pequeña terraza en una de las habitaciones.  Cuarto de baño grande.    Radiadores electricos por toda la vivienda. Agua caliente por termo.    Si desea una visita pida una cita con BERTA GARCIA tfno.",
+            "hasVideo": false,
+            "status": "good",
+            "newDevelopment": false,
+            "priceByArea": 1495.0,
+            "detailedType": {
+                "typology": "chalet",
+                "subTypology": "terracedHouse"
+            },
+            "suggestedTexts": {
+                "subtitle": "Navalagamella",
+                "title": "Chalet adosado en El Parque"
+            },
+            "hasPlan": false,
+            "has3DTour": false,
+            "has360": false,
+            "hasStaging": false,
+            "topNewDevelopment": false,
+            "topPlus": false
+        },
+        {
+            "propertyCode": "97695567",
+            "thumbnail": "https://img4.idealista.com/blur/WEB_LISTING/0/id.pro.es.image.master/03/35/05/988440198.webp",
+            "numPhotos": 36,
+            "price": 168000.0,
+            "priceInfo": {
+                "price": {
+                    "amount": 168000.0,
+                    "currencySuffix": "?"
+                }
+            },
+            "propertyType": "chalet",
+            "operation": "sale",
+            "size": 111.0,
+            "rooms": 3,
+            "bathrooms": 1,
+            "address": "LAGUNAZOS",
+            "province": "Madrid",
+            "municipality": "Cabanillas de la Sierra",
+            "country": "es",
+            "latitude": 40.8378274,
+            "longitude": -3.6454702,
+            "showAddress": false,
+            "url": "https://www.idealista.com/inmueble/97695567/",
+            "description": "En el registro de la propiedad aparece como finca rustica, pero en el catastro aparece como finca urbana, tiene pozo y poza septica. casa en cabanilla de la sierra  tiene 10.100 metros de parcela casa con garaje de 110 metros.",
+            "hasVideo": false,
+            "status": "good",
+            "newDevelopment": false,
+            "priceByArea": 1514.0,
+            "detailedType": {
+                "typology": "chalet",
+                "subTypology": "independantHouse"
+            },
+            "suggestedTexts": {
+                "subtitle": "Cabanillas de la Sierra",
+                "title": "Casa independiente en Lagunazos"
+            },
+            "hasPlan": false,
+            "has3DTour": false,
+            "has360": false,
+            "hasStaging": false,
+            "topNewDevelopment": false,
+            "topPlus": false
+        },
+        {
+            "propertyCode": "97715805",
+            "thumbnail": "https://img4.idealista.com/blur/WEB_LISTING/0/id.pro.es.image.master/d5/87/bc/988033127.webp",
+            "externalReference": "as5358",
+            "numPhotos": 53,
+            "price": 379000.0,
+            "priceInfo": {
+                "price": {
+                    "amount": 379000.0,
+                    "currencySuffix": "?"
+                }
+            },
+            "propertyType": "chalet",
+            "operation": "sale",
+            "size": 270.0,
+            "rooms": 4,
+            "bathrooms": 2,
+            "address": "Manzanares el Real",
+            "province": "Madrid",
+            "municipality": "Manzanares el Real",
+            "country": "es",
+            "latitude": 40.7356294,
+            "longitude": -3.8609279,
+            "showAddress": false,
+            "url": "https://www.idealista.com/inmueble/97715805/",
+            "description": "A. S. GESTIÓN INMOBILIARIA vende excelente chalet independiente en la zona del Rincón de la Pedriza, junto al parque, en un entorno privilegiado. La vivienda de 270 m2 aproximados, construida en 1994, se distribuye en dos plantas comunicadas entre sí, sobre parcela ajardinada de 520 m2.  PLANTA BAJA. - (143 m2) Garaje para varios vehículos, habitación que en la actualidad se dedica a dormitorio, con armario empotrado, pero que se puede utilizar como despacho, bodega o cuarto de usos múltiples, además cuenta con un cuarto de aseo y escalera de acceso a la planta superior. PRIMERA PLANTA. - (130 m2) En esta planta se encuentra situada la vivienda, muy cómoda, en una planta: Recibidor, cocina amueblada, salón comedor con amplia y estupenda terraza acristalada, con excelente orientación sur, cuatro dormitorios dobles con armarios empotrados y cuarto de baño completo. Excelentes vistas, carpintería exterior en aluminio blanco con doble acristalamiento, suelos cerámicos en plaqueta de gres, calefacción y agua caliente por gasoil, jardín solado en parte, con gran arbolado y caseta para herramientas. ¡ Ideal como primera residencia! , con situación privilegiada, próxima al Parque Nacional, en la zona conocida como \"El Rodaje\", con vistas panorámicas de la montaña. Construcción sólida. *** En A. S. Gestión Inmobiliaria no cobramos honorarios de agencia al comprador ***.",
+            "hasVideo": false,
+            "status": "good",
+            "newDevelopment": false,
+            "parkingSpace": {
+                "hasParkingSpace": true,
+                "isParkingSpaceIncludedInPrice": true
+            },
+            "priceByArea": 1404.0,
+            "detailedType": {
+                "typology": "chalet",
+                "subTypology": "independantHouse"
+            },
+            "suggestedTexts": {
+                "subtitle": "Manzanares el Real",
+                "title": "Casa independiente"
+            },
+            "hasPlan": true,
+            "has3DTour": false,
+            "has360": true,
+            "hasStaging": false,
+            "topNewDevelopment": false,
+            "topPlus": false
+        },
+        {
+            "propertyCode": "97713811",
+            "thumbnail": "https://img4.idealista.com/blur/WEB_LISTING/0/id.pro.es.image.master/52/f5/52/987959350.webp",
+            "numPhotos": 16,
+            "floor": "bj",
+            "price": 390000.0,
+            "priceInfo": {
+                "price": {
+                    "amount": 390000.0,
+                    "currencySuffix": "?",
+                    "priceDropInfo": {
+                        "formerPrice": 410000.0,
+                        "priceDropValue": 20000,
+                        "priceDropPercentage": 5
+                    }
+                }
+            },
+            "propertyType": "duplex",
+            "operation": "sale",
+            "size": 128.0,
+            "exterior": true,
+            "rooms": 3,
+            "bathrooms": 2,
+            "address": "Santiago, 22",
+            "province": "Madrid",
+            "municipality": "Alcalá de Henares",
+            "district": "Casco Histórico",
+            "country": "es",
+            "latitude": 40.4833041,
+            "longitude": -3.3666758,
+            "showAddress": true,
+            "url": "https://www.idealista.com/inmueble/97713811/",
+            "description": "Inmobiliaria Cervantes  918 813 200  Queremos ser tu opción preferente. Vendemos vivienda en pleno Centro Histórico de la ciudad, a 5 minutos de la estación de cercanías. Distribuida en: salón, cocina amueblada con electrodomésticos y aseo, comunica a través de una escalera con la planta primera en la que se encuentran tres dormitorios y dos baños uno de ellos en suite.  Perfecto estado. Uno de los mejores lugares de Alcalá de Henares para vivir. Zona tranquila con todos los servicios. Plaza de garaje opcional 36.000. - euros.",
+            "hasVideo": false,
+            "status": "good",
+            "newDevelopment": false,
+            "hasLift": false,
+            "priceByArea": 3047.0,
+            "detailedType": {
+                "typology": "flat",
+                "subTypology": "duplex"
+            },
+            "suggestedTexts": {
+                "subtitle": "Casco Histórico, Alcalá de Henares",
+                "title": "Dúplex en Santiago, 22"
+            },
+            "hasPlan": false,
+            "has3DTour": false,
+            "has360": false,
+            "hasStaging": false,
+            "highlight": {
+                "groupDescription": "Destacado"
+            },
+            "topNewDevelopment": false,
+            "topPlus": false
+        },
+        {
+            "propertyCode": "97729056",
+            "thumbnail": "https://img4.idealista.com/blur/WEB_LISTING/0/id.pro.es.image.master/bb/67/30/988637422.webp",
+            "externalReference": "Vertiente 280.000",
+            "numPhotos": 17,
+            "floor": "bj",
+            "price": 280000.0,
+            "priceInfo": {
+                "price": {
+                    "amount": 280000.0,
+                    "currencySuffix": "?"
+                }
+            },
+            "propertyType": "studio",
+            "operation": "sale",
+            "size": 85.0,
+            "exterior": true,
+            "rooms": 0,
+            "bathrooms": 2,
+            "address": "calle de la Vertiente",
+            "province": "Madrid",
+            "municipality": "Madrid",
+            "district": "Ciudad Lineal",
+            "country": "es",
+            "neighborhood": "Ventas",
+            "latitude": 40.4279749,
+            "longitude": -3.6538977,
+            "showAddress": false,
+            "url": "https://www.idealista.com/inmueble/97729056/",
+            "description": "¡Increíble oportunidad en venta! Este moderno Loft de dos alturas, renovado en el 2020, te espera con todas las comodidades que necesitas. Con un dormitorio, dos baños y una cocina equipada con lavavajillas, frigorífico, horno, microondas y campana, este espacio es perfecto para disfrutar de la vida en pleno corazón de la ciudad. Disfruta del confort con calefacción bomba frío-calor, un acogedor patio, y una caja de seguridad para tu tranquilidad. Además, su ubicación a solo 5 minutos caminando de la estación de metro El Carmen te brinda una excelente conexión con toda la ciudad. Con 85 m² construidos y 79 m² útiles, este Loft en segunda mano se encuentra en buen estado.  No pierdas la oportunidad de adquirir este espacio único con aire acondicionado y todas las comodidades que necesitas. ¡Contáctanos para más información!",
+            "hasVideo": false,
+            "status": "good",
+            "newDevelopment": false,
+            "hasLift": false,
+            "priceByArea": 3294.0,
+            "detailedType": {
+                "typology": "flat",
+                "subTypology": "studio"
+            },
+            "suggestedTexts": {
+                "subtitle": "Ventas, Madrid",
+                "title": "Estudio en calle de la Vertiente"
+            },
+            "hasPlan": false,
+            "has3DTour": false,
+            "has360": false,
+            "hasStaging": false,
+            "topNewDevelopment": false,
+            "topPlus": false
+        },
+        {
+            "propertyCode": "97767368",
+            "thumbnail": "https://img4.idealista.com/blur/WEB_LISTING/0/id.pro.es.image.master/13/42/81/1240216329.webp",
+            "externalReference": "NM00828",
+            "numPhotos": 47,
+            "floor": "3",
+            "price": 330000.0,
+            "priceInfo": {
+                "price": {
+                    "amount": 330000.0,
+                    "currencySuffix": "?"
+                }
+            },
+            "propertyType": "flat",
+            "operation": "sale",
+            "size": 103.0,
+            "exterior": true,
+            "rooms": 3,
+            "bathrooms": 2,
+            "address": "calle Carranque, 16",
+            "province": "Madrid",
+            "municipality": "Madrid",
+            "district": "Carabanchel",
+            "country": "es",
+            "neighborhood": "Abrantes",
+            "latitude": 40.3749759,
+            "longitude": -3.7273895,
+            "showAddress": true,
+            "url": "https://www.idealista.com/inmueble/97767368/",
+            "description": "inmoversion SIN COMISIONES. No cobramos NADA al comprador. Somos la inmobiliaria online líder en la zona. ¿Sabes por qué? Es fácil de imaginar.    Vivienda situada en el DISTRITO DE CARABANCHEL, en la mejor zona de ABRANTES.  Los dueños de esta vivienda han decidido ponerla a la venta. Es una vivienda de 3 dormitorios y 2 baños. Una magnifica vivienda con plaza de garaje y zonas comunes.    Si estás buscando una vivienda en la zona es una de las mejores opciones que actualmente hay en el mercado. Si ya vives en la zona y estas buscando una vivienda más espaciosa, con más habitaciones o con más servicios, es la mejor alternativa. Características del edificio: Edificio construido en el año 2003. Promotor: REYAL Está ubicada en la planta TERCERA en una urbanización muy tranquila de tamaño Medio/Grande. El precio incluye una plaza de garaje. Características de la vivienda:  Superficie construida: 103 m2. Superficie útil: 86 m2  Lista para entrar a vivir. Totalmente exterior. Salón independiente, cocina independiente con tendedero, 3 dormitorios y 2 baños. Calefacción individual y aire acondicionado por conductos. La urbanización es abierta y cuenta con unas zonas comunes muy amplias, PISCINA comunitaria y muy soleada, ZONA INFANTIL, PISTA DE PÁDEL y 2 SALAS COMUNITARIAS. Servicio de Conserjería 24H. Opción recomendable como residencia. La vivienda se vende sin amueblar. Gastos e impuestos: el precio indicado no incluye impuestos ni gastos de escrituración.  Las características de la vivienda son meramente informativas. No tienen valor contractual.  Características de la zona:  Urbanización situada en zona tranquila, de nueva construcción y consolidada contando con todos los servicios como colegios, centro de Salud, farmacia, guarderías, supermercados (Mercadona). Está cerca del centro comercial ISLAZUL y del centro deportivo municipal FRANCISCO FERNANDEZ OCHOA.  Colindante con la Avenida de los Poblados y con el PARQUE EMPERATRIZ MARIA DE AUSTRIA. Cerca de la Escuela de Fútbol de Carabanchel y el Polideportivo Ernesto Cotorruelo. Comunicaciones: autobuses E-1 / 116 / 121 / 131 / 155, muy cerca del Metro (LINEA 11).  Fácil acceso al centro de la ciudad, M-30, A-42, M-40 y M-45.  GESTION DE VISITAS: Si consideras que esta vivienda te puede interesar y encaja con lo que buscas, te invitamos a conocerla. Para una mejor gestión te recomendamos RELLENAR EL FORMULARIO de contacto facilitando tu nombre, teléfono de contacto y disponibilidad para la visita.  Sobre nosotros:  inmoversion es una inmobiliaria online que no cobra comisiones. El vendedor sólo paga una tarifa fija y no cobramos nada al comprador. El precio de la vivienda no soporta comisiones de agencia y esta ajustado al precio de mercado. Visita inmoversion. es y conoce como trabajamos.",
+            "hasVideo": false,
+            "status": "good",
+            "newDevelopment": false,
+            "hasLift": true,
+            "parkingSpace": {
+                "hasParkingSpace": true,
+                "isParkingSpaceIncludedInPrice": true
+            },
+            "priceByArea": 3204.0,
+            "detailedType": {
+                "typology": "flat"
+            },
+            "suggestedTexts": {
+                "subtitle": "Abrantes, Madrid",
+                "title": "Piso en calle Carranque, 16"
+            },
+            "hasPlan": false,
+            "has3DTour": false,
+            "has360": false,
+            "hasStaging": false,
+            "highlight": {
+                "groupDescription": "Destacado"
+            },
+            "topNewDevelopment": false,
+            "topPlus": false
+        },
+        {
+            "propertyCode": "97768837",
+            "thumbnail": "https://img4.idealista.com/blur/WEB_LISTING/0/id.pro.es.image.master/83/a2/31/989831461.webp",
+            "externalReference": "7016",
+            "numPhotos": 53,
+            "price": 515000.0,
+            "priceInfo": {
+                "price": {
+                    "amount": 515000.0,
+                    "currencySuffix": "?"
+                }
+            },
+            "propertyType": "chalet",
+            "operation": "sale",
+            "size": 180.0,
+            "rooms": 3,
+            "bathrooms": 3,
+            "address": "Islas Cies, 17",
+            "province": "Madrid",
+            "municipality": "Galapagar",
+            "district": "La Navata",
+            "country": "es",
+            "latitude": 40.5961816,
+            "longitude": -3.9895641,
+            "showAddress": true,
+            "url": "https://www.idealista.com/inmueble/97768837/",
+            "description": "Chalet en LA NAVATA (Galapagar). Superficie de parcela: 956 m2. Ajardinada y arbolada, con caminos de piedra. Cancha de tenis.  Construido en el 1987, en dos plantas, baja y semisótano. En la planta baja se distribuye en vestíbulo de entrada con acceso al salón, terraza, cocina independiente amueblada y equipada con electrodomésticos, pasillo de distribución a los tres dormitorios y dos baños. El dormitorio principal en suite con baño incorporado.  En la planta semisótano se ubica el garaje, trastero, bodega, una sala de juegos y un baño. Hay una escalera de caracol desde el garaje que termina en el vestíbulo de la planta baja. Muy luminoso y tranquilo. Terraza con bonitas vistas.  Calidades constructivas acordes al año de construcción. Fachada de piedra y enfoscado a la tirolesa. Cubierta de pizarra.  Armarios empotrados, carpintería de madera.  Calefacción de gas propano individual con depósito externo en parcela. Buena conexión mediante transporte público con parada de autobuses interurbanos de las lineas 632, 634 y 635 a 10 minutos a pie y conexión con Cercanias de las líneas C-3a, C-8 y C10 a 15 minutos andando. Acceso a la A-6 a 8 minutos en coche. Puedes contactarme por whatsapp para visitarlo:  Alfín Asesores Inmobiliarios, agencia especializada en gestión patrimonial y comercialización de inmuebles. Más de 30 años de experiencia nos avalan, pues contamos con profesionales altamente cualificados, expertos en el mercado inmobiliario. Amplia cartera de inversores nacionales y extranjeros. Administración de patrimonios inmobiliarios. Elevada inversión publicitaria con presencia en más de 20 portales nacionales. Área de trabajo en toda la comunidad de Madrid. ¡ALFÍN su inmueble en buenas manos!",
+            "hasVideo": false,
+            "status": "good",
+            "newDevelopment": false,
+            "parkingSpace": {
+                "hasParkingSpace": true,
+                "isParkingSpaceIncludedInPrice": true
+            },
+            "priceByArea": 2861.0,
+            "detailedType": {
+                "typology": "chalet",
+                "subTypology": "independantHouse"
+            },
+            "suggestedTexts": {
+                "subtitle": "La Navata, Galapagar",
+                "title": "Casa independiente en Islas Cies, 17"
+            },
+            "hasPlan": true,
+            "has3DTour": false,
+            "has360": true,
+            "hasStaging": true,
+            "topNewDevelopment": false,
+            "topPlus": false
+        },
+        {
+            "propertyCode": "97775293",
+            "thumbnail": "https://img4.idealista.com/blur/WEB_LISTING/0/id.pro.es.image.master/9c/7f/59/990004597.webp",
+            "externalReference": "1125",
+            "numPhotos": 21,
+            "floor": "st",
+            "price": 330000.0,
+            "priceInfo": {
+                "price": {
+                    "amount": 330000.0,
+                    "currencySuffix": "?"
+                }
+            },
+            "propertyType": "flat",
+            "operation": "sale",
+            "size": 70.0,
+            "exterior": false,
+            "rooms": 3,
+            "bathrooms": 1,
+            "address": "calle del Duque de Sesto",
+            "province": "Madrid",
+            "municipality": "Madrid",
+            "district": "Barrio de Salamanca",
+            "country": "es",
+            "neighborhood": "Goya",
+            "latitude": 40.4212326,
+            "longitude": -3.6759518,
+            "showAddress": false,
+            "url": "https://www.idealista.com/inmueble/97775293/",
+            "description": "Se vende en rentabilidad. Precioso piso interior amueblado, en planta sótano y con patio de uso y disfrute. Cuenta con salón comedor, cocina independiente amueblada y equipada, tres dormitorios y un cuarto de baño. con bañera. Calefacción individual por gas natural, suelo cerámicos, pintura en liso, y ventanas climalit. Finca con portero físico. Se encuentra en una situación inmejorable en una de las mejores zonas de Madrid, a tan sólo 5 minutos del Parque El Retiro y cuenta con todo tipo de servicios como colegios, hospitales, comercios, restaurantes, Corte Inglés, Palacio de Deportes (Wizink Center) además de unas excelentes comunicaciones con metro, autobuses, taxi y un rápido y fácil acceso a la circunvalación M-30. Gestión Inmobiliaria®, especializada en la intermediación inmobiliaria, con un profundo conocimiento del sector y una amplia trayectoria profesional, le ofrece la posibilidad de encontrar solución a sus necesidades inmobiliarias pudiendo de este modo conseguir su completa satisfacción y confianza. Llámenos si necesita más información. ■ ■ ■ ■ ■ ■ ■ ■ ?C/ Duque de Sesto nº 38 - Local ? / ?.",
+            "hasVideo": true,
+            "status": "good",
+            "newDevelopment": false,
+            "hasLift": false,
+            "priceByArea": 4714.0,
+            "detailedType": {
+                "typology": "flat"
+            },
+            "suggestedTexts": {
+                "subtitle": "Goya, Madrid",
+                "title": "Piso en calle del Duque de Sesto"
+            },
+            "hasPlan": false,
+            "has3DTour": false,
+            "has360": true,
+            "hasStaging": false,
+            "topNewDevelopment": false,
+            "topPlus": false
+        },
+        {
+            "propertyCode": "97793657",
+            "thumbnail": "https://img4.idealista.com/blur/WEB_LISTING/0/id.pro.es.image.master/7e/6f/2b/1185218526.webp",
+            "externalReference": "EG5354",
+            "numPhotos": 70,
+            "price": 480000.0,
+            "priceInfo": {
+                "price": {
+                    "amount": 480000.0,
+                    "currencySuffix": "?"
+                }
+            },
+            "propertyType": "chalet",
+            "operation": "sale",
+            "size": 286.0,
+            "rooms": 5,
+            "bathrooms": 3,
+            "address": "Torres de la Alameda",
+            "province": "Madrid",
+            "municipality": "Torres de la Alameda",
+            "country": "es",
+            "latitude": 40.4023152,
+            "longitude": -3.3665011,
+            "showAddress": false,
+            "url": "https://www.idealista.com/inmueble/97793657/",
+            "description": "No encontrarás otra vivienda igual a este espectacular pareado con piscina privada en la mejor zona de Torres de la Alameda.  Se trata de un inmueble hecho a capricho, con las mejores calidades posibles.  Cuenta con sótano con cabida para tres vehículos, y puerta automática de acceso, y cuarto de caldera. con diversidad de usos además del de garaje, como taller, bodega, etc  Accedemos a la vivienda a través un porche acristalado que nos lleva a la entrada principal. Al entrar ya se percibe lo excepcional de la casa, con hueco de escalera abierto, donde se disfruta de la espectacular barandilla de madera bubinga, madera de gran calidad, resistente y muy decorativa, tallada a mano y con escalones macizos por los que accedemos tanto a plantas superiores como al sótano.   Todas las puertas son de esta misma excepcional madera.  Podremos disfrutar en esta planta baja de un gran salón independiente, una habitación, un baño con plato de ducha y una cocina recién reformada con electrodomésticos básicos y acceso a porche trasero y piscina.  En primera planta encontramos 3 habitaciones dobles con armarios empotrados y habitación en suite con soleada terraza, vestidor y baño.  En la parte superior de la vivienda y como colofón a este exclusivo inmueble, gran buhardilla ( Sin Acondicionar) con dos estupendas terrazas con vistas espectaculares una de ellas.  Las calidades de construcción son inmejorables. escaleras, puertas y armarios empotrados de la anteriormente citada madera, en pta baja, suelo cerámico estilo rústico de calidad superior y en primera planta tarima de MADERA maciza. Ventanas de Climalit dobles con cristales blindados en planta baja.  Aire Acondicionado en salón, Pintura lisa, calefacción y agua caliente por gas.  Solo te queda para terminar de enamorarte visitarla y admirar su estilo, estado impecable y sus soleados y amplios espacios.  Los metros indicados están tomados de catastro y/o registro.  En los precios de venta no están incluidos impuestos legales ni gastos de escrituración.      .",
+            "hasVideo": false,
+            "status": "good",
+            "newDevelopment": false,
+            "parkingSpace": {
+                "hasParkingSpace": true,
+                "isParkingSpaceIncludedInPrice": true
+            },
+            "priceByArea": 1678.0,
+            "detailedType": {
+                "typology": "chalet"
+            },
+            "suggestedTexts": {
+                "subtitle": "Torres de la Alameda",
+                "title": "Chalet"
+            },
+            "hasPlan": false,
+            "has3DTour": true,
+            "has360": false,
+            "hasStaging": false,
+            "topNewDevelopment": false,
+            "topPlus": false
+        },
+        {
+            "propertyCode": "97832910",
+            "thumbnail": "https://img4.idealista.com/blur/WEB_LISTING/0/id.pro.es.image.master/ba/f9/54/992052807.webp",
+            "externalReference": "OFIVENT 405",
+            "numPhotos": 19,
+            "floor": "3",
+            "price": 180000.0,
+            "priceInfo": {
+                "price": {
+                    "amount": 180000.0,
+                    "currencySuffix": "?"
+                }
+            },
+            "propertyType": "flat",
+            "operation": "sale",
+            "size": 65.0,
+            "exterior": true,
+            "rooms": 2,
+            "bathrooms": 1,
+            "address": "travesía Dos de Mayo",
+            "province": "Madrid",
+            "municipality": "Móstoles",
+            "district": "Centro",
+            "country": "es",
+            "latitude": 40.3209974,
+            "longitude": -3.8676384,
+            "showAddress": false,
+            "url": "https://www.idealista.com/inmueble/97832910/",
+            "description": "ARANKEY REAL ESTATE S. L. U VENDE: Arankey servicios Inmobiliarios vende piso de 2 dormitorios. Se trata de una tercera planta con ascensor. El inmueble consta de 2 dormitorios con armarios empotrados, 1 cuarto de baño completo, salón-comedor con cocina independiente. Calefacción central.  L a vivienda se encuentra situada en el centro de Móstoles  En Arankey trabajamos para ofrecer a nuestros clientes los mejores inmuebles, con equipos especializados en cada zona para proporcionarles la mejor opción a su necesidad, con todas las excelencias y cuidado al máximo de los detalles. ¡ NO DUDE EN INFORMARSE SIN COMPROMISO!",
+            "hasVideo": false,
+            "status": "good",
+            "newDevelopment": false,
+            "hasLift": true,
+            "priceByArea": 2769.0,
+            "detailedType": {
+                "typology": "flat"
+            },
+            "suggestedTexts": {
+                "subtitle": "Centro, Móstoles",
+                "title": "Piso en travesía Dos de Mayo"
+            },
+            "hasPlan": false,
+            "has3DTour": false,
+            "has360": false,
+            "hasStaging": false,
+            "highlight": {
+                "groupDescription": "Destacado"
+            },
+            "topNewDevelopment": false,
+            "topPlus": false
+        },
+        {
+            "propertyCode": "97841715",
+            "thumbnail": "https://img4.idealista.com/blur/WEB_LISTING/0/id.pro.es.image.master/e8/d8/4c/992346753.webp",
+            "numPhotos": 22,
+            "price": 219000.0,
+            "priceInfo": {
+                "price": {
+                    "amount": 219000.0,
+                    "currencySuffix": "?"
+                }
+            },
+            "propertyType": "chalet",
+            "operation": "sale",
+            "size": 230.0,
+            "rooms": 6,
+            "bathrooms": 2,
+            "address": "santo tomas, 14",
+            "province": "Madrid",
+            "municipality": "Lozoya",
+            "country": "es",
+            "latitude": 40.9511441,
+            "longitude": -3.7929059,
+            "showAddress": true,
+            "url": "https://www.idealista.com/inmueble/97841715/",
+            "description": "Gestión Navacerrada pone a la venta esta estupenda casa en Lozoya. Este precioso municipio está a 85 kms. de Madrid y cuenta con el Río Lozoya. La casa está ubicada en el centro del pueblo. Aunque su construcción es del año 1.940, la vivienda fue reformada en su totalidad en 1.974. Sus 230 m2 construidos están repartidos en dos viviendas independientes, una cámara o desván a medio hacer, y un cuarto trastero. La casa en planta baja consta de salón comedor, tres dormitorios con armarios empotrados, baño con plato de ducha, cocina equipada y despensa. Toda la planta tiene radiadores eléctricos. La vivienda superior se distribuye en salón comedor, otros tres dormitorios, baño coon bañera, cocina equipada y despensa. En esta vivienda hay estufa de leña. La última planta está tabicada pero no terminada, por lo que las posibilidades son inmensas. Tiene también un cuarto trastero diáfano. Está aprobado el proyecto de levantar si se quiere esta planta. Orientación Sur. La casa, dada la ubicación, los metros que tiene, y el paraje donde se encuentra, tiene multitud de posibilidades, ya sea para negocio rural o vivienda.",
+            "hasVideo": false,
+            "status": "good",
+            "newDevelopment": false,
+            "priceByArea": 952.0,
+            "detailedType": {
+                "typology": "chalet",
+                "subTypology": "independantHouse"
+            },
+            "suggestedTexts": {
+                "subtitle": "Lozoya",
+                "title": "Casa independiente en santo tomas, 14"
+            },
+            "hasPlan": false,
+            "has3DTour": false,
+            "has360": false,
+            "hasStaging": false,
+            "topNewDevelopment": false,
+            "topPlus": false
+        },
+        {
+            "propertyCode": "97849175",
+            "thumbnail": "https://img4.idealista.com/blur/WEB_LISTING/0/id.pro.es.image.master/2e/4e/4d/992570628.webp",
+            "externalReference": "06263",
+            "numPhotos": 29,
+            "price": 184000.0,
+            "priceInfo": {
+                "price": {
+                    "amount": 184000.0,
+                    "currencySuffix": "?"
+                }
+            },
+            "propertyType": "chalet",
+            "operation": "sale",
+            "size": 194.0,
+            "rooms": 3,
+            "bathrooms": 2,
+            "address": "camino de la Ermita",
+            "province": "Madrid",
+            "municipality": "Robledo de Chavela",
+            "country": "es",
+            "latitude": 40.4928056,
+            "longitude": -4.2407572,
+            "showAddress": false,
+            "url": "https://www.idealista.com/inmueble/97849175/",
+            "description": "Estupendo adosado, muy luminoso, para entrar a vivir Amplio salón comedor con chimenea, tres dormitorios, dos baños, espaciosa cocina que da pasa a una zona de jardín en la parte trasera de la casa Enorme garaje con zona de almacén A un paso de todos los servicios: autobuses, supermercados, ambulatorio, parques, etc Ideal para los amantes de la tranquilidad.",
+            "hasVideo": false,
+            "status": "good",
+            "newDevelopment": false,
+            "parkingSpace": {
+                "hasParkingSpace": true,
+                "isParkingSpaceIncludedInPrice": true
+            },
+            "priceByArea": 948.0,
+            "detailedType": {
+                "typology": "chalet",
+                "subTypology": "terracedHouse"
+            },
+            "suggestedTexts": {
+                "subtitle": "Robledo de Chavela",
+                "title": "Chalet adosado en camino de la Ermita"
+            },
+            "hasPlan": true,
+            "has3DTour": false,
+            "has360": true,
+            "hasStaging": false,
+            "highlight": {
+                "groupDescription": "Destacado"
+            },
+            "topNewDevelopment": false,
+            "topPlus": false
+        },
+        {
+            "propertyCode": "97849744",
+            "thumbnail": "https://img4.idealista.com/blur/WEB_LISTING/0/id.pro.es.image.master/19/e3/5d/780005290.webp",
+            "externalReference": "3 Bj B",
+            "numPhotos": 28,
+            "floor": "bj",
+            "price": 349900.0,
+            "priceInfo": {
+                "price": {
+                    "amount": 349900.0,
+                    "currencySuffix": "?"
+                }
+            },
+            "propertyType": "flat",
+            "operation": "sale",
+            "size": 115.0,
+            "exterior": true,
+            "rooms": 3,
+            "bathrooms": 2,
+            "address": "calle de Fernando VI, 12",
+            "province": "Madrid",
+            "municipality": "Valdemoro",
+            "district": "Zona Estación",
+            "country": "es",
+            "latitude": 40.19642,
+            "longitude": -3.67297,
+            "showAddress": true,
+            "url": "https://www.idealista.com/obra-nueva/97849744/",
+            "description": "¡SÓLO ÁTICOS Y BAJOS CON JARDÍN! Espectacular complejo residencial de viviendas ubicado en una urbanización cerrada, dotado de grandes zonas comunitarias con numerosos servicios y con una estética exterior única. Con sistema de ahorro energético de AEROTERMIA centralizada para la producción de agua caliente sanitaria. OBRA EN EJECUCIÓN. Fecha prevista de entrega: junio 2024. La promoción consta de 97 viviendas, de 2, 3 ó 4 dormitorios, distribuidas en tres edificios en los que la mayoría de las viviendas dispondrán de varias orientaciones, lo que les otorgará una gran luminosidad. Todas las viviendas a la venta disponen de dos plazas de aparcamiento y trastero. MAGNÍFICOS ÁTICOS DE 2 DORMITORIOS CON AMPLIAS TERRAZAS DE 60M2 Estos áticos están dotados de aire acondicionado frío/calor, motorización de persianas y sistema domótico. ESPECTACULARES BAJOS DE 3 Y 4 DORMITORIOS CON JARDINES DE MÁS DE 100M2 VIVIENDAS FAMILIARES RODEADAS DE JARDINES Y ZONAS INFANTILES Una promoción residencial ideal para familias. Amplias zonas privativas ajardinadas dotadas con instalación de WIFI, piscina comunitaria con solárium, pista de pádel, zona infantil y sala social gourmet destinada al uso comunitario acondicionada con mobiliario de cocina, frigorífico, microondas y fregadero. Conserjería y Seguridad 24h mediante circuito cerrado de TV. VIVIR EN VALDEMORO-ESTACIÓN CON TODAS LAS COMODIDADES Situada a tan sólo 5 minutos caminado del centro de Valdemoro y la Estación de Cercanías, con todos los servicios al alcance de la mano. Perfecta comunicación con el centro de Madrid, a tan sólo 20 minutos de Atocha Renfe, servicios, ocio y un emplazamiento ideal para los amantes de la tranquilidad que aporta el contacto con la vida al aire libre.",
+            "hasVideo": true,
+            "status": "newdevelopment",
+            "newDevelopment": true,
+            "hasLift": true,
+            "parkingSpace": {
+                "hasParkingSpace": true,
+                "isParkingSpaceIncludedInPrice": true
+            },
+            "newDevelopmentFinished": false,
+            "priceByArea": 3043.0,
+            "detailedType": {
+                "typology": "flat"
+            },
+            "suggestedTexts": {
+                "subtitle": "Zona Estación, Valdemoro",
+                "title": "Piso en calle de Fernando Vi, 12"
+            },
+            "hasPlan": true,
+            "has3DTour": false,
+            "has360": false,
+            "hasStaging": false,
+            "topNewDevelopment": false,
+            "topPlus": false
+        },
+        {
+            "propertyCode": "97821211",
+            "thumbnail": "https://img4.idealista.com/blur/WEB_LISTING/0/id.pro.es.image.master/5a/52/4c/991730211.webp",
+            "externalReference": "0015-06314",
+            "numPhotos": 59,
+            "floor": "bj",
+            "price": 384900.0,
+            "priceInfo": {
+                "price": {
+                    "amount": 384900.0,
+                    "currencySuffix": "?"
+                }
+            },
+            "propertyType": "duplex",
+            "operation": "sale",
+            "size": 86.0,
+            "exterior": true,
+            "rooms": 0,
+            "bathrooms": 2,
+            "address": "calle de los Peñascales",
+            "province": "Madrid",
+            "municipality": "Madrid",
+            "district": "Barrio de Salamanca",
+            "country": "es",
+            "neighborhood": "Fuente del Berro",
+            "latitude": 40.4236098,
+            "longitude": -3.6664544,
+            "showAddress": false,
+            "url": "https://www.idealista.com/inmueble/97821211/",
+            "description": "Os presentamos este espectacular loft distribuido en dos plantas. Esta peculiar vivienda, con dos habitaciones y dos cuartos de baño, se convierte por su singularidad y ubicación en una oportunidad de inversión excelente, su entrada independiente desde la calle y su proximidad a enclaves turísticos como el Wizink Center, la Casa de la Moneda y Timbre.. . la hacen ideal para explotarla como vivienda de uso turístico. El Loft cuenta con un amplio salón y una cocina totalmente equipada, dos cuartos de baño, un trastero y un maletero de obra. Dispone de aire acondicionado y amplios armarios. Sus grandes ventanales y sus espacios abiertos le hacen ser muy luminoso. No lo pienses más y llámanos para organizar una visita.",
+            "hasVideo": true,
+            "status": "good",
+            "newDevelopment": false,
+            "hasLift": true,
+            "priceByArea": 4476.0,
+            "detailedType": {
+                "typology": "flat",
+                "subTypology": "duplex"
+            },
+            "suggestedTexts": {
+                "subtitle": "Fuente del Berro, Madrid",
+                "title": "Dúplex en calle de los Peñascales"
+            },
+            "hasPlan": false,
+            "has3DTour": false,
+            "has360": false,
+            "hasStaging": false,
+            "topNewDevelopment": false,
+            "topPlus": false
+        },
+        {
+            "propertyCode": "97851653",
+            "thumbnail": "https://img4.idealista.com/blur/WEB_LISTING/0/id.pro.es.image.master/c3/a1/59/1207215723.webp",
+            "externalReference": "540",
+            "numPhotos": 122,
+            "price": 395000.0,
+            "priceInfo": {
+                "price": {
+                    "amount": 395000.0,
+                    "currencySuffix": "?"
+                }
+            },
+            "propertyType": "chalet",
+            "operation": "sale",
+            "size": 275.0,
+            "rooms": 5,
+            "bathrooms": 2,
+            "address": "El Berrueco",
+            "province": "Madrid",
+            "municipality": "El Berrueco",
+            "country": "es",
+            "latitude": 40.88337,
+            "longitude": -3.5864133,
+            "showAddress": false,
+            "url": "https://www.idealista.com/inmueble/97851653/",
+            "description": "NOVOCASA10 Vende precioso chalet independiente en un entorno natural espectacular cerca del Embalse del Atazar, en parcela de 1.976 m2 con mucho encanto y diferentes rincones que hacen de ella un lugar muy agradable y especial. El Chalet cuenta con 275 m2 en 2 plantas con 2 viviendas, las cuales no se comunican entre ellas y tienen entradas independientes. la casa se abastece del agua de 2 pozos legalizados. La calefaccion es por termochimenea de leña en combinación con caldera de gasoil, cuenta con un termostato inalámbrico y calienta las 2 plantas de la casa. Cuenta con fibra óptica. Distribuidas de la siguiente manera;  -Planta Superior: Gran salón comedor con mucha luz, 3 habitaciones, baño y cocina amplia con espacio para mesa de desayuno, buena despensa almacenaje, salida trasera al jardín y acceso fácil a la leñera. -Planta Baja: cocina, 2 habitaciones (la del fondo tiene el techo algo más bajo), salón, sala estancia, aseo con ducha, bodega almacén y porche con arcos para chill out. La parcela tiene varios y diferentes rincones muy especiales que te invitan al relax disfrute y conexión. Especialmente la zona de baño que paso de ser una piscina convencional a convertirse en un gran estanque con plantas oxigenantes, nenúfares, rodeado de bambús que dan la bienvenida a un ambiente de biodiversidad espectacular desde donde poder disfrutar de las diferentes especies de la siguiente arboleda: abetos siberianos, enebros, un madroño y pinos altos que generan espacios de sombra muy agradables. En la parte baja de la parcela, hay una huerta y una pérgola de estructura de madera cubierta de 17 m2 para hacer yoga o cualquier actividad con vistas al amanecer y al campo. También tiene un horno de barro de leña, barbacoa con estanterías de obra y una pila de agua. Hay una mesa artística de obra para las reuniones numerosas de familiares o de amigos bajo los pinos. Tiene también un espacio cubierto que hace las veces de garaje y almacén, en el que caben 2 coches, moto y bicicletas. También tiene una caseta de aperos de unos 10 m2, y un gallinero (ahora en desuso). Hay muchos rincones donde disfrutar en función de las horas del día.  La entrada a la finca es a través de una puerta corredera automática con mando a distancia La finca está ubicada frente al Pico de la Miel, zona donde, sin ningún desplazamiento, se puede disfrutar de paseos para hacer tracking o bike. A 4 minutos en coche del pantano de El Atazar y 15 andando. Para quien le guste la naturaleza es un lugar mágico. Para ver más inmuebles visite la oficina virtual o nuestra página web.",
+            "hasVideo": false,
+            "status": "good",
+            "newDevelopment": false,
+            "parkingSpace": {
+                "hasParkingSpace": true,
+                "isParkingSpaceIncludedInPrice": true
+            },
+            "priceByArea": 1436.0,
+            "detailedType": {
+                "typology": "chalet",
+                "subTypology": "independantHouse"
+            },
+            "suggestedTexts": {
+                "subtitle": "El Berrueco",
+                "title": "Casa independiente"
+            },
+            "hasPlan": true,
+            "has3DTour": false,
+            "has360": true,
+            "hasStaging": false,
+            "highlight": {
+                "groupDescription": "Destacado"
+            },
+            "topNewDevelopment": false,
+            "topPlus": false
+        },
+        {
+            "propertyCode": "97912790",
+            "thumbnail": "https://img4.idealista.com/blur/WEB_LISTING/0/id.pro.es.image.master/5c/d0/09/994771868.webp",
+            "externalReference": "1030",
+            "numPhotos": 27,
+            "floor": "3",
+            "price": 360000.0,
+            "priceInfo": {
+                "price": {
+                    "amount": 360000.0,
+                    "currencySuffix": "?"
+                }
+            },
+            "propertyType": "flat",
+            "operation": "sale",
+            "size": 47.0,
+            "exterior": false,
+            "rooms": 2,
+            "bathrooms": 1,
+            "address": "calle de Ibiza",
+            "province": "Madrid",
+            "municipality": "Madrid",
+            "district": "Retiro",
+            "country": "es",
+            "neighborhood": "Ibiza",
+            "latitude": 40.4169355,
+            "longitude": -3.6766843,
+            "showAddress": false,
+            "url": "https://www.idealista.com/inmueble/97912790/",
+            "description": "OPORTUNIDAD! Piso en excelente estado, interior, con muy buena distribución y amueblado, con una superficie de 47 m² construidos de los cuales son útiles 44 m². Cuenta con hall recibidor con armario de cortesía, salón comedor, cocina americana amueblada y equipada. Dos dormitorio dobles con armarios empotrados y baño con plato de ducha. Calefacción Eléctrica Individual, Aire Acondicionado, suelos de gres, pintado en liso, ventanas climalit con doble acristalamiento y techos altos. Finca con ascensor. Se encuentra en una de las mejores zonas de Madrid, a un paso del Parque El Retiro y cuenta con todo tipo de servicios como colegios, hospitales, comercios, restaurantes, Corte Inglés, Palacio de Deportes (Wizink Center) además de unas excelentes comunicaciones con metro, autobuses, taxi y un rápido y fácil acceso a la circunvalación M-30. Gestión Inmobiliaria®, especializada en la intermediación inmobiliaria, con un profundo conocimiento del sector y una amplia trayectoria profesional, le ofrece la posibilidad de encontrar solución a sus necesidades inmobiliarias pudiendo de este modo conseguir su completa satisfacción y confianza. Llámenos si necesita más información. ■ ■ ■ ■ ■ ■ ■ ■ ?C/ Duque de Sesto nº 38 - Local ? / ?.",
+            "hasVideo": true,
+            "status": "good",
+            "newDevelopment": false,
+            "hasLift": true,
+            "priceByArea": 7660.0,
+            "detailedType": {
+                "typology": "flat"
+            },
+            "suggestedTexts": {
+                "subtitle": "Ibiza, Madrid",
+                "title": "Piso en calle de Ibiza"
+            },
+            "hasPlan": false,
+            "has3DTour": false,
+            "has360": false,
+            "hasStaging": false,
+            "topNewDevelopment": false,
+            "topPlus": false
+        },
+        {
+            "propertyCode": "97925345",
+            "thumbnail": "https://img4.idealista.com/blur/WEB_LISTING/0/id.pro.es.image.master/1f/5f/e8/1249551304.webp",
+            "externalReference": "CR1417",
+            "numPhotos": 43,
+            "floor": "5",
+            "price": 315000.0,
+            "priceInfo": {
+                "price": {
+                    "amount": 315000.0,
+                    "currencySuffix": "?"
+                }
+            },
+            "propertyType": "flat",
+            "operation": "sale",
+            "size": 140.0,
+            "exterior": true,
+            "rooms": 4,
+            "bathrooms": 2,
+            "address": "avenida Juan de Austria",
+            "province": "Madrid",
+            "municipality": "Alcalá de Henares",
+            "district": "Juan de Austria",
+            "country": "es",
+            "latitude": 40.4855474,
+            "longitude": -3.3564069,
+            "showAddress": false,
+            "url": "https://www.idealista.com/inmueble/97925345/",
+            "description": "¿Buscas una vivienda MUY LUMINOSA? Tenemos este piso ubicado en una 5ªplanta, completamente de esquina. ¿Te gustaría vivir cerca del centro de Alcalá de Henares? Aprovecha la oportunidad, este piso está ubicado en la Avenida Juan de Austria, a tan solo 10 minutos caminando del centro. Dispone de una amplia plaza de garaje incluida en el precio. Se distribuye en 4 dormitorios amplios, un gran salón independiente de mas de 30m2 con salida a una terraza grande que se comunica con la cocina que esta totalmente equipada, dispone de 2 baños, el grande completo y un aseo.  La zona dispone de todos los servicios necesarios como supermercados, restaurantes, colegios, institutos, farmacias, etc.. . Visítelo sin ningún compromiso, le gustará. Precio final sin aumento de honorarios de agencia. ¡SOLICITE MÁS INFORMACIÓN SIN NINGÚN COMPROMISO! En los precios de venta no están incluidos impuestos legales ni gastos de escrituración.",
+            "hasVideo": false,
+            "status": "good",
+            "newDevelopment": false,
+            "hasLift": true,
+            "parkingSpace": {
+                "hasParkingSpace": true,
+                "isParkingSpaceIncludedInPrice": true
+            },
+            "priceByArea": 2250.0,
+            "detailedType": {
+                "typology": "flat"
+            },
+            "suggestedTexts": {
+                "subtitle": "Juan de Austria, Alcalá de Henares",
+                "title": "Piso en avenida Juan de Austria"
+            },
+            "hasPlan": false,
+            "has3DTour": false,
+            "has360": false,
+            "hasStaging": false,
+            "topNewDevelopment": false,
+            "topPlus": false
+        },
+        {
+            "propertyCode": "97928185",
+            "thumbnail": "https://img4.idealista.com/blur/WEB_LISTING/0/id.pro.es.image.master/86/4f/79/1078829641.webp",
+            "externalReference": "02906",
+            "numPhotos": 33,
+            "floor": "3",
+            "price": 520000.0,
+            "priceInfo": {
+                "price": {
+                    "amount": 520000.0,
+                    "currencySuffix": "?"
+                }
+            },
+            "propertyType": "duplex",
+            "operation": "sale",
+            "size": 200.0,
+            "exterior": true,
+            "rooms": 3,
+            "bathrooms": 2,
+            "address": "Casco Antiguo",
+            "province": "Madrid",
+            "municipality": "Majadahonda",
+            "district": "Casco Antiguo",
+            "country": "es",
+            "latitude": 40.4741896,
+            "longitude": -3.8697293,
+            "showAddress": false,
+            "url": "https://www.idealista.com/inmueble/97928185/",
+            "description": "Espléndido ático dúplex en plena Avenida de España de Majadahonda. Ubicado en un lugar céntrico para acceder a todas partes andando y disfrutar de todo lo que esta preciosa ciudad nos ofrece, y al mismo tiempo tranquilo y relativamente apartado para preservar la paz del hogar. ESTA PROPIEDAD ES ESPECIAL PORQUE: Se ha personalizado con gran estilo utilizando preciosas maderas que dan carácter a un amplísimo y confortable salón. La escalera, más ancha que la que había inicialmente, resulta cómoda y accesible, al mismo tiempo que bella. La luz que entra a través de sus múltiples ventanas con distintas orientaciones inunda las estancias aportando alegría. ADEMÁS ES DESTACABLE: La vivienda se localiza en una posición estratégica de Majadahonda, ofreciendo acceso peatonal a parques, comercios, cafeterías, gimnasios y actividades deportivas y culturales, parroquias, bonitos jardines.. . Además tiene prácticamente en la puerta paradas de bus para desplazarse cómodamente a todas las urbes de alrededor. ES IMPORTANTE SABER QUE: Se han reformado algunos aspectos de los planos iniciales, entregándose, por ejemplo, la terraza al salón y dando mayor amplitud a la escalera de acceso a la planta alta.  COMUNICACION, SERVICIOS, OCIO: La red de comunicaciones es accesible y estupenda hacia todos los destinos tanto en transporte público como privado: Madrid, A6, Pozuelo, Las Rozas, M40, M503, Sierra, etc.",
+            "hasVideo": false,
+            "status": "good",
+            "newDevelopment": false,
+            "hasLift": true,
+            "priceByArea": 2600.0,
+            "detailedType": {
+                "typology": "flat",
+                "subTypology": "duplex"
+            },
+            "suggestedTexts": {
+                "subtitle": "Casco Antiguo, Majadahonda",
+                "title": "Dúplex"
+            },
+            "hasPlan": false,
+            "has3DTour": false,
+            "has360": false,
+            "hasStaging": false,
+            "topNewDevelopment": false,
+            "topPlus": false
+        },
+        {
+            "propertyCode": "97943176",
+            "thumbnail": "https://img4.idealista.com/blur/WEB_LISTING/0/id.pro.es.image.master/49/38/e1/995766236.webp",
+            "externalReference": "M-29291",
+            "numPhotos": 14,
+            "floor": "2",
+            "price": 140000.0,
+            "priceInfo": {
+                "price": {
+                    "amount": 140000.0,
+                    "currencySuffix": "?"
+                }
+            },
+            "propertyType": "flat",
+            "operation": "sale",
+            "size": 60.0,
+            "exterior": true,
+            "rooms": 3,
+            "bathrooms": 1,
+            "address": "calle Deportistas",
+            "province": "Madrid",
+            "municipality": "Madrid",
+            "district": "San Blas",
+            "country": "es",
+            "neighborhood": "Hellín",
+            "latitude": 40.4286412,
+            "longitude": -3.6170011,
+            "showAddress": false,
+            "url": "https://www.idealista.com/inmueble/97943176/",
+            "description": "INMOALBERCHE VENDE Segunda planta con mucha luz  Piso para reformar muy luminoso de unos 60 m2 distribuidos en 3 habitaciones, salón, cocina y baño Zona muy tranquila y en muy buena ubicación, metro (Simancas a 2 minutos andando), autobús, zonas verdes, escuela de idiomas, colegios institutos, comercios, centro de salud, y muy cerca del C. C Las Rozas. Fácil acceso a M30, M40, aeropuerto, plenilunio No dudes en visitarlo!",
+            "hasVideo": false,
+            "status": "good",
+            "newDevelopment": false,
+            "hasLift": false,
+            "priceByArea": 2333.0,
+            "detailedType": {
+                "typology": "flat"
+            },
+            "suggestedTexts": {
+                "subtitle": "Hellín, Madrid",
+                "title": "Piso en calle Deportistas"
+            },
+            "hasPlan": false,
+            "has3DTour": false,
+            "has360": false,
+            "hasStaging": false,
+            "topNewDevelopment": false,
+            "topPlus": false
+        },
+        {
+            "propertyCode": "97820243",
+            "thumbnail": "https://img4.idealista.com/blur/WEB_LISTING/0/id.pro.es.image.master/b6/e0/c6/1092680422.webp",
+            "externalReference": "APA_43",
+            "numPhotos": 31,
+            "price": 540000.0,
+            "priceInfo": {
+                "price": {
+                    "amount": 540000.0,
+                    "currencySuffix": "?"
+                }
+            },
+            "propertyType": "chalet",
+            "operation": "sale",
+            "size": 295.0,
+            "rooms": 5,
+            "bathrooms": 4,
+            "address": "calle Monasterio de Irache, 33",
+            "province": "Madrid",
+            "municipality": "Villanueva de la Cañada",
+            "district": "Villanueva de la Cañada",
+            "country": "es",
+            "latitude": 40.4506701,
+            "longitude": -3.9992436,
+            "showAddress": true,
+            "url": "https://www.idealista.com/inmueble/97820243/",
+            "description": "Barchán inmobiliaria, vende chalet pareado acogedor y luminoso en una zona muy céntrica de Villanueva de la Cañada. La vivienda se vende recién reformada. La casa tiene cuatro plantas distribuidas de la siguiente forma.  Planta principal, nos encontramos con la cocina totalmente equipada nueva muy luminosa, baño completo con ducha, armario empotrado y un gran salón-comedor con chimenea donde poder crear diferentes ambientes, desde el mismo salimos a un porche que da acceso al jardín privado.  En la planta primera nos encontramos 4 dormitorios todos con armarios empotrados grandes ventanales y uno de ellos con baño en suite y balcón, más otro baño que comparten los otros tres dormitorios. Buhardilla muy acogedora diáfana. La planta sótano alberga salón multifuncional con ventana, trastero, un baño completo y garaje para tres coches con mando automático.  Calefacción individual por radiadores de gas natural.  Perfecta para entrar a vivir, recién pintada se pusieron nuevos aparatos de Aire acondicionado en toda la casa   La situación de la vivienda es muy buena cerca de paradas de autobús, comercio, carril bici.  Llámanos y estaremos encantados de ampliarte información  AYUDA EN LA FINANCIACION! Villanueva de la Cañada se ha convertido en los últimos años en uno de los municipios más cosmopolitas de la zona gracias a la presencia en su término municipal de varios colegios de gran prestigio como el colegio Kolbe y sus dos universidades reconocidas a nivel internacional. Es habitual escuchar varios idiomas diferentes al pasear por sus calles. El Club de Golf la Dehesa hará que disfruten los amantes de este deporte. El núcleo urbano cuenta con una amplísima oferta comercial y gastronómica, así como farmacias y escuelas deportivas, escuelas de música y múltiples academias. Varios centros hípicos como por ejemplo es el centro de hípica Green Bay expertos en Horseboll entre otras disciplinas, contribuyen a completar la oferta de ocio de este municipio. No podemos olvidar que Villanueva de la Cañada ha sido declarada espacio libre de vuelo por lo que es habitual contemplar avionetas, globos y demás sobrevolando los cielos. Dos carreteras principales conectan en pocos minutos el municipio con Majadahonda, Las Rozas o Moncloa. Al encontrarse ubicado en una llanura es muy habitual el uso de bicicletas siendo muy común ver.",
+            "hasVideo": false,
+            "status": "good",
+            "newDevelopment": false,
+            "parkingSpace": {
+                "hasParkingSpace": true,
+                "isParkingSpaceIncludedInPrice": true
+            },
+            "priceByArea": 1831.0,
+            "detailedType": {
+                "typology": "chalet",
+                "subTypology": "semidetachedHouse"
+            },
+            "suggestedTexts": {
+                "subtitle": "Villanueva de la Cañada, Villanueva de la Cañada",
+                "title": "Chalet pareado en calle Monasterio de Irache, 33"
+            },
+            "hasPlan": false,
+            "has3DTour": false,
+            "has360": false,
+            "hasStaging": false,
+            "topNewDevelopment": false,
+            "topPlus": false
+        },
+        {
+            "propertyCode": "94503806",
+            "thumbnail": "https://img4.idealista.com/blur/WEB_LISTING/0/id.pro.es.image.master/89/40/db/1121434716.webp",
+            "numPhotos": 2,
+            "floor": "1",
+            "price": 210000.0,
+            "priceInfo": {
+                "price": {
+                    "amount": 210000.0,
+                    "currencySuffix": "?"
+                }
+            },
+            "propertyType": "flat",
+            "operation": "sale",
+            "size": 60.0,
+            "exterior": true,
+            "rooms": 1,
+            "bathrooms": 1,
+            "address": "Torote",
+            "province": "Madrid",
+            "municipality": "Soto del Real",
+            "country": "es",
+            "latitude": 40.750408,
+            "longitude": -3.7889731,
+            "showAddress": false,
+            "url": "https://www.idealista.com/inmueble/94503806/",
+            "description": "Chaflán vende a precio negociable, un estupendo piso primero en edificio con ascensor, luminoso, doble ventana tipo climalit, excelente calidad constructiva, en el centro del pueblo, con todos los servicios a mano, centro médico, supermercados. colegios, institutos, escuelas infantiles, residencias de ancianos, variedad en restauración. Muy respetuosos con la naturaleza en el presente y futuro, consta de un dormitorio con armario empotrado, baño y aseo, salón-comedor- cocina americana y 2 balcones a pie de salón y en el dormitorio.   Soto, esta muy bien comunicado, y a solo 40 km de Madrid, a 11 km de Colmenar Viejo y próxima a otras poblaciones como son Manzanares el Real, Guadalix de la Sierra y Miraflores de la Sierra. Soto del Real es una población de 9000 habitantes y se encuentra en un entorno natural privilegiado de la sierra de Madrid, la tercera parte de su superficie está dentro del Parque Regional de la Cuenca Alta del Manzanares. La ubicación de Soto del Real es ideal para disfrutar de la naturaleza y múltiples actividades al aire libre. Puede que te planteas, tener una vida mas tranquila y saludable, aprovecha esta oportunidad!",
+            "hasVideo": false,
+            "status": "good",
+            "newDevelopment": false,
+            "hasLift": true,
+            "priceByArea": 3500.0,
+            "detailedType": {
+                "typology": "flat"
+            },
+            "suggestedTexts": {
+                "subtitle": "Soto del Real",
+                "title": "Piso en Torote"
+            },
+            "hasPlan": true,
+            "has3DTour": false,
+            "has360": false,
+            "hasStaging": false,
+            "topNewDevelopment": false,
+            "topPlus": false
+        },
+        {
+            "propertyCode": "97961894",
+            "thumbnail": "https://img4.idealista.com/blur/WEB_LISTING/0/id.pro.es.image.master/28/62/04/1151993649.webp",
+            "externalReference": "240-C",
+            "numPhotos": 22,
+            "price": 460000.0,
+            "priceInfo": {
+                "price": {
+                    "amount": 460000.0,
+                    "currencySuffix": "?"
+                }
+            },
+            "propertyType": "chalet",
+            "operation": "sale",
+            "size": 90.0,
+            "rooms": 2,
+            "bathrooms": 2,
+            "address": "Colonia de las Puertas Verdes",
+            "province": "Madrid",
+            "municipality": "Ciudalcampo",
+            "country": "es",
+            "latitude": 40.6221079,
+            "longitude": -3.5920731,
+            "showAddress": false,
+            "url": "https://www.idealista.com/inmueble/97961894/",
+            "description": "ABETO COCHES & CASAS - Estupendo chalet adosado completamente reformado en la urbanización Puertas verdes, con magnífica ubicación muy cercana al control de seguridad a la entrada de la urbanización Ciudalcampo, y junto al colegio SEK. Dispone de un amplio jardín de unos 70m2 con riego automático y barbacoa. La vivienda con cómoda distribución en una sola planta cuenta con salón comedor con chimenea, cocina con despensa, dos dormitorios con dos baños de los cuales el dormitorio principal en suite, cuarto exterior independiente a la vivienda ideal como zona de lavandería, trastero con puerta automática y toldo.  Urbanización con magníficas zonas comunes, piscina comunitaria, pista de tenis, zona infantil ABETO COCHES & CASAS - VEN A VERNOS A NUESTRA OFICINA EN EL CENTRO COMERCIAL SANTO DOMINGO -.",
+            "hasVideo": false,
+            "status": "good",
+            "newDevelopment": false,
+            "priceByArea": 5111.0,
+            "detailedType": {
+                "typology": "chalet",
+                "subTypology": "terracedHouse"
+            },
+            "suggestedTexts": {
+                "subtitle": "Ciudalcampo",
+                "title": "Chalet adosado en Colonia de las Puertas Verdes"
+            },
+            "hasPlan": false,
+            "has3DTour": false,
+            "has360": false,
+            "hasStaging": false,
+            "topNewDevelopment": false,
+            "topPlus": false
+        }
+    ],
+    "total": 16370,
+    "totalPages": 328,
+    "actualPage": 5,
+    "itemsPerPage": 50,
+    "numPaginations": 0,
+    "summary": [
+        "Comprar",
+        "Viviendas",
+        "Madrid provincia",
+        "De menos de 600.000 euros",
+        "Todos los tamaños"
+    ],
+    "filter": {
+        "locationName": "Madrid"
+    },
+    "alertName": "Viviendas en Madrid",
+    "totalAppliedFilters": 1,
+    "lowerRangePosition": 200,
+    "upperRangePosition": 250,
+    "paginable": true
+}
